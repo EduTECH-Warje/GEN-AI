@@ -1,0 +1,2501 @@
+year,mileage,fuel_type,transmission,seller_type,car_condition,brand,price
+2006,158812,Electric,Automatic,Dealer,Excellent,BMW,15636
+2019,64353,Diesel,Manual,Dealer,Poor,Toyota,6583
+2014,118132,Diesel,Manual,Dealer,Excellent,Toyota,10821
+2010,192604,Electric,Automatic,Dealer,Excellent,Tesla,15681
+2007,21052,Diesel,Automatic,Dealer,Good,Hyundai,11798
+2020,105689,Hybrid,Manual,Dealer,Excellent,Hyundai,8094
+2006,183148,Diesel,Automatic,Individual,Excellent,Hyundai,5721
+2018,189492,Petrol,Semi-Auto,Dealer,Poor,Hyundai,2974
+2022,136743,Hybrid,Semi-Auto,Dealer,Excellent,Hyundai,8615
+2010,5163,Hybrid,Semi-Auto,Individual,Poor,Tesla,20176
+2010,46424,Hybrid,Semi-Auto,Individual,Good,Ford,14829
+2020,189816,Electric,Semi-Auto,Online Platform,Poor,BMW,6528
+2003,146706,Electric,Automatic,Dealer,Fair,Hyundai,4994
+2007,140870,Hybrid,Automatic,Dealer,Fair,Ford,8576
+2002,27420,Electric,Semi-Auto,Dealer,Poor,Toyota,7632
+2021,125575,Diesel,Automatic,Dealer,Fair,Tesla,15178
+2020,34300,Electric,Automatic,Online Platform,Good,Ford,14743
+2001,94881,Electric,Semi-Auto,Individual,Fair,Hyundai,6769
+2011,15749,Hybrid,Automatic,Individual,Poor,Hyundai,7218
+2005,109131,Petrol,Automatic,Dealer,Good,Hyundai,6782
+2001,161193,Petrol,Automatic,Dealer,Fair,Ford,6726
+2020,133563,Petrol,Semi-Auto,Dealer,Good,Hyundai,7274
+2000,42487,Diesel,Automatic,Online Platform,Poor,Ford,9694
+2011,169433,Electric,Manual,Online Platform,Fair,Hyundai,4549
+2021,26223,Petrol,Manual,Individual,Good,Toyota,12796
+2011,77930,Hybrid,Semi-Auto,Dealer,Good,Toyota,11680
+2016,150128,Petrol,Manual,Dealer,Fair,BMW,11766
+2009,33380,Petrol,Semi-Auto,Dealer,Good,Hyundai,11306
+2015,31035,Electric,Manual,Dealer,Good,Hyundai,11028
+2014,35620,Electric,Manual,Online Platform,Poor,Ford,9077
+2014,155949,Electric,Manual,Individual,Poor,Ford,5336
+2018,191388,Diesel,Semi-Auto,Individual,Poor,Hyundai,2901
+2011,122360,Diesel,Semi-Auto,Online Platform,Poor,BMW,10202
+2022,58352,Petrol,Automatic,Dealer,Poor,Hyundai,5845
+2019,166983,Electric,Semi-Auto,Individual,Poor,Ford,4066
+2002,168856,Petrol,Manual,Individual,Fair,Hyundai,4460
+2004,8191,Hybrid,Manual,Online Platform,Poor,Ford,10474
+2018,169232,Hybrid,Semi-Auto,Dealer,Good,Hyundai,5779
+2006,95536,Electric,Semi-Auto,Individual,Fair,Tesla,19812
+2020,109576,Electric,Semi-Auto,Dealer,Good,Ford,11058
+2008,185795,Hybrid,Automatic,Individual,Poor,BMW,6090
+2006,8631,Electric,Manual,Online Platform,Poor,Tesla,19265
+2017,142244,Diesel,Automatic,Dealer,Good,Hyundai,6005
+2003,47080,Diesel,Automatic,Online Platform,Good,Ford,15973
+2013,95353,Electric,Manual,Individual,Good,Tesla,20802
+2017,156353,Hybrid,Manual,Online Platform,Excellent,BMW,15373
+2008,33671,Petrol,Semi-Auto,Online Platform,Excellent,Ford,20103
+2020,127811,Electric,Semi-Auto,Online Platform,Excellent,Tesla,26897
+2001,187503,Electric,Automatic,Individual,Excellent,Tesla,13684
+2019,132734,Petrol,Semi-Auto,Dealer,Fair,Tesla,14145
+2014,164674,Electric,Semi-Auto,Online Platform,Poor,Toyota,4693
+2006,56399,Petrol,Manual,Dealer,Good,Hyundai,9669
+2011,159544,Hybrid,Manual,Individual,Poor,Ford,4573
+2007,185302,Diesel,Semi-Auto,Dealer,Good,Ford,7822
+2014,12099,Hybrid,Manual,Online Platform,Poor,Ford,10636
+2002,161503,Diesel,Semi-Auto,Online Platform,Fair,Tesla,13957
+2013,61492,Petrol,Manual,Online Platform,Excellent,Hyundai,10841
+2016,101722,Diesel,Manual,Online Platform,Poor,BMW,12234
+2003,183756,Hybrid,Manual,Online Platform,Good,Ford,8096
+2017,35111,Diesel,Manual,Online Platform,Poor,Hyundai,6588
+2007,68936,Petrol,Semi-Auto,Individual,Fair,Hyundai,7835
+2003,158686,Diesel,Automatic,Individual,Fair,Toyota,6494
+2001,178063,Electric,Manual,Individual,Poor,Ford,4620
+2005,65920,Hybrid,Semi-Auto,Dealer,Excellent,Tesla,31584
+2021,68530,Electric,Semi-Auto,Dealer,Good,Hyundai,9785
+2009,172296,Petrol,Manual,Individual,Fair,Hyundai,3555
+2003,12788,Diesel,Automatic,Dealer,Fair,BMW,22710
+2021,33082,Electric,Manual,Dealer,Poor,Toyota,8272
+2017,128287,Electric,Semi-Auto,Online Platform,Fair,Hyundai,3950
+2011,94570,Diesel,Automatic,Online Platform,Fair,Hyundai,6694
+2001,106015,Diesel,Semi-Auto,Dealer,Good,Tesla,23155
+2009,88588,Hybrid,Manual,Dealer,Excellent,Tesla,27212
+2003,152603,Electric,Automatic,Individual,Good,BMW,15228
+2013,93340,Electric,Semi-Auto,Dealer,Excellent,BMW,25141
+2015,99439,Petrol,Semi-Auto,Online Platform,Good,BMW,20107
+2014,180929,Hybrid,Semi-Auto,Dealer,Poor,Tesla,9583
+2007,146214,Petrol,Manual,Individual,Fair,Tesla,15583
+2013,120053,Electric,Automatic,Online Platform,Excellent,Toyota,11372
+2022,53355,Petrol,Manual,Online Platform,Poor,Ford,8326
+2007,145938,Electric,Manual,Online Platform,Fair,Ford,7382
+2020,130426,Electric,Manual,Online Platform,Fair,Toyota,7493
+2015,69027,Petrol,Automatic,Dealer,Fair,Ford,10932
+2012,193978,Petrol,Manual,Individual,Good,Tesla,15089
+2017,164210,Diesel,Manual,Dealer,Poor,Ford,5249
+2014,97601,Diesel,Manual,Dealer,Poor,Tesla,15962
+2020,34956,Diesel,Manual,Online Platform,Fair,Toyota,9961
+2012,109797,Electric,Semi-Auto,Individual,Excellent,BMW,22545
+2008,129917,Petrol,Manual,Online Platform,Poor,Toyota,5075
+2014,131303,Hybrid,Semi-Auto,Dealer,Good,Ford,10667
+2012,141511,Electric,Manual,Dealer,Excellent,Tesla,20637
+2000,183313,Hybrid,Automatic,Online Platform,Excellent,Ford,6665
+2006,47533,Petrol,Semi-Auto,Dealer,Excellent,Ford,18586
+2008,164342,Electric,Semi-Auto,Dealer,Excellent,BMW,15619
+2000,83815,Hybrid,Semi-Auto,Online Platform,Poor,Ford,7528
+2011,44279,Hybrid,Semi-Auto,Dealer,Fair,BMW,19626
+2007,114787,Diesel,Automatic,Individual,Excellent,Tesla,26189
+2010,159960,Diesel,Manual,Online Platform,Good,Tesla,14453
+2018,153702,Diesel,Semi-Auto,Individual,Good,BMW,14338
+2016,66063,Electric,Automatic,Dealer,Fair,Toyota,8860
+2007,132896,Petrol,Semi-Auto,Dealer,Poor,Tesla,11057
+2002,171216,Petrol,Manual,Online Platform,Fair,Toyota,5363
+2002,188233,Diesel,Semi-Auto,Dealer,Excellent,Tesla,17015
+2000,187051,Diesel,Automatic,Online Platform,Poor,Tesla,7585
+2004,102661,Diesel,Manual,Online Platform,Poor,Hyundai,5084
+2009,143051,Hybrid,Automatic,Online Platform,Excellent,Ford,10249
+2006,162261,Diesel,Manual,Online Platform,Good,Ford,6896
+2008,178672,Hybrid,Manual,Online Platform,Excellent,Toyota,6076
+2006,195632,Petrol,Manual,Individual,Fair,Ford,4235
+2008,128257,Electric,Semi-Auto,Online Platform,Excellent,Toyota,9122
+2007,197630,Electric,Automatic,Individual,Good,Tesla,15480
+2011,91205,Electric,Automatic,Dealer,Excellent,Hyundai,8906
+2001,11910,Electric,Automatic,Online Platform,Fair,Hyundai,9668
+2000,193785,Hybrid,Manual,Dealer,Fair,Tesla,9878
+2015,51857,Hybrid,Semi-Auto,Online Platform,Good,BMW,25151
+2022,39964,Diesel,Manual,Individual,Fair,BMW,19716
+2022,161299,Hybrid,Automatic,Individual,Fair,Ford,6891
+2004,142050,Diesel,Semi-Auto,Individual,Excellent,Toyota,8654
+2002,22153,Diesel,Semi-Auto,Dealer,Poor,Hyundai,7000
+2011,64765,Electric,Semi-Auto,Online Platform,Fair,Ford,12015
+2007,113212,Hybrid,Automatic,Dealer,Fair,Tesla,17244
+2021,44071,Hybrid,Semi-Auto,Individual,Good,Hyundai,10195
+2002,117990,Diesel,Semi-Auto,Dealer,Good,Toyota,9425
+2000,74519,Diesel,Manual,Individual,Excellent,Toyota,13872
+2002,14503,Petrol,Manual,Individual,Excellent,BMW,36103
+2004,196775,Petrol,Semi-Auto,Individual,Fair,Ford,5671
+2014,100457,Diesel,Semi-Auto,Online Platform,Poor,Tesla,13937
+2013,193938,Petrol,Manual,Online Platform,Poor,Hyundai,2373
+2002,152977,Petrol,Manual,Individual,Excellent,Toyota,9551
+2000,50838,Diesel,Manual,Dealer,Good,Hyundai,9872
+2004,130200,Diesel,Automatic,Dealer,Fair,Tesla,16007
+2022,194351,Hybrid,Automatic,Online Platform,Fair,Hyundai,3635
+2013,94489,Diesel,Manual,Individual,Poor,Ford,7925
+2006,31806,Diesel,Semi-Auto,Dealer,Excellent,BMW,32652
+2008,181072,Electric,Manual,Individual,Poor,Hyundai,2642
+2014,158240,Hybrid,Automatic,Dealer,Poor,BMW,10122
+2014,75119,Hybrid,Semi-Auto,Online Platform,Excellent,Tesla,34697
+2009,43714,Hybrid,Automatic,Individual,Good,BMW,24101
+2012,190165,Electric,Semi-Auto,Individual,Fair,Hyundai,3077
+2018,60419,Diesel,Automatic,Dealer,Good,Hyundai,9111
+2006,185217,Hybrid,Semi-Auto,Dealer,Excellent,Toyota,7650
+2016,110432,Hybrid,Semi-Auto,Dealer,Excellent,Hyundai,10420
+2019,97949,Petrol,Semi-Auto,Individual,Fair,BMW,15556
+2003,138533,Hybrid,Semi-Auto,Online Platform,Good,Toyota,8200
+2004,150363,Diesel,Automatic,Online Platform,Fair,Hyundai,4427
+2022,182876,Diesel,Automatic,Dealer,Poor,Hyundai,3423
+2006,81971,Petrol,Semi-Auto,Online Platform,Poor,Tesla,16128
+2012,98471,Hybrid,Semi-Auto,Dealer,Poor,Toyota,5674
+2014,69946,Hybrid,Automatic,Online Platform,Good,Tesla,23160
+2010,103989,Hybrid,Semi-Auto,Individual,Poor,Tesla,14810
+2003,89080,Electric,Semi-Auto,Dealer,Fair,Tesla,18884
+2012,197404,Hybrid,Semi-Auto,Online Platform,Good,Ford,6914
+2006,82794,Diesel,Manual,Individual,Fair,Tesla,20683
+2018,35841,Diesel,Semi-Auto,Online Platform,Excellent,BMW,28397
+2021,129447,Electric,Manual,Individual,Good,Hyundai,6338
+2001,125029,Electric,Semi-Auto,Individual,Fair,Ford,8143
+2009,184830,Hybrid,Automatic,Online Platform,Fair,Tesla,9803
+2012,81272,Petrol,Manual,Online Platform,Good,Hyundai,8818
+2020,42643,Electric,Manual,Individual,Excellent,Toyota,15802
+2005,186480,Electric,Semi-Auto,Individual,Good,Toyota,7018
+2011,48950,Hybrid,Semi-Auto,Individual,Poor,Hyundai,6195
+2011,192921,Hybrid,Manual,Dealer,Poor,BMW,7766
+2019,105500,Electric,Automatic,Individual,Excellent,Hyundai,8992
+2010,164116,Petrol,Automatic,Dealer,Fair,Hyundai,4907
+2022,130588,Electric,Semi-Auto,Individual,Fair,Ford,7857
+2006,20997,Hybrid,Automatic,Dealer,Fair,Toyota,10609
+2000,84751,Hybrid,Automatic,Individual,Good,Toyota,10042
+2000,103605,Electric,Semi-Auto,Individual,Good,Tesla,18289
+2019,159983,Petrol,Automatic,Individual,Excellent,Hyundai,7335
+2012,60533,Electric,Semi-Auto,Online Platform,Poor,Hyundai,5282
+2008,87566,Electric,Manual,Online Platform,Fair,BMW,18684
+2002,150643,Hybrid,Semi-Auto,Individual,Poor,Toyota,4402
+2006,113255,Petrol,Manual,Dealer,Good,BMW,16342
+2005,194013,Diesel,Manual,Dealer,Good,Ford,5353
+2007,63005,Petrol,Automatic,Individual,Good,Tesla,27983
+2008,194784,Electric,Automatic,Online Platform,Poor,BMW,4620
+2004,48541,Electric,Automatic,Dealer,Excellent,Toyota,15618
+2000,28387,Electric,Semi-Auto,Online Platform,Excellent,Ford,17918
+2018,98980,Petrol,Automatic,Dealer,Good,Hyundai,7597
+2009,184980,Hybrid,Manual,Individual,Fair,Ford,5664
+2011,90457,Electric,Automatic,Online Platform,Poor,BMW,12993
+2014,149129,Electric,Automatic,Dealer,Good,Toyota,8141
+2021,69028,Petrol,Semi-Auto,Individual,Poor,BMW,12682
+2008,124246,Diesel,Semi-Auto,Individual,Poor,Hyundai,4107
+2019,60731,Diesel,Manual,Individual,Excellent,Hyundai,12271
+2016,160930,Hybrid,Semi-Auto,Online Platform,Good,Toyota,6722
+2016,184761,Hybrid,Automatic,Online Platform,Excellent,Tesla,16751
+2019,49638,Electric,Semi-Auto,Individual,Good,Ford,15167
+2011,182558,Petrol,Manual,Online Platform,Poor,Ford,4930
+2006,25567,Electric,Automatic,Dealer,Excellent,Hyundai,12837
+2001,165811,Hybrid,Manual,Individual,Poor,BMW,6800
+2002,62804,Petrol,Semi-Auto,Individual,Good,BMW,22267
+2016,113821,Petrol,Semi-Auto,Online Platform,Fair,Tesla,17641
+2004,8754,Hybrid,Manual,Individual,Excellent,BMW,32124
+2016,32044,Diesel,Automatic,Dealer,Excellent,Ford,18704
+2016,72260,Diesel,Semi-Auto,Online Platform,Poor,BMW,13732
+2016,71912,Petrol,Semi-Auto,Online Platform,Poor,Tesla,15161
+2001,13706,Electric,Automatic,Individual,Fair,Ford,13977
+2001,13894,Diesel,Semi-Auto,Individual,Excellent,BMW,35636
+2021,154109,Electric,Manual,Individual,Good,Ford,9162
+2022,88986,Diesel,Semi-Auto,Online Platform,Good,Hyundai,7512
+2004,86942,Diesel,Semi-Auto,Individual,Excellent,Hyundai,10283
+2000,187684,Electric,Automatic,Dealer,Excellent,Hyundai,5504
+2000,34725,Hybrid,Manual,Individual,Excellent,BMW,31147
+2018,141998,Diesel,Automatic,Individual,Fair,Tesla,15185
+2001,109555,Diesel,Semi-Auto,Online Platform,Good,Ford,11676
+2020,14496,Electric,Semi-Auto,Individual,Good,Toyota,14207
+2011,61447,Hybrid,Automatic,Online Platform,Poor,Hyundai,5363
+2005,106604,Diesel,Automatic,Individual,Poor,Hyundai,4631
+2022,165878,Diesel,Automatic,Dealer,Excellent,Toyota,9727
+2003,93199,Hybrid,Manual,Dealer,Poor,Toyota,6027
+2022,46321,Diesel,Semi-Auto,Online Platform,Fair,BMW,21551
+2010,158728,Hybrid,Automatic,Online Platform,Good,Ford,8511
+2016,60147,Hybrid,Semi-Auto,Individual,Good,Hyundai,9113
+2005,96396,Electric,Manual,Individual,Poor,Tesla,13940
+2004,185738,Petrol,Manual,Dealer,Excellent,BMW,13681
+2019,43787,Hybrid,Manual,Individual,Poor,BMW,15962
+2001,199018,Electric,Manual,Dealer,Excellent,Tesla,19135
+2005,26727,Petrol,Semi-Auto,Online Platform,Fair,Tesla,25582
+2021,100081,Diesel,Manual,Individual,Good,Tesla,21169
+2010,127721,Petrol,Manual,Online Platform,Fair,Toyota,5898
+2015,73056,Hybrid,Automatic,Individual,Good,Hyundai,8824
+2015,139153,Hybrid,Manual,Dealer,Fair,Toyota,5757
+2000,170268,Hybrid,Automatic,Online Platform,Poor,Hyundai,3314
+2008,172807,Hybrid,Manual,Online Platform,Fair,Toyota,5426
+2005,85102,Hybrid,Manual,Individual,Fair,Ford,10210
+2015,161570,Electric,Automatic,Online Platform,Poor,Hyundai,3558
+2002,81865,Hybrid,Manual,Dealer,Good,BMW,21910
+2019,167728,Electric,Semi-Auto,Online Platform,Good,Hyundai,6411
+2003,72695,Diesel,Semi-Auto,Online Platform,Poor,Hyundai,5680
+2018,173972,Hybrid,Manual,Individual,Fair,Hyundai,4462
+2002,122235,Hybrid,Semi-Auto,Online Platform,Fair,Ford,7490
+2018,183773,Petrol,Automatic,Individual,Fair,Toyota,3946
+2019,113777,Diesel,Manual,Individual,Excellent,BMW,23208
+2006,24033,Hybrid,Manual,Online Platform,Good,Toyota,12636
+2019,146877,Hybrid,Automatic,Dealer,Fair,Toyota,5750
+2008,171923,Diesel,Automatic,Individual,Good,Tesla,17006
+2000,31832,Electric,Automatic,Online Platform,Fair,Ford,12407
+2007,199509,Hybrid,Manual,Individual,Poor,Tesla,5764
+2006,120725,Petrol,Automatic,Dealer,Poor,Ford,6814
+2017,150016,Hybrid,Automatic,Dealer,Good,Toyota,9054
+2007,24873,Petrol,Semi-Auto,Individual,Good,Toyota,13149
+2000,45372,Petrol,Semi-Auto,Dealer,Poor,Ford,9827
+2010,94464,Hybrid,Manual,Online Platform,Excellent,Toyota,11492
+2017,151451,Hybrid,Semi-Auto,Online Platform,Poor,Toyota,4405
+2022,122322,Petrol,Semi-Auto,Individual,Fair,BMW,14131
+2009,172823,Diesel,Automatic,Dealer,Excellent,Tesla,16162
+2002,105082,Diesel,Automatic,Online Platform,Poor,Tesla,14563
+2006,10110,Hybrid,Semi-Auto,Online Platform,Excellent,Tesla,37351
+2015,190413,Electric,Semi-Auto,Online Platform,Excellent,Hyundai,5400
+2015,17087,Diesel,Semi-Auto,Individual,Excellent,BMW,35883
+2019,159834,Hybrid,Manual,Individual,Good,Tesla,17738
+2016,87617,Diesel,Manual,Online Platform,Poor,Tesla,15382
+2001,105483,Electric,Manual,Online Platform,Good,BMW,21829
+2000,14596,Hybrid,Semi-Auto,Dealer,Good,Toyota,14105
+2015,112539,Electric,Semi-Auto,Dealer,Fair,Tesla,15361
+2011,23313,Hybrid,Manual,Dealer,Fair,Toyota,11148
+2004,118175,Electric,Manual,Individual,Excellent,Tesla,25191
+2004,119914,Diesel,Semi-Auto,Online Platform,Excellent,Ford,10681
+2022,28705,Diesel,Automatic,Individual,Fair,Hyundai,8141
+2008,78445,Electric,Manual,Online Platform,Fair,Tesla,18924
+2008,108892,Electric,Semi-Auto,Dealer,Poor,Ford,6440
+2002,7023,Electric,Semi-Auto,Dealer,Excellent,BMW,34525
+2018,124654,Hybrid,Automatic,Dealer,Excellent,Ford,12287
+2015,195868,Diesel,Semi-Auto,Dealer,Fair,BMW,7395
+2015,85073,Hybrid,Semi-Auto,Online Platform,Poor,Tesla,13728
+2002,97197,Diesel,Manual,Dealer,Fair,BMW,16677
+2019,69429,Petrol,Manual,Online Platform,Fair,Ford,11151
+2021,109195,Hybrid,Automatic,Online Platform,Good,Hyundai,7720
+2000,197699,Diesel,Automatic,Individual,Excellent,Toyota,7739
+2019,38848,Diesel,Semi-Auto,Dealer,Poor,Toyota,7907
+2010,173876,Hybrid,Manual,Dealer,Good,Hyundai,4824
+2016,151451,Hybrid,Automatic,Individual,Excellent,Toyota,8817
+2007,195736,Diesel,Automatic,Online Platform,Fair,Tesla,9869
+2003,32766,Hybrid,Automatic,Dealer,Poor,Tesla,19352
+2005,73099,Electric,Semi-Auto,Online Platform,Excellent,Ford,16288
+2007,172132,Hybrid,Manual,Individual,Fair,Ford,4738
+2019,74122,Hybrid,Automatic,Online Platform,Good,BMW,21932
+2002,152159,Hybrid,Manual,Dealer,Poor,Ford,5323
+2015,53868,Diesel,Automatic,Online Platform,Excellent,Tesla,37197
+2002,124119,Electric,Automatic,Online Platform,Good,Ford,9845
+2017,159297,Petrol,Manual,Dealer,Fair,Toyota,4646
+2013,100286,Petrol,Manual,Dealer,Fair,BMW,16054
+2017,11643,Electric,Manual,Online Platform,Excellent,BMW,36162
+2001,41727,Electric,Semi-Auto,Online Platform,Fair,Tesla,23554
+2021,147077,Electric,Automatic,Individual,Poor,Ford,6792
+2002,114079,Diesel,Semi-Auto,Dealer,Excellent,Toyota,13088
+2015,70697,Petrol,Manual,Online Platform,Good,Ford,13692
+2008,21029,Electric,Automatic,Dealer,Excellent,Hyundai,13525
+2003,150298,Diesel,Semi-Auto,Individual,Excellent,Ford,12256
+2000,199718,Petrol,Automatic,Online Platform,Good,Tesla,11542
+2003,196675,Hybrid,Semi-Auto,Online Platform,Fair,Ford,4380
+2000,164803,Diesel,Manual,Online Platform,Good,BMW,14853
+2013,114458,Petrol,Semi-Auto,Dealer,Poor,Toyota,5775
+2020,115384,Diesel,Automatic,Individual,Fair,Tesla,16100
+2015,73926,Petrol,Automatic,Dealer,Excellent,Hyundai,11052
+2019,142069,Petrol,Automatic,Online Platform,Fair,Toyota,6221
+2007,60506,Hybrid,Automatic,Individual,Fair,Toyota,9348
+2006,83229,Diesel,Manual,Online Platform,Poor,BMW,12299
+2002,185887,Electric,Semi-Auto,Online Platform,Fair,BMW,9274
+2016,47092,Hybrid,Manual,Dealer,Fair,BMW,19913
+2000,67539,Hybrid,Manual,Online Platform,Fair,Tesla,22094
+2015,157889,Petrol,Manual,Individual,Excellent,Ford,11117
+2011,173933,Electric,Automatic,Online Platform,Fair,Toyota,5181
+2018,18428,Diesel,Automatic,Online Platform,Good,Ford,17118
+2021,180006,Electric,Automatic,Dealer,Fair,Ford,5370
+2022,146330,Electric,Semi-Auto,Individual,Poor,BMW,10277
+2021,62775,Electric,Automatic,Dealer,Fair,Ford,10775
+2013,10469,Electric,Semi-Auto,Online Platform,Fair,Toyota,10614
+2005,33854,Electric,Automatic,Dealer,Excellent,Toyota,15004
+2005,142328,Petrol,Automatic,Dealer,Good,Hyundai,6927
+2012,81256,Petrol,Manual,Dealer,Fair,Tesla,21058
+2018,170009,Hybrid,Manual,Dealer,Good,Ford,8980
+2021,104134,Petrol,Manual,Online Platform,Poor,Tesla,12321
+2007,137723,Hybrid,Semi-Auto,Online Platform,Excellent,Tesla,27591
+2001,186360,Hybrid,Semi-Auto,Individual,Good,Tesla,12761
+2020,89730,Diesel,Automatic,Dealer,Excellent,Tesla,25741
+2000,161123,Electric,Semi-Auto,Dealer,Fair,Toyota,6872
+2014,32386,Petrol,Automatic,Individual,Poor,Ford,8926
+2000,152256,Diesel,Semi-Auto,Dealer,Excellent,Hyundai,6805
+2004,38787,Petrol,Semi-Auto,Individual,Fair,Tesla,24091
+2015,26621,Hybrid,Semi-Auto,Online Platform,Good,Hyundai,11201
+2018,82984,Petrol,Manual,Individual,Poor,Toyota,6154
+2003,195864,Electric,Semi-Auto,Dealer,Poor,Toyota,3591
+2002,181325,Hybrid,Manual,Individual,Good,BMW,12997
+2016,39051,Hybrid,Manual,Online Platform,Good,Tesla,30477
+2016,54811,Diesel,Semi-Auto,Dealer,Poor,BMW,15903
+2011,35447,Electric,Automatic,Online Platform,Excellent,Hyundai,12649
+2013,133046,Hybrid,Automatic,Online Platform,Poor,Ford,5861
+2020,166326,Electric,Automatic,Individual,Good,BMW,16364
+2005,89045,Petrol,Semi-Auto,Online Platform,Excellent,Toyota,12923
+2002,121859,Electric,Automatic,Dealer,Fair,Tesla,15246
+2008,193490,Hybrid,Manual,Online Platform,Poor,Hyundai,2250
+2004,150544,Diesel,Automatic,Online Platform,Good,Toyota,7487
+2016,8471,Hybrid,Semi-Auto,Individual,Fair,Ford,12266
+2013,125312,Electric,Automatic,Online Platform,Poor,Tesla,11563
+2020,144401,Electric,Manual,Individual,Poor,Ford,5547
+2002,170937,Hybrid,Semi-Auto,Individual,Excellent,Ford,9111
+2000,51850,Electric,Automatic,Dealer,Good,Tesla,26750
+2019,59220,Petrol,Semi-Auto,Dealer,Fair,Tesla,21844
+2020,98808,Hybrid,Semi-Auto,Dealer,Poor,Ford,7880
+2022,142469,Diesel,Semi-Auto,Dealer,Excellent,Hyundai,8262
+2000,171597,Hybrid,Automatic,Individual,Fair,Tesla,12118
+2002,58072,Petrol,Semi-Auto,Online Platform,Fair,Toyota,9635
+2017,88820,Petrol,Automatic,Dealer,Poor,BMW,12525
+2009,28284,Petrol,Manual,Dealer,Fair,Hyundai,8808
+2021,197402,Petrol,Automatic,Dealer,Poor,Tesla,7289
+2002,88369,Petrol,Manual,Online Platform,Excellent,Tesla,30309
+2007,30122,Diesel,Automatic,Dealer,Excellent,Hyundai,13315
+2013,135349,Electric,Semi-Auto,Online Platform,Fair,BMW,11718
+2017,75553,Petrol,Automatic,Individual,Poor,Ford,7912
+2014,99788,Petrol,Semi-Auto,Individual,Good,Toyota,10159
+2021,67812,Hybrid,Manual,Individual,Excellent,Tesla,30478
+2022,12999,Diesel,Automatic,Online Platform,Poor,BMW,16613
+2001,27436,Diesel,Semi-Auto,Dealer,Poor,Toyota,8078
+2009,47963,Electric,Manual,Dealer,Poor,Hyundai,5988
+2001,138168,Diesel,Manual,Dealer,Fair,Tesla,15407
+2016,161351,Hybrid,Automatic,Dealer,Good,Ford,7555
+2007,113899,Hybrid,Manual,Dealer,Fair,Hyundai,6419
+2000,31201,Electric,Semi-Auto,Online Platform,Excellent,Tesla,37260
+2008,155787,Hybrid,Manual,Individual,Fair,BMW,11711
+2010,165381,Petrol,Manual,Dealer,Poor,Toyota,3872
+2021,151150,Petrol,Semi-Auto,Individual,Fair,Toyota,6095
+2015,192686,Hybrid,Manual,Online Platform,Poor,Tesla,9266
+2006,10105,Electric,Manual,Online Platform,Good,Hyundai,11368
+2009,122666,Diesel,Manual,Dealer,Fair,Ford,8119
+2022,99848,Electric,Manual,Online Platform,Fair,BMW,15015
+2002,7839,Diesel,Semi-Auto,Individual,Fair,Tesla,27184
+2017,73920,Hybrid,Manual,Dealer,Poor,BMW,13500
+2012,48619,Hybrid,Semi-Auto,Dealer,Poor,Toyota,7564
+2006,47821,Petrol,Manual,Individual,Fair,Ford,12441
+2003,130736,Diesel,Manual,Dealer,Fair,BMW,13951
+2012,149565,Electric,Manual,Dealer,Good,Tesla,17511
+2019,22069,Hybrid,Manual,Individual,Good,Ford,18434
+2000,12531,Electric,Semi-Auto,Dealer,Excellent,Hyundai,14295
+2007,173123,Petrol,Semi-Auto,Dealer,Good,Tesla,12896
+2013,143808,Diesel,Semi-Auto,Individual,Good,BMW,13301
+2015,143782,Diesel,Automatic,Online Platform,Good,Ford,8746
+2013,72155,Hybrid,Manual,Individual,Poor,Tesla,16109
+2011,150047,Diesel,Manual,Dealer,Good,Ford,8295
+2018,67424,Hybrid,Semi-Auto,Individual,Good,Ford,13389
+2022,50603,Petrol,Automatic,Dealer,Fair,Ford,11989
+2014,159324,Diesel,Manual,Dealer,Poor,BMW,8132
+2001,137503,Hybrid,Semi-Auto,Individual,Excellent,Tesla,18449
+2001,173553,Electric,Manual,Dealer,Excellent,Toyota,8556
+2022,97573,Hybrid,Manual,Online Platform,Good,Toyota,10755
+2021,145629,Diesel,Semi-Auto,Dealer,Excellent,BMW,16211
+2018,108302,Petrol,Semi-Auto,Individual,Excellent,BMW,23106
+2021,136234,Diesel,Manual,Online Platform,Excellent,Ford,10585
+2021,170814,Diesel,Manual,Online Platform,Good,Tesla,14006
+2016,24675,Hybrid,Semi-Auto,Dealer,Excellent,Tesla,39566
+2019,78997,Electric,Manual,Individual,Good,Hyundai,9326
+2009,153087,Diesel,Manual,Dealer,Fair,Hyundai,5078
+2005,186129,Electric,Semi-Auto,Dealer,Fair,Toyota,4701
+2014,168663,Hybrid,Manual,Individual,Excellent,Hyundai,7222
+2021,145905,Electric,Manual,Individual,Fair,Hyundai,4637
+2010,12896,Hybrid,Automatic,Dealer,Good,Toyota,14063
+2004,169044,Petrol,Semi-Auto,Online Platform,Fair,Toyota,3681
+2000,54733,Electric,Automatic,Dealer,Excellent,Hyundai,11705
+2007,46800,Electric,Automatic,Online Platform,Good,Tesla,30554
+2020,101044,Petrol,Automatic,Dealer,Poor,Hyundai,4877
+2011,10347,Electric,Manual,Individual,Good,Ford,16817
+2011,195135,Petrol,Manual,Online Platform,Fair,Ford,5641
+2004,138715,Diesel,Automatic,Individual,Poor,Ford,5766
+2006,45785,Hybrid,Automatic,Individual,Good,BMW,26571
+2003,23681,Petrol,Automatic,Individual,Poor,Ford,10210
+2005,186098,Electric,Manual,Individual,Poor,Tesla,9468
+2012,108864,Petrol,Automatic,Individual,Poor,BMW,11773
+2019,151964,Electric,Automatic,Dealer,Good,BMW,15718
+2014,52299,Diesel,Semi-Auto,Online Platform,Fair,Ford,11834
+2002,22073,Petrol,Semi-Auto,Dealer,Good,Hyundai,10815
+2022,107304,Diesel,Manual,Dealer,Fair,Toyota,8002
+2007,35682,Hybrid,Semi-Auto,Dealer,Good,Hyundai,11474
+2019,129302,Electric,Semi-Auto,Individual,Good,Hyundai,6458
+2015,150361,Electric,Semi-Auto,Dealer,Good,BMW,14591
+2012,120359,Diesel,Manual,Online Platform,Fair,BMW,14403
+2017,143999,Hybrid,Semi-Auto,Dealer,Good,BMW,16627
+2009,184402,Petrol,Manual,Individual,Poor,Tesla,8454
+2018,71707,Petrol,Automatic,Online Platform,Good,Tesla,28232
+2016,70428,Electric,Semi-Auto,Online Platform,Poor,Toyota,7775
+2018,55601,Diesel,Manual,Online Platform,Excellent,BMW,28177
+2022,138611,Diesel,Semi-Auto,Online Platform,Excellent,Ford,12278
+2004,116487,Petrol,Automatic,Dealer,Fair,BMW,15065
+2020,158741,Hybrid,Manual,Individual,Fair,Tesla,13210
+2022,156716,Hybrid,Manual,Online Platform,Excellent,BMW,18285
+2008,154817,Petrol,Manual,Online Platform,Good,Tesla,16471
+2011,33228,Petrol,Automatic,Individual,Good,BMW,27161
+2020,170593,Diesel,Automatic,Dealer,Good,Ford,6589
+2000,127788,Hybrid,Automatic,Online Platform,Excellent,Toyota,9847
+2000,102239,Petrol,Manual,Dealer,Poor,Ford,7685
+2014,31928,Petrol,Automatic,Dealer,Fair,Tesla,26432
+2001,23322,Electric,Semi-Auto,Dealer,Poor,Hyundai,6733
+2021,193786,Petrol,Automatic,Dealer,Excellent,Ford,7158
+2015,92896,Petrol,Manual,Online Platform,Poor,BMW,13168
+2007,67292,Hybrid,Semi-Auto,Online Platform,Good,Toyota,12562
+2012,34055,Diesel,Automatic,Dealer,Good,BMW,25975
+2020,47891,Hybrid,Semi-Auto,Dealer,Poor,BMW,13817
+2000,86912,Diesel,Semi-Auto,Individual,Excellent,Ford,15827
+2015,142660,Electric,Manual,Individual,Poor,Toyota,5131
+2006,95536,Petrol,Semi-Auto,Individual,Good,Hyundai,8531
+2004,11304,Electric,Semi-Auto,Online Platform,Good,BMW,31217
+2021,12345,Diesel,Manual,Individual,Excellent,Toyota,18671
+2022,165372,Hybrid,Manual,Online Platform,Poor,Hyundai,3121
+2002,160331,Hybrid,Manual,Online Platform,Good,BMW,14265
+2011,96006,Electric,Semi-Auto,Online Platform,Good,Toyota,9827
+2015,151424,Diesel,Semi-Auto,Online Platform,Poor,Ford,4796
+2018,134350,Electric,Semi-Auto,Individual,Poor,BMW,9071
+2004,169437,Electric,Manual,Dealer,Fair,BMW,11305
+2021,24446,Petrol,Automatic,Dealer,Excellent,Toyota,16805
+2013,7336,Electric,Semi-Auto,Dealer,Excellent,BMW,36721
+2004,67032,Petrol,Automatic,Individual,Poor,Hyundai,6502
+2014,102852,Petrol,Manual,Dealer,Excellent,BMW,24557
+2016,143593,Hybrid,Semi-Auto,Individual,Good,Tesla,16868
+2013,159553,Petrol,Automatic,Individual,Poor,Hyundai,3743
+2019,23474,Petrol,Semi-Auto,Individual,Poor,Toyota,7932
+2004,182832,Hybrid,Semi-Auto,Dealer,Poor,Hyundai,3441
+2011,60718,Electric,Semi-Auto,Dealer,Fair,Tesla,19572
+2015,49629,Diesel,Automatic,Dealer,Excellent,Tesla,33904
+2015,50232,Diesel,Manual,Online Platform,Fair,BMW,20728
+2020,91544,Diesel,Semi-Auto,Individual,Good,BMW,22611
+2006,55669,Electric,Manual,Online Platform,Excellent,Ford,16860
+2003,74184,Petrol,Manual,Individual,Fair,Hyundai,6814
+2000,184017,Diesel,Automatic,Dealer,Poor,Ford,4255
+2004,18140,Electric,Automatic,Individual,Fair,Tesla,28979
+2022,131468,Petrol,Manual,Individual,Poor,BMW,8727
+2009,88457,Hybrid,Semi-Auto,Online Platform,Fair,BMW,16546
+2021,19357,Diesel,Automatic,Individual,Fair,BMW,22763
+2004,116672,Petrol,Semi-Auto,Dealer,Fair,Toyota,6855
+2003,73673,Diesel,Semi-Auto,Individual,Poor,Tesla,15003
+2001,126673,Diesel,Semi-Auto,Individual,Fair,BMW,13586
+2019,70633,Diesel,Manual,Individual,Excellent,Tesla,32726
+2009,101111,Petrol,Semi-Auto,Online Platform,Excellent,BMW,23515
+2018,83258,Electric,Manual,Individual,Excellent,Hyundai,11458
+2000,148996,Petrol,Manual,Individual,Poor,Tesla,11192
+2004,74286,Diesel,Semi-Auto,Online Platform,Poor,Ford,8332
+2012,98269,Petrol,Semi-Auto,Online Platform,Excellent,Toyota,13028
+2003,79071,Hybrid,Semi-Auto,Online Platform,Excellent,Ford,16339
+2015,193398,Electric,Semi-Auto,Online Platform,Excellent,Tesla,13993
+2015,35651,Petrol,Manual,Dealer,Good,BMW,26040
+2022,75202,Hybrid,Semi-Auto,Dealer,Excellent,Tesla,29099
+2001,53777,Electric,Semi-Auto,Individual,Fair,Toyota,11051
+2016,153066,Hybrid,Manual,Dealer,Good,Tesla,18771
+2019,72263,Electric,Automatic,Individual,Good,BMW,18934
+2011,195706,Petrol,Automatic,Dealer,Poor,Ford,4474
+2017,105158,Hybrid,Manual,Online Platform,Fair,Hyundai,5531
+2002,15800,Diesel,Automatic,Online Platform,Poor,Ford,10512
+2000,42823,Hybrid,Manual,Dealer,Poor,BMW,13446
+2000,68878,Electric,Semi-Auto,Dealer,Fair,BMW,17976
+2018,23708,Petrol,Semi-Auto,Individual,Poor,Toyota,8892
+2010,148891,Electric,Automatic,Individual,Fair,Tesla,16058
+2004,68870,Hybrid,Semi-Auto,Individual,Fair,Tesla,22001
+2011,14283,Hybrid,Automatic,Online Platform,Poor,Ford,10711
+2002,166645,Diesel,Automatic,Online Platform,Excellent,Hyundai,5383
+2000,83707,Petrol,Semi-Auto,Online Platform,Poor,Hyundai,5384
+2000,167005,Petrol,Semi-Auto,Online Platform,Good,Toyota,7287
+2007,10774,Hybrid,Automatic,Individual,Poor,BMW,19666
+2009,147055,Petrol,Semi-Auto,Online Platform,Fair,Toyota,5743
+2010,101468,Diesel,Manual,Online Platform,Good,Tesla,23190
+2011,101334,Electric,Semi-Auto,Online Platform,Fair,BMW,15987
+2012,23133,Petrol,Semi-Auto,Online Platform,Excellent,Toyota,17240
+2011,151011,Hybrid,Manual,Dealer,Excellent,Ford,11678
+2013,5781,Electric,Semi-Auto,Individual,Good,Tesla,36182
+2001,119586,Electric,Semi-Auto,Individual,Excellent,Hyundai,9371
+2018,192772,Diesel,Automatic,Online Platform,Excellent,Toyota,5100
+2017,32624,Hybrid,Semi-Auto,Dealer,Poor,Tesla,15972
+2002,11823,Petrol,Semi-Auto,Individual,Poor,Tesla,19632
+2022,23489,Hybrid,Manual,Individual,Excellent,Hyundai,13247
+2016,176033,Electric,Automatic,Online Platform,Excellent,Hyundai,5508
+2007,34118,Hybrid,Automatic,Online Platform,Poor,Hyundai,6215
+2009,105417,Petrol,Automatic,Individual,Excellent,Toyota,11372
+2001,86816,Petrol,Semi-Auto,Individual,Excellent,Hyundai,10648
+2018,158335,Diesel,Automatic,Dealer,Fair,Ford,6055
+2008,18565,Petrol,Manual,Individual,Excellent,Tesla,39237
+2006,156426,Petrol,Automatic,Individual,Good,Hyundai,5700
+2003,179023,Hybrid,Manual,Online Platform,Fair,Tesla,12067
+2020,96179,Hybrid,Automatic,Individual,Good,BMW,22124
+2017,28648,Electric,Automatic,Online Platform,Excellent,BMW,35593
+2012,186801,Diesel,Manual,Individual,Poor,Hyundai,2448
+2010,46971,Hybrid,Automatic,Individual,Fair,Tesla,20816
+2003,23658,Petrol,Automatic,Individual,Poor,BMW,16362
+2020,26253,Electric,Automatic,Dealer,Fair,Hyundai,7997
+2003,184635,Hybrid,Semi-Auto,Online Platform,Poor,Tesla,10946
+2009,162462,Diesel,Manual,Dealer,Fair,Hyundai,3982
+2004,93664,Diesel,Automatic,Individual,Fair,Tesla,20047
+2008,187650,Electric,Manual,Dealer,Good,BMW,12636
+2002,108850,Electric,Manual,Online Platform,Poor,Hyundai,4710
+2016,168730,Electric,Manual,Individual,Good,BMW,16242
+2002,142924,Electric,Automatic,Dealer,Good,Hyundai,6161
+2015,138623,Electric,Automatic,Dealer,Poor,Toyota,4465
+2003,76947,Petrol,Manual,Online Platform,Fair,BMW,16780
+2017,66001,Petrol,Semi-Auto,Dealer,Good,BMW,24524
+2016,185231,Hybrid,Manual,Online Platform,Poor,Ford,4029
+2006,127775,Diesel,Semi-Auto,Individual,Fair,BMW,12714
+2022,187779,Petrol,Manual,Individual,Good,Tesla,13864
+2004,38243,Petrol,Manual,Dealer,Good,Hyundai,10895
+2011,157872,Petrol,Manual,Individual,Good,Toyota,7309
+2016,80939,Hybrid,Automatic,Individual,Fair,Tesla,21705
+2022,62828,Electric,Semi-Auto,Dealer,Good,Tesla,27824
+2012,143311,Hybrid,Semi-Auto,Individual,Fair,Tesla,13793
+2022,11710,Diesel,Manual,Dealer,Excellent,Tesla,42064
+2002,157456,Diesel,Automatic,Online Platform,Good,Toyota,6459
+2008,157110,Diesel,Automatic,Online Platform,Excellent,Ford,9068
+2016,176918,Diesel,Semi-Auto,Online Platform,Poor,BMW,8425
+2016,42991,Petrol,Automatic,Dealer,Good,Tesla,29375
+2019,143043,Petrol,Semi-Auto,Dealer,Poor,BMW,10916
+2015,165211,Hybrid,Semi-Auto,Individual,Poor,BMW,8858
+2021,90445,Electric,Semi-Auto,Individual,Poor,Tesla,14223
+2012,85257,Diesel,Automatic,Individual,Excellent,Ford,15986
+2018,42711,Hybrid,Semi-Auto,Individual,Fair,BMW,23617
+2016,11530,Petrol,Semi-Auto,Individual,Excellent,Hyundai,14389
+2003,16116,Petrol,Manual,Dealer,Excellent,BMW,35113
+2011,70794,Electric,Semi-Auto,Dealer,Poor,Tesla,15419
+2008,136354,Electric,Semi-Auto,Online Platform,Good,Toyota,9565
+2018,137970,Electric,Manual,Online Platform,Fair,BMW,14543
+2011,9135,Hybrid,Manual,Online Platform,Poor,Ford,10154
+2008,142701,Petrol,Automatic,Online Platform,Fair,Hyundai,5936
+2006,114472,Petrol,Semi-Auto,Dealer,Excellent,Hyundai,9023
+2013,130147,Electric,Automatic,Dealer,Fair,Toyota,6289
+2019,94087,Diesel,Automatic,Dealer,Fair,Toyota,7877
+2018,38380,Electric,Manual,Individual,Good,BMW,27478
+2014,134951,Hybrid,Automatic,Individual,Poor,Tesla,10678
+2015,22071,Electric,Semi-Auto,Online Platform,Fair,Ford,12546
+2020,25074,Electric,Manual,Individual,Fair,Hyundai,8586
+2004,72843,Hybrid,Semi-Auto,Dealer,Excellent,Toyota,13368
+2002,44901,Electric,Semi-Auto,Online Platform,Excellent,Ford,17639
+2011,16205,Petrol,Manual,Online Platform,Fair,Tesla,25852
+2019,191733,Diesel,Semi-Auto,Individual,Poor,Hyundai,2928
+2020,129661,Electric,Manual,Online Platform,Fair,Hyundai,5573
+2003,10906,Hybrid,Semi-Auto,Individual,Fair,Tesla,26260
+2020,138663,Diesel,Manual,Individual,Good,Hyundai,6196
+2022,130576,Hybrid,Automatic,Online Platform,Poor,Tesla,11721
+2015,67987,Diesel,Semi-Auto,Individual,Good,Hyundai,9235
+2006,199442,Diesel,Manual,Individual,Poor,BMW,5970
+2012,85685,Electric,Semi-Auto,Individual,Poor,Tesla,15926
+2020,115454,Petrol,Semi-Auto,Individual,Poor,Ford,6750
+2009,110487,Electric,Semi-Auto,Online Platform,Good,BMW,19290
+2006,59400,Hybrid,Manual,Dealer,Good,Ford,15720
+2013,161222,Hybrid,Automatic,Dealer,Good,Hyundai,6677
+2004,36852,Diesel,Automatic,Individual,Excellent,Ford,17617
+2002,178942,Diesel,Automatic,Individual,Good,BMW,9737
+2022,57756,Petrol,Manual,Individual,Excellent,Tesla,33180
+2010,120357,Electric,Automatic,Dealer,Excellent,Toyota,11483
+2010,124052,Hybrid,Manual,Individual,Excellent,Ford,13074
+2017,61481,Diesel,Semi-Auto,Online Platform,Fair,Toyota,10173
+2014,6283,Petrol,Semi-Auto,Online Platform,Fair,Ford,13815
+2011,38691,Hybrid,Automatic,Online Platform,Fair,Ford,11134
+2008,137197,Diesel,Manual,Dealer,Excellent,Tesla,19922
+2009,31170,Hybrid,Semi-Auto,Individual,Excellent,Hyundai,13310
+2011,13438,Petrol,Manual,Individual,Poor,BMW,18149
+2016,25095,Petrol,Manual,Individual,Excellent,BMW,29556
+2005,152226,Hybrid,Semi-Auto,Dealer,Fair,BMW,13514
+2006,144076,Electric,Manual,Dealer,Excellent,Hyundai,7818
+2013,14752,Hybrid,Semi-Auto,Dealer,Excellent,Toyota,17051
+2012,60426,Diesel,Semi-Auto,Dealer,Poor,BMW,13810
+2007,31819,Electric,Semi-Auto,Online Platform,Excellent,Toyota,17522
+2009,97051,Diesel,Manual,Dealer,Good,Hyundai,8656
+2008,160289,Hybrid,Semi-Auto,Dealer,Poor,Hyundai,3529
+2017,37994,Electric,Manual,Dealer,Excellent,Tesla,35144
+2001,151108,Diesel,Semi-Auto,Individual,Excellent,BMW,20772
+2004,102756,Hybrid,Semi-Auto,Individual,Poor,Tesla,13838
+2004,185488,Hybrid,Automatic,Individual,Excellent,BMW,14279
+2005,145659,Electric,Automatic,Online Platform,Fair,Hyundai,4973
+2018,100665,Hybrid,Automatic,Online Platform,Good,Hyundai,7514
+2007,136717,Petrol,Manual,Dealer,Good,Ford,10084
+2015,167002,Diesel,Manual,Individual,Fair,Ford,6885
+2012,86835,Diesel,Semi-Auto,Online Platform,Excellent,Hyundai,9913
+2000,127232,Hybrid,Semi-Auto,Individual,Excellent,Hyundai,8461
+2021,166162,Hybrid,Semi-Auto,Online Platform,Good,Toyota,6735
+2019,188214,Petrol,Semi-Auto,Online Platform,Excellent,Toyota,7530
+2016,162547,Electric,Manual,Dealer,Good,Tesla,15513
+2006,154960,Hybrid,Semi-Auto,Dealer,Good,Ford,8906
+2012,48732,Hybrid,Semi-Auto,Online Platform,Fair,Ford,12375
+2003,51305,Hybrid,Automatic,Dealer,Good,Hyundai,9754
+2003,182109,Hybrid,Semi-Auto,Online Platform,Excellent,Hyundai,5064
+2005,14346,Diesel,Semi-Auto,Online Platform,Excellent,Tesla,38600
+2018,5587,Hybrid,Semi-Auto,Individual,Poor,Ford,10819
+2011,17763,Diesel,Manual,Dealer,Excellent,Toyota,16722
+2021,195237,Hybrid,Automatic,Dealer,Poor,BMW,6062
+2006,74615,Electric,Semi-Auto,Dealer,Good,Tesla,27352
+2009,172188,Petrol,Semi-Auto,Individual,Excellent,BMW,17172
+2018,125987,Electric,Automatic,Individual,Fair,Toyota,7675
+2006,96353,Hybrid,Semi-Auto,Individual,Fair,Toyota,7778
+2002,100648,Hybrid,Manual,Dealer,Fair,BMW,17055
+2012,30556,Hybrid,Semi-Auto,Dealer,Good,Tesla,35083
+2012,64042,Electric,Manual,Dealer,Good,BMW,23784
+2017,23099,Hybrid,Manual,Individual,Poor,Tesla,19306
+2019,114089,Electric,Semi-Auto,Individual,Fair,Tesla,16957
+2007,181168,Diesel,Automatic,Online Platform,Poor,Hyundai,2469
+2008,149302,Petrol,Manual,Individual,Poor,Ford,5879
+2006,165081,Petrol,Automatic,Online Platform,Excellent,Ford,9639
+2000,38866,Electric,Semi-Auto,Dealer,Excellent,Toyota,15533
+2002,110400,Diesel,Manual,Individual,Fair,Hyundai,6397
+2012,89246,Electric,Semi-Auto,Dealer,Good,Ford,13346
+2016,81975,Diesel,Automatic,Dealer,Excellent,Tesla,29261
+2000,177927,Hybrid,Semi-Auto,Dealer,Good,Tesla,13232
+2005,86557,Diesel,Semi-Auto,Dealer,Poor,BMW,12247
+2020,142488,Diesel,Manual,Individual,Poor,BMW,11352
+2005,77516,Diesel,Semi-Auto,Dealer,Poor,Tesla,17124
+2011,191987,Petrol,Semi-Auto,Online Platform,Poor,Tesla,8303
+2012,154130,Diesel,Semi-Auto,Individual,Fair,BMW,11219
+2012,176790,Hybrid,Manual,Dealer,Poor,Ford,4296
+2014,37602,Hybrid,Automatic,Individual,Excellent,Toyota,16070
+2020,194139,Hybrid,Automatic,Online Platform,Poor,BMW,8339
+2015,163588,Diesel,Semi-Auto,Dealer,Good,Ford,8444
+2021,134295,Electric,Manual,Online Platform,Excellent,Ford,12480
+2020,92969,Electric,Semi-Auto,Dealer,Good,Ford,10127
+2010,137161,Hybrid,Automatic,Online Platform,Good,Hyundai,6668
+2004,173418,Petrol,Manual,Dealer,Fair,Hyundai,3381
+2003,146559,Electric,Automatic,Individual,Fair,Ford,7014
+2002,5155,Diesel,Automatic,Dealer,Good,Tesla,34480
+2018,128950,Electric,Manual,Individual,Good,Hyundai,6660
+2019,72494,Hybrid,Manual,Dealer,Poor,BMW,13077
+2017,81229,Petrol,Semi-Auto,Dealer,Excellent,Hyundai,10049
+2014,109648,Electric,Semi-Auto,Online Platform,Poor,Tesla,13103
+2008,43547,Electric,Automatic,Online Platform,Fair,Toyota,10105
+2016,33795,Hybrid,Manual,Online Platform,Fair,Hyundai,8528
+2013,191368,Petrol,Manual,Dealer,Poor,Ford,3881
+2014,26447,Petrol,Semi-Auto,Dealer,Excellent,Ford,21077
+2000,172670,Hybrid,Automatic,Dealer,Good,Ford,5795
+2020,177886,Diesel,Automatic,Individual,Poor,Toyota,3773
+2021,92960,Electric,Semi-Auto,Individual,Fair,Tesla,19423
+2021,68278,Diesel,Manual,Dealer,Excellent,BMW,27565
+2002,60077,Electric,Semi-Auto,Online Platform,Fair,Tesla,21404
+2015,117782,Electric,Semi-Auto,Online Platform,Excellent,Toyota,10798
+2022,107932,Diesel,Semi-Auto,Online Platform,Excellent,Ford,12064
+2010,145600,Hybrid,Semi-Auto,Dealer,Excellent,Tesla,22050
+2011,186172,Hybrid,Manual,Online Platform,Poor,BMW,7178
+2009,114869,Electric,Semi-Auto,Dealer,Poor,Ford,6284
+2015,144251,Hybrid,Manual,Individual,Poor,BMW,11091
+2007,53781,Electric,Semi-Auto,Online Platform,Excellent,Hyundai,11731
+2005,191339,Hybrid,Automatic,Individual,Excellent,BMW,13118
+2011,160024,Electric,Manual,Online Platform,Fair,Ford,7680
+2020,58798,Hybrid,Automatic,Dealer,Good,Hyundai,10933
+2007,103696,Petrol,Semi-Auto,Dealer,Poor,Ford,6460
+2003,55939,Diesel,Semi-Auto,Dealer,Excellent,Ford,16949
+2007,34516,Petrol,Semi-Auto,Dealer,Fair,Hyundai,8446
+2017,192598,Diesel,Manual,Online Platform,Fair,BMW,7700
+2004,146521,Diesel,Automatic,Individual,Fair,Toyota,6646
+2008,55290,Electric,Manual,Dealer,Poor,Toyota,6957
+2003,131688,Diesel,Manual,Online Platform,Poor,Toyota,5619
+2021,91661,Petrol,Semi-Auto,Individual,Good,Toyota,10884
+2016,77954,Petrol,Automatic,Dealer,Fair,Tesla,22353
+2008,27746,Hybrid,Semi-Auto,Individual,Poor,Toyota,7785
+2000,72990,Petrol,Manual,Dealer,Fair,Hyundai,7080
+2020,63810,Hybrid,Semi-Auto,Individual,Excellent,Toyota,14979
+2019,123362,Diesel,Automatic,Individual,Fair,Ford,8994
+2012,151295,Petrol,Semi-Auto,Dealer,Good,Toyota,7220
+2015,138669,Diesel,Automatic,Online Platform,Poor,BMW,9549
+2012,7659,Petrol,Automatic,Individual,Excellent,Hyundai,13719
+2013,91516,Petrol,Semi-Auto,Dealer,Poor,Hyundai,4941
+2002,79567,Hybrid,Manual,Individual,Excellent,Tesla,28833
+2005,20037,Diesel,Semi-Auto,Individual,Fair,Ford,12622
+2017,131498,Petrol,Manual,Online Platform,Fair,Hyundai,5874
+2018,182810,Electric,Manual,Individual,Good,BMW,11410
+2004,17109,Diesel,Semi-Auto,Individual,Good,Toyota,15008
+2014,27010,Diesel,Manual,Dealer,Excellent,Hyundai,13532
+2001,13787,Diesel,Manual,Dealer,Good,BMW,29089
+2009,144544,Hybrid,Semi-Auto,Online Platform,Good,Toyota,7240
+2017,159455,Electric,Semi-Auto,Individual,Good,Tesla,14278
+2012,66709,Diesel,Semi-Auto,Individual,Good,Hyundai,9057
+2004,39518,Petrol,Manual,Individual,Fair,Hyundai,9070
+2022,58909,Petrol,Automatic,Online Platform,Good,BMW,25442
+2000,23351,Hybrid,Manual,Individual,Fair,Ford,12882
+2021,189402,Petrol,Automatic,Dealer,Fair,Tesla,9698
+2000,20282,Diesel,Semi-Auto,Online Platform,Poor,Ford,9568
+2017,157850,Petrol,Automatic,Dealer,Fair,Hyundai,3806
+2014,160336,Diesel,Semi-Auto,Dealer,Fair,Ford,6777
+2016,195747,Petrol,Semi-Auto,Online Platform,Good,Toyota,6506
+2010,10075,Electric,Automatic,Dealer,Fair,Tesla,29492
+2020,184526,Hybrid,Semi-Auto,Individual,Excellent,Ford,8970
+2021,33365,Hybrid,Automatic,Online Platform,Good,Toyota,12879
+2016,184272,Electric,Semi-Auto,Dealer,Good,BMW,9398
+2012,16002,Electric,Manual,Individual,Good,Ford,17982
+2000,18947,Hybrid,Manual,Individual,Poor,Tesla,20143
+2001,99840,Electric,Semi-Auto,Dealer,Good,Toyota,9770
+2008,121219,Diesel,Semi-Auto,Individual,Fair,Ford,8233
+2002,83610,Petrol,Automatic,Online Platform,Excellent,BMW,27047
+2000,57142,Hybrid,Manual,Dealer,Good,Ford,13827
+2020,61307,Electric,Automatic,Individual,Good,Toyota,12114
+2015,140565,Diesel,Semi-Auto,Individual,Excellent,Ford,10161
+2022,55085,Hybrid,Semi-Auto,Dealer,Good,Tesla,32473
+2005,39228,Electric,Automatic,Dealer,Poor,Hyundai,6011
+2016,187947,Hybrid,Semi-Auto,Dealer,Fair,Toyota,4871
+2004,167727,Electric,Manual,Dealer,Excellent,Toyota,6858
+2004,48472,Hybrid,Automatic,Online Platform,Excellent,Toyota,14944
+2005,54437,Diesel,Manual,Dealer,Poor,Toyota,7764
+2002,185488,Diesel,Manual,Online Platform,Fair,Ford,6289
+2020,64711,Petrol,Manual,Online Platform,Poor,Tesla,17271
+2022,142888,Hybrid,Automatic,Dealer,Fair,BMW,12403
+2004,82175,Petrol,Semi-Auto,Online Platform,Poor,Tesla,14548
+2020,69307,Hybrid,Manual,Dealer,Good,Toyota,10726
+2004,51733,Electric,Manual,Dealer,Poor,Ford,9749
+2009,133202,Electric,Manual,Individual,Excellent,Ford,12121
+2009,100028,Petrol,Semi-Auto,Dealer,Excellent,Toyota,12257
+2018,147312,Hybrid,Semi-Auto,Individual,Excellent,Ford,12252
+2016,97493,Petrol,Automatic,Online Platform,Poor,Toyota,6339
+2020,130149,Diesel,Semi-Auto,Individual,Excellent,Tesla,23511
+2013,168834,Petrol,Automatic,Online Platform,Excellent,Hyundai,6831
+2008,13259,Petrol,Automatic,Dealer,Good,Ford,16644
+2013,186211,Electric,Automatic,Online Platform,Good,Toyota,4526
+2000,133775,Petrol,Automatic,Online Platform,Fair,Toyota,7496
+2018,19849,Hybrid,Automatic,Dealer,Fair,Ford,13059
+2012,86768,Electric,Manual,Online Platform,Fair,BMW,16693
+2012,111108,Petrol,Semi-Auto,Dealer,Poor,Toyota,5569
+2003,94709,Diesel,Manual,Individual,Fair,Ford,9420
+2000,59869,Petrol,Automatic,Dealer,Poor,Toyota,7699
+2016,131888,Petrol,Semi-Auto,Dealer,Poor,BMW,10423
+2007,68095,Petrol,Manual,Online Platform,Fair,Hyundai,7275
+2001,122886,Electric,Manual,Individual,Fair,BMW,12638
+2007,75910,Hybrid,Automatic,Dealer,Poor,Tesla,16005
+2006,28567,Diesel,Manual,Individual,Good,Ford,14080
+2001,40292,Petrol,Manual,Individual,Excellent,BMW,31583
+2021,79813,Hybrid,Manual,Online Platform,Excellent,Hyundai,11536
+2021,102136,Hybrid,Manual,Dealer,Excellent,Toyota,11929
+2002,56631,Electric,Manual,Online Platform,Good,Ford,15687
+2017,14885,Diesel,Automatic,Dealer,Poor,BMW,16000
+2011,195731,Electric,Automatic,Individual,Fair,Hyundai,4315
+2000,190378,Hybrid,Manual,Dealer,Poor,BMW,7564
+2021,71314,Hybrid,Automatic,Dealer,Poor,Tesla,16507
+2011,70087,Hybrid,Automatic,Individual,Fair,Ford,10604
+2004,165237,Electric,Semi-Auto,Individual,Good,Toyota,6164
+2016,195001,Diesel,Manual,Dealer,Excellent,Hyundai,4988
+2015,100998,Petrol,Automatic,Online Platform,Excellent,BMW,26045
+2014,54812,Electric,Automatic,Dealer,Poor,Ford,8116
+2022,186572,Hybrid,Manual,Individual,Good,BMW,11358
+2014,63643,Electric,Semi-Auto,Online Platform,Excellent,Ford,17810
+2004,49900,Hybrid,Manual,Individual,Good,Tesla,30804
+2020,179018,Petrol,Semi-Auto,Individual,Fair,BMW,10556
+2013,143923,Petrol,Manual,Online Platform,Poor,Tesla,9436
+2001,21288,Diesel,Manual,Individual,Poor,Hyundai,7096
+2010,77692,Hybrid,Manual,Individual,Good,Tesla,26053
+2018,143440,Diesel,Manual,Individual,Excellent,Ford,10099
+2006,90436,Diesel,Semi-Auto,Individual,Good,Hyundai,8368
+2005,51403,Petrol,Semi-Auto,Individual,Fair,BMW,17537
+2001,96170,Electric,Automatic,Individual,Excellent,BMW,25500
+2005,14168,Electric,Manual,Individual,Excellent,Ford,20441
+2017,54879,Diesel,Semi-Auto,Individual,Good,Toyota,11303
+2001,64871,Petrol,Semi-Auto,Individual,Fair,Toyota,9231
+2017,37174,Hybrid,Semi-Auto,Dealer,Excellent,BMW,30265
+2014,142653,Electric,Manual,Dealer,Poor,Ford,5316
+2018,115155,Diesel,Automatic,Individual,Fair,Toyota,6037
+2001,76853,Electric,Semi-Auto,Dealer,Excellent,Tesla,27729
+2019,69046,Electric,Manual,Online Platform,Good,BMW,22750
+2005,54678,Hybrid,Semi-Auto,Dealer,Excellent,Tesla,33501
+2000,31649,Petrol,Semi-Auto,Individual,Poor,Ford,10186
+2014,132795,Hybrid,Automatic,Individual,Fair,Tesla,14721
+2022,93668,Petrol,Semi-Auto,Dealer,Excellent,Toyota,11905
+2009,150639,Electric,Semi-Auto,Individual,Poor,Toyota,4264
+2018,94906,Diesel,Manual,Online Platform,Excellent,Hyundai,9702
+2016,101019,Hybrid,Manual,Online Platform,Excellent,BMW,24042
+2004,198016,Petrol,Automatic,Individual,Fair,Ford,4602
+2003,83002,Electric,Manual,Online Platform,Good,BMW,22556
+2009,33803,Petrol,Manual,Online Platform,Good,Tesla,35081
+2016,154302,Petrol,Automatic,Dealer,Poor,Ford,4799
+2009,153934,Petrol,Semi-Auto,Online Platform,Poor,Ford,5469
+2016,179427,Electric,Automatic,Dealer,Poor,Toyota,3630
+2019,167331,Diesel,Manual,Individual,Fair,Tesla,13848
+2004,35795,Diesel,Automatic,Dealer,Good,Toyota,13362
+2001,13770,Diesel,Semi-Auto,Individual,Poor,Toyota,8259
+2005,16093,Petrol,Automatic,Individual,Poor,Hyundai,6394
+2020,182643,Electric,Manual,Individual,Excellent,Toyota,7590
+2001,136265,Petrol,Manual,Individual,Excellent,BMW,17697
+2012,105311,Diesel,Automatic,Individual,Poor,Ford,7648
+2010,22569,Diesel,Semi-Auto,Dealer,Excellent,Toyota,17143
+2010,16190,Electric,Automatic,Individual,Excellent,BMW,34213
+2015,67824,Petrol,Semi-Auto,Online Platform,Excellent,Tesla,29748
+2010,178824,Hybrid,Semi-Auto,Online Platform,Fair,Ford,6302
+2018,168399,Hybrid,Automatic,Individual,Poor,Tesla,10909
+2014,47070,Diesel,Semi-Auto,Online Platform,Poor,BMW,14793
+2022,45197,Electric,Manual,Dealer,Excellent,Tesla,34114
+2022,7261,Petrol,Automatic,Dealer,Fair,Tesla,27193
+2015,162584,Petrol,Semi-Auto,Individual,Excellent,Tesla,20218
+2010,142788,Diesel,Manual,Individual,Fair,Toyota,5969
+2021,91795,Diesel,Automatic,Individual,Poor,Toyota,6650
+2015,33933,Petrol,Manual,Online Platform,Excellent,Toyota,17683
+2007,140450,Petrol,Manual,Online Platform,Poor,Ford,5922
+2003,45583,Diesel,Manual,Dealer,Fair,BMW,19963
+2007,117082,Petrol,Semi-Auto,Online Platform,Good,Toyota,9475
+2003,90371,Hybrid,Automatic,Dealer,Fair,Tesla,21213
+2002,165105,Diesel,Automatic,Online Platform,Good,Tesla,16017
+2002,160072,Petrol,Semi-Auto,Dealer,Poor,Tesla,10304
+2017,116032,Diesel,Automatic,Individual,Poor,Tesla,13617
+2018,47604,Electric,Manual,Online Platform,Excellent,Hyundai,11484
+2018,100074,Diesel,Automatic,Dealer,Good,Ford,12408
+2020,78869,Diesel,Semi-Auto,Online Platform,Fair,BMW,16080
+2004,10410,Electric,Manual,Individual,Poor,BMW,16782
+2017,88375,Hybrid,Semi-Auto,Dealer,Good,Toyota,11440
+2009,192116,Petrol,Manual,Online Platform,Fair,Hyundai,3870
+2021,199387,Electric,Manual,Online Platform,Good,BMW,9656
+2020,101055,Diesel,Automatic,Individual,Fair,Ford,10777
+2005,142868,Petrol,Manual,Individual,Fair,Tesla,12831
+2000,91716,Electric,Semi-Auto,Dealer,Fair,Toyota,8208
+2004,59245,Petrol,Automatic,Online Platform,Fair,Ford,11754
+2008,48056,Petrol,Semi-Auto,Online Platform,Good,BMW,20982
+2011,153781,Electric,Manual,Individual,Good,Hyundai,5754
+2013,63557,Petrol,Semi-Auto,Individual,Excellent,Toyota,13174
+2001,22543,Hybrid,Semi-Auto,Dealer,Good,BMW,26093
+2016,173490,Electric,Manual,Online Platform,Good,Toyota,6121
+2013,101038,Hybrid,Automatic,Online Platform,Excellent,BMW,20589
+2012,152796,Diesel,Semi-Auto,Dealer,Good,Tesla,15759
+2008,8828,Petrol,Manual,Dealer,Fair,Hyundai,8452
+2014,121656,Diesel,Automatic,Individual,Poor,Tesla,12614
+2021,22087,Diesel,Automatic,Individual,Poor,BMW,16768
+2014,148677,Petrol,Automatic,Dealer,Excellent,Ford,10518
+2010,36337,Electric,Semi-Auto,Dealer,Good,Tesla,32504
+2015,141554,Petrol,Semi-Auto,Online Platform,Good,Ford,9240
+2016,70333,Diesel,Semi-Auto,Dealer,Excellent,BMW,27518
+2003,187024,Diesel,Automatic,Dealer,Poor,Hyundai,2385
+2000,141535,Electric,Semi-Auto,Online Platform,Fair,Ford,5947
+2007,75448,Petrol,Manual,Dealer,Good,BMW,22237
+2016,9648,Diesel,Semi-Auto,Individual,Excellent,Ford,20607
+2002,135576,Hybrid,Semi-Auto,Individual,Fair,Tesla,17740
+2019,38623,Diesel,Automatic,Online Platform,Excellent,BMW,32566
+2014,195228,Diesel,Semi-Auto,Dealer,Excellent,Tesla,13800
+2014,40634,Electric,Manual,Individual,Excellent,Toyota,15689
+2021,180674,Hybrid,Automatic,Individual,Poor,BMW,7975
+2013,119598,Diesel,Manual,Individual,Poor,Ford,6773
+2022,54334,Diesel,Automatic,Individual,Excellent,Toyota,16241
+2013,73648,Hybrid,Automatic,Dealer,Good,Tesla,25026
+2001,27054,Petrol,Semi-Auto,Dealer,Fair,Tesla,26840
+2012,75028,Petrol,Manual,Dealer,Good,Ford,13117
+2013,27207,Diesel,Automatic,Dealer,Poor,Toyota,8270
+2018,86554,Diesel,Semi-Auto,Individual,Fair,Hyundai,6562
+2006,157458,Petrol,Automatic,Online Platform,Excellent,Ford,10109
+2002,88276,Electric,Automatic,Online Platform,Good,Tesla,25071
+2014,195590,Hybrid,Automatic,Individual,Good,BMW,11330
+2022,57781,Hybrid,Automatic,Individual,Excellent,Toyota,14588
+2013,188852,Electric,Automatic,Online Platform,Good,Hyundai,2954
+2010,197512,Electric,Automatic,Online Platform,Poor,BMW,6080
+2014,180271,Electric,Semi-Auto,Individual,Excellent,Toyota,8507
+2012,66035,Electric,Automatic,Individual,Good,Ford,13961
+2017,13210,Electric,Manual,Dealer,Excellent,Ford,22267
+2005,49363,Electric,Semi-Auto,Dealer,Fair,Toyota,9953
+2002,83279,Hybrid,Manual,Online Platform,Excellent,Hyundai,9270
+2018,196420,Electric,Automatic,Individual,Good,Toyota,4854
+2014,191356,Petrol,Manual,Online Platform,Poor,BMW,6016
+2022,158504,Electric,Automatic,Dealer,Excellent,BMW,16566
+2004,191470,Electric,Automatic,Dealer,Excellent,Ford,6534
+2009,139393,Hybrid,Semi-Auto,Online Platform,Good,Toyota,8023
+2006,86348,Hybrid,Semi-Auto,Dealer,Poor,Ford,7514
+2016,173455,Electric,Automatic,Individual,Poor,Hyundai,3500
+2006,118816,Hybrid,Semi-Auto,Online Platform,Fair,BMW,13042
+2021,128053,Diesel,Manual,Individual,Fair,Tesla,16392
+2011,188965,Hybrid,Semi-Auto,Individual,Good,Tesla,13673
+2016,171892,Hybrid,Semi-Auto,Dealer,Poor,Toyota,4191
+2012,71262,Hybrid,Manual,Individual,Poor,Toyota,6698
+2019,139832,Hybrid,Semi-Auto,Online Platform,Fair,Tesla,15258
+2003,158262,Petrol,Automatic,Individual,Fair,Toyota,5881
+2009,72411,Petrol,Manual,Individual,Good,BMW,20286
+2002,28377,Petrol,Automatic,Individual,Poor,Hyundai,6400
+2008,182809,Electric,Manual,Individual,Excellent,Hyundai,5601
+2012,43211,Electric,Automatic,Individual,Fair,Ford,12386
+2017,8744,Diesel,Automatic,Dealer,Good,BMW,29234
+2014,29995,Petrol,Semi-Auto,Online Platform,Poor,Toyota,8297
+2003,153049,Electric,Automatic,Dealer,Poor,Toyota,5280
+2014,39542,Hybrid,Semi-Auto,Online Platform,Fair,Ford,12073
+2021,15651,Hybrid,Manual,Online Platform,Good,Ford,17403
+2001,104239,Petrol,Automatic,Online Platform,Excellent,Toyota,12916
+2014,83931,Diesel,Automatic,Online Platform,Fair,Toyota,7563
+2007,107112,Diesel,Manual,Online Platform,Good,BMW,19690
+2007,21715,Hybrid,Manual,Individual,Poor,Ford,9110
+2016,180481,Diesel,Automatic,Dealer,Excellent,BMW,18276
+2011,160378,Petrol,Manual,Dealer,Good,Toyota,7372
+2018,155158,Hybrid,Semi-Auto,Individual,Excellent,Tesla,21090
+2009,150448,Electric,Manual,Online Platform,Good,Tesla,14169
+2008,66350,Electric,Manual,Dealer,Good,Toyota,11304
+2004,76425,Diesel,Automatic,Individual,Good,Ford,12964
+2005,172708,Hybrid,Semi-Auto,Individual,Good,Tesla,17942
+2019,91120,Hybrid,Manual,Dealer,Excellent,Ford,15826
+2001,119889,Electric,Semi-Auto,Dealer,Fair,Tesla,14496
+2012,187721,Hybrid,Semi-Auto,Online Platform,Excellent,Ford,8591
+2005,170682,Hybrid,Semi-Auto,Online Platform,Good,Tesla,12457
+2004,146130,Hybrid,Automatic,Dealer,Excellent,Ford,9318
+2000,79637,Diesel,Manual,Online Platform,Excellent,BMW,27259
+2020,75194,Hybrid,Automatic,Individual,Excellent,Ford,16990
+2021,81917,Petrol,Manual,Online Platform,Good,BMW,22496
+2020,69200,Diesel,Manual,Online Platform,Excellent,BMW,31079
+2005,110848,Hybrid,Automatic,Individual,Poor,Toyota,5840
+2005,111022,Hybrid,Semi-Auto,Online Platform,Good,BMW,19152
+2022,182691,Petrol,Semi-Auto,Individual,Excellent,Hyundai,4755
+2015,153226,Diesel,Manual,Online Platform,Poor,BMW,9578
+2003,155611,Electric,Automatic,Dealer,Excellent,Ford,8612
+2010,65058,Electric,Semi-Auto,Online Platform,Fair,BMW,21219
+2022,67068,Diesel,Semi-Auto,Dealer,Excellent,Ford,17711
+2008,104932,Hybrid,Manual,Dealer,Excellent,Ford,17057
+2022,166445,Hybrid,Manual,Dealer,Fair,Hyundai,4460
+2002,169226,Electric,Automatic,Dealer,Good,BMW,14457
+2018,142103,Electric,Manual,Dealer,Fair,BMW,12299
+2007,27785,Electric,Semi-Auto,Individual,Good,Tesla,31682
+2004,164741,Petrol,Semi-Auto,Individual,Fair,Tesla,11152
+2003,99475,Electric,Semi-Auto,Individual,Excellent,Toyota,10728
+2005,7282,Petrol,Semi-Auto,Dealer,Excellent,Ford,21280
+2001,170696,Diesel,Automatic,Online Platform,Good,Hyundai,5142
+2019,184510,Hybrid,Automatic,Individual,Good,Tesla,11590
+2010,72534,Electric,Manual,Online Platform,Poor,BMW,12839
+2003,167777,Hybrid,Manual,Online Platform,Poor,Toyota,3981
+2014,174316,Hybrid,Manual,Dealer,Excellent,Hyundai,5245
+2005,79964,Electric,Automatic,Dealer,Excellent,BMW,27046
+2021,173509,Electric,Semi-Auto,Dealer,Poor,BMW,6633
+2016,124006,Diesel,Manual,Individual,Poor,Ford,6473
+2005,55583,Petrol,Semi-Auto,Dealer,Good,Ford,13629
+2018,43392,Petrol,Manual,Individual,Fair,Tesla,22344
+2001,12461,Hybrid,Manual,Individual,Good,Tesla,29412
+2014,105123,Electric,Manual,Individual,Poor,BMW,11548
+2010,15516,Diesel,Manual,Individual,Excellent,BMW,36755
+2007,153586,Diesel,Manual,Dealer,Poor,Tesla,11716
+2018,126251,Diesel,Semi-Auto,Individual,Excellent,Tesla,25005
+2012,172340,Diesel,Manual,Dealer,Excellent,BMW,11717
+2011,172860,Diesel,Semi-Auto,Dealer,Excellent,Hyundai,6710
+2004,197121,Petrol,Automatic,Individual,Excellent,BMW,12751
+2005,67493,Petrol,Manual,Dealer,Fair,Hyundai,7245
+2021,41027,Petrol,Semi-Auto,Online Platform,Poor,Hyundai,6650
+2003,98547,Electric,Automatic,Dealer,Good,BMW,21068
+2018,178921,Hybrid,Automatic,Dealer,Excellent,Toyota,9030
+2019,105127,Diesel,Automatic,Individual,Excellent,Tesla,24330
+2000,153930,Electric,Semi-Auto,Individual,Good,Ford,7569
+2019,84003,Diesel,Manual,Dealer,Good,BMW,19861
+2016,188467,Petrol,Manual,Individual,Excellent,Hyundai,5148
+2011,44758,Electric,Semi-Auto,Online Platform,Good,BMW,27906
+2014,59312,Petrol,Manual,Online Platform,Good,Tesla,26988
+2000,73670,Diesel,Semi-Auto,Individual,Fair,Hyundai,6953
+2013,87279,Diesel,Manual,Dealer,Good,Ford,13138
+2005,20434,Hybrid,Automatic,Online Platform,Poor,Ford,10519
+2004,183847,Diesel,Manual,Online Platform,Poor,Ford,2973
+2010,80769,Petrol,Semi-Auto,Dealer,Poor,Toyota,7044
+2003,71677,Diesel,Semi-Auto,Individual,Excellent,Hyundai,10487
+2012,88555,Hybrid,Automatic,Online Platform,Poor,Hyundai,5037
+2010,133379,Hybrid,Semi-Auto,Dealer,Fair,Toyota,7515
+2002,181806,Petrol,Manual,Dealer,Poor,Hyundai,2758
+2000,106665,Electric,Manual,Online Platform,Excellent,Toyota,10221
+2005,176675,Diesel,Automatic,Individual,Fair,BMW,8097
+2017,73803,Hybrid,Semi-Auto,Online Platform,Poor,Tesla,15803
+2009,175404,Diesel,Automatic,Dealer,Fair,Ford,5739
+2004,96703,Diesel,Manual,Online Platform,Fair,Toyota,8167
+2022,26312,Electric,Automatic,Individual,Excellent,Toyota,16060
+2009,180251,Hybrid,Semi-Auto,Dealer,Excellent,Toyota,8302
+2011,122961,Diesel,Automatic,Individual,Fair,BMW,14192
+2001,45379,Hybrid,Semi-Auto,Online Platform,Poor,Toyota,6845
+2012,22297,Petrol,Semi-Auto,Online Platform,Excellent,Tesla,40593
+2007,7011,Petrol,Manual,Individual,Fair,Tesla,30014
+2001,125234,Diesel,Manual,Online Platform,Good,Ford,10625
+2019,49014,Hybrid,Manual,Individual,Good,BMW,25447
+2000,147810,Diesel,Semi-Auto,Online Platform,Excellent,Tesla,19668
+2004,99333,Hybrid,Automatic,Individual,Poor,Hyundai,4728
+2008,183570,Hybrid,Semi-Auto,Individual,Good,Hyundai,4958
+2016,16120,Electric,Manual,Dealer,Good,Hyundai,12034
+2008,144839,Electric,Manual,Dealer,Good,Toyota,8092
+2010,27852,Electric,Automatic,Individual,Poor,Toyota,8982
+2014,84239,Diesel,Manual,Online Platform,Poor,Hyundai,5213
+2005,137001,Electric,Manual,Online Platform,Excellent,Ford,10524
+2022,96575,Electric,Manual,Online Platform,Excellent,Ford,13466
+2002,100040,Petrol,Automatic,Individual,Good,Toyota,10923
+2016,153510,Hybrid,Semi-Auto,Individual,Poor,Hyundai,3878
+2004,184587,Hybrid,Manual,Individual,Fair,Ford,4355
+2011,10744,Electric,Automatic,Individual,Good,Toyota,14305
+2017,178489,Hybrid,Manual,Dealer,Excellent,Hyundai,5707
+2013,143141,Petrol,Automatic,Individual,Poor,BMW,8735
+2020,47359,Petrol,Manual,Online Platform,Excellent,Hyundai,11111
+2010,155871,Electric,Automatic,Dealer,Excellent,Hyundai,6361
+2008,103746,Petrol,Manual,Online Platform,Poor,Tesla,12736
+2001,125906,Hybrid,Semi-Auto,Individual,Good,Tesla,17884
+2011,12597,Diesel,Manual,Dealer,Poor,BMW,17990
+2002,52093,Hybrid,Automatic,Individual,Good,BMW,25215
+2002,173298,Diesel,Manual,Dealer,Excellent,Hyundai,5747
+2000,119650,Electric,Semi-Auto,Online Platform,Poor,Ford,5374
+2007,162489,Diesel,Manual,Individual,Fair,BMW,10641
+2021,154765,Petrol,Automatic,Individual,Good,Hyundai,6122
+2007,125956,Hybrid,Automatic,Dealer,Fair,Toyota,6520
+2010,120598,Diesel,Semi-Auto,Dealer,Good,Tesla,18917
+2008,189233,Hybrid,Automatic,Individual,Poor,Ford,3921
+2004,138241,Electric,Manual,Dealer,Fair,Hyundai,5337
+2013,158124,Electric,Manual,Individual,Poor,Toyota,3356
+2002,13036,Petrol,Manual,Dealer,Good,Tesla,35848
+2020,36778,Electric,Automatic,Online Platform,Good,Toyota,12224
+2004,163806,Diesel,Manual,Dealer,Good,Hyundai,5194
+2004,159245,Electric,Manual,Online Platform,Good,BMW,15847
+2018,166475,Petrol,Manual,Dealer,Excellent,Tesla,18956
+2013,142416,Hybrid,Semi-Auto,Dealer,Good,Toyota,8701
+2003,23800,Hybrid,Automatic,Individual,Fair,BMW,23960
+2012,30372,Electric,Automatic,Dealer,Good,Ford,14863
+2009,66516,Diesel,Automatic,Dealer,Poor,Hyundai,5928
+2017,25538,Petrol,Semi-Auto,Online Platform,Excellent,Hyundai,14128
+2007,68918,Diesel,Automatic,Dealer,Fair,Tesla,21041
+2007,151045,Petrol,Semi-Auto,Individual,Excellent,Toyota,8670
+2006,76155,Electric,Semi-Auto,Online Platform,Excellent,Ford,14050
+2007,64500,Petrol,Automatic,Individual,Excellent,Tesla,34610
+2013,172647,Petrol,Manual,Individual,Poor,Tesla,6253
+2018,178333,Electric,Manual,Individual,Excellent,Toyota,8171
+2005,115659,Diesel,Automatic,Individual,Excellent,Ford,11741
+2000,32716,Electric,Automatic,Online Platform,Good,Toyota,14407
+2022,139308,Petrol,Semi-Auto,Dealer,Poor,Hyundai,3999
+2014,151920,Electric,Automatic,Individual,Fair,BMW,13057
+2000,7352,Petrol,Semi-Auto,Online Platform,Fair,Hyundai,8974
+2016,138004,Electric,Automatic,Individual,Fair,Hyundai,4543
+2000,81449,Hybrid,Manual,Dealer,Poor,Tesla,13446
+2014,13556,Hybrid,Manual,Online Platform,Fair,Hyundai,9689
+2022,91836,Electric,Automatic,Online Platform,Poor,Ford,7851
+2001,141570,Diesel,Semi-Auto,Dealer,Good,Hyundai,6756
+2013,55098,Petrol,Manual,Online Platform,Good,Ford,14956
+2020,117169,Hybrid,Semi-Auto,Dealer,Poor,Toyota,5729
+2007,145641,Diesel,Automatic,Online Platform,Fair,Tesla,13998
+2007,131060,Petrol,Automatic,Online Platform,Poor,Ford,6281
+2018,192954,Hybrid,Manual,Dealer,Poor,Hyundai,2260
+2006,135544,Hybrid,Automatic,Dealer,Excellent,Tesla,22304
+2018,5340,Electric,Manual,Online Platform,Poor,Tesla,23821
+2005,180021,Petrol,Semi-Auto,Online Platform,Excellent,Ford,8680
+2005,87302,Diesel,Manual,Dealer,Good,Ford,10987
+2002,198515,Diesel,Manual,Dealer,Excellent,BMW,11442
+2006,5138,Diesel,Semi-Auto,Online Platform,Poor,BMW,16739
+2018,136430,Petrol,Manual,Online Platform,Good,Tesla,19361
+2007,124619,Diesel,Manual,Online Platform,Excellent,BMW,19444
+2009,90376,Diesel,Automatic,Dealer,Poor,Hyundai,4954
+2019,104931,Diesel,Semi-Auto,Online Platform,Good,Toyota,9198
+2014,166726,Electric,Manual,Individual,Excellent,Tesla,19072
+2014,161951,Electric,Semi-Auto,Dealer,Poor,Toyota,3859
+2000,86532,Petrol,Semi-Auto,Online Platform,Poor,BMW,13129
+2019,60778,Petrol,Manual,Dealer,Fair,Ford,12885
+2006,42772,Diesel,Automatic,Individual,Fair,Tesla,22391
+2003,63478,Electric,Semi-Auto,Dealer,Excellent,BMW,29685
+2005,31762,Hybrid,Manual,Online Platform,Excellent,Hyundai,11109
+2000,149355,Hybrid,Semi-Auto,Individual,Excellent,Tesla,20601
+2004,199994,Diesel,Automatic,Individual,Poor,Tesla,7240
+2022,175492,Diesel,Automatic,Online Platform,Excellent,Ford,8156
+2000,60568,Electric,Automatic,Online Platform,Poor,Tesla,14883
+2003,90090,Electric,Manual,Online Platform,Excellent,Ford,15072
+2021,25219,Electric,Manual,Dealer,Poor,BMW,17865
+2001,62169,Petrol,Automatic,Dealer,Poor,Hyundai,5655
+2009,79965,Petrol,Manual,Dealer,Fair,Hyundai,7309
+2004,182912,Diesel,Automatic,Online Platform,Good,Tesla,15632
+2009,180767,Petrol,Manual,Online Platform,Poor,Tesla,10941
+2000,89754,Electric,Automatic,Dealer,Excellent,BMW,23335
+2021,82988,Electric,Semi-Auto,Individual,Fair,Ford,9733
+2005,194414,Petrol,Automatic,Dealer,Excellent,Hyundai,4857
+2012,155023,Hybrid,Automatic,Individual,Excellent,Ford,11103
+2014,137379,Diesel,Manual,Online Platform,Poor,BMW,7668
+2003,85388,Hybrid,Manual,Online Platform,Poor,Hyundai,5386
+2012,95768,Diesel,Manual,Dealer,Good,Hyundai,8258
+2019,40428,Hybrid,Manual,Dealer,Poor,Toyota,7546
+2014,97021,Petrol,Manual,Online Platform,Poor,BMW,12561
+2007,123418,Diesel,Manual,Dealer,Good,BMW,18992
+2004,175047,Diesel,Semi-Auto,Online Platform,Excellent,Toyota,8422
+2014,137212,Diesel,Automatic,Online Platform,Good,Ford,9780
+2003,160914,Electric,Automatic,Individual,Good,Toyota,7198
+2011,31421,Electric,Automatic,Dealer,Good,BMW,27290
+2012,6708,Hybrid,Semi-Auto,Online Platform,Fair,Ford,14964
+2001,139702,Petrol,Automatic,Dealer,Excellent,Hyundai,7968
+2018,155667,Electric,Semi-Auto,Individual,Fair,Toyota,6160
+2018,81021,Diesel,Semi-Auto,Individual,Fair,Ford,11153
+2003,164380,Electric,Semi-Auto,Dealer,Poor,Ford,5939
+2003,49789,Petrol,Automatic,Dealer,Good,Ford,14485
+2010,191762,Electric,Semi-Auto,Online Platform,Good,Toyota,6631
+2004,31086,Diesel,Automatic,Individual,Fair,Hyundai,9791
+2019,21859,Hybrid,Automatic,Individual,Poor,Ford,9731
+2010,12684,Diesel,Manual,Individual,Poor,Toyota,8521
+2009,96088,Petrol,Manual,Dealer,Poor,BMW,11849
+2007,137279,Hybrid,Semi-Auto,Online Platform,Excellent,Toyota,10354
+2005,51099,Electric,Semi-Auto,Dealer,Fair,Toyota,8839
+2005,71093,Electric,Automatic,Dealer,Excellent,Toyota,13284
+2007,165761,Electric,Semi-Auto,Dealer,Poor,Ford,4684
+2022,53651,Hybrid,Semi-Auto,Online Platform,Poor,Toyota,7227
+2014,18893,Diesel,Automatic,Dealer,Poor,BMW,16532
+2013,71418,Hybrid,Semi-Auto,Individual,Good,Ford,13274
+2010,130074,Hybrid,Semi-Auto,Individual,Fair,BMW,14526
+2011,108065,Petrol,Automatic,Individual,Good,Tesla,23334
+2012,135351,Hybrid,Automatic,Online Platform,Excellent,Toyota,11412
+2007,196083,Electric,Manual,Dealer,Good,Ford,6936
+2017,43635,Diesel,Automatic,Online Platform,Fair,Ford,11515
+2000,192187,Diesel,Manual,Dealer,Good,Toyota,5263
+2014,100071,Diesel,Semi-Auto,Individual,Poor,Hyundai,4698
+2007,83518,Electric,Automatic,Dealer,Excellent,Hyundai,10574
+2010,111233,Electric,Automatic,Dealer,Excellent,BMW,24619
+2011,108651,Electric,Automatic,Dealer,Poor,Toyota,5824
+2011,77805,Electric,Semi-Auto,Online Platform,Poor,Toyota,6750
+2003,195026,Electric,Manual,Dealer,Poor,Tesla,7358
+2015,164136,Hybrid,Semi-Auto,Dealer,Fair,Hyundai,4736
+2003,127813,Electric,Semi-Auto,Dealer,Good,Hyundai,6546
+2004,84063,Electric,Automatic,Online Platform,Excellent,Toyota,11644
+2004,7454,Electric,Manual,Online Platform,Good,BMW,30221
+2007,25878,Electric,Semi-Auto,Online Platform,Poor,Toyota,8392
+2009,187170,Diesel,Automatic,Dealer,Poor,BMW,7960
+2016,198226,Electric,Semi-Auto,Individual,Good,Hyundai,2614
+2008,149063,Hybrid,Semi-Auto,Individual,Excellent,Tesla,20920
+2021,73344,Hybrid,Automatic,Individual,Fair,Ford,10956
+2018,109946,Hybrid,Automatic,Dealer,Good,Hyundai,6695
+2013,41593,Petrol,Manual,Individual,Poor,BMW,15426
+2007,41304,Diesel,Semi-Auto,Individual,Poor,Toyota,8294
+2008,166458,Electric,Automatic,Individual,Fair,Hyundai,5274
+2021,191292,Petrol,Automatic,Dealer,Good,Tesla,14401
+2010,118613,Electric,Manual,Individual,Fair,BMW,14121
+2022,157155,Petrol,Manual,Individual,Fair,Toyota,6470
+2000,23354,Petrol,Automatic,Dealer,Excellent,Ford,20902
+2013,27190,Hybrid,Manual,Online Platform,Excellent,BMW,31865
+2004,11142,Hybrid,Automatic,Individual,Poor,Toyota,8403
+2020,164470,Petrol,Semi-Auto,Online Platform,Good,Ford,7980
+2013,188043,Hybrid,Manual,Individual,Excellent,Toyota,5771
+2003,46862,Petrol,Semi-Auto,Dealer,Poor,Ford,8945
+2021,189482,Diesel,Semi-Auto,Online Platform,Good,Ford,7069
+2022,155575,Hybrid,Semi-Auto,Online Platform,Poor,Ford,5760
+2000,130438,Hybrid,Automatic,Online Platform,Excellent,Toyota,9832
+2021,53456,Hybrid,Semi-Auto,Online Platform,Poor,Ford,9625
+2022,105167,Diesel,Semi-Auto,Individual,Good,BMW,20458
+2018,87035,Petrol,Semi-Auto,Individual,Good,Tesla,26063
+2007,13016,Electric,Automatic,Online Platform,Poor,Tesla,19123
+2014,7384,Hybrid,Semi-Auto,Individual,Good,Ford,19183
+2020,198392,Petrol,Semi-Auto,Online Platform,Poor,Tesla,7693
+2014,151144,Diesel,Manual,Online Platform,Good,Tesla,16784
+2008,107239,Electric,Automatic,Dealer,Poor,Ford,6664
+2020,116431,Hybrid,Semi-Auto,Online Platform,Poor,Ford,6440
+2008,85018,Diesel,Manual,Individual,Poor,BMW,11982
+2009,45510,Diesel,Automatic,Online Platform,Fair,Hyundai,8618
+2019,185005,Electric,Automatic,Dealer,Good,Toyota,5062
+2020,26826,Petrol,Automatic,Individual,Excellent,Ford,19981
+2008,73026,Hybrid,Automatic,Dealer,Poor,Ford,7928
+2002,126668,Hybrid,Automatic,Dealer,Fair,Tesla,17116
+2019,161590,Petrol,Automatic,Online Platform,Excellent,BMW,18061
+2010,29045,Petrol,Semi-Auto,Dealer,Poor,Tesla,18290
+2005,186948,Petrol,Semi-Auto,Dealer,Excellent,Ford,8103
+2001,95102,Electric,Semi-Auto,Individual,Fair,Ford,8795
+2006,56919,Electric,Semi-Auto,Dealer,Excellent,Tesla,37602
+2017,104441,Hybrid,Manual,Online Platform,Poor,Ford,7616
+2001,163175,Electric,Semi-Auto,Online Platform,Excellent,Hyundai,5562
+2016,172260,Diesel,Automatic,Online Platform,Excellent,Toyota,6884
+2010,141917,Hybrid,Semi-Auto,Dealer,Poor,Toyota,4681
+2011,172746,Electric,Semi-Auto,Individual,Fair,Toyota,5113
+2018,123325,Petrol,Automatic,Online Platform,Fair,Hyundai,5324
+2021,24337,Diesel,Semi-Auto,Dealer,Excellent,Ford,18611
+2006,158385,Petrol,Semi-Auto,Online Platform,Good,Tesla,17213
+2019,163015,Hybrid,Semi-Auto,Online Platform,Excellent,BMW,19569
+2005,82949,Petrol,Manual,Individual,Good,Ford,13072
+2020,5276,Electric,Semi-Auto,Online Platform,Excellent,Hyundai,13936
+2000,56151,Electric,Automatic,Individual,Fair,Hyundai,7612
+2016,153683,Hybrid,Automatic,Dealer,Excellent,Toyota,7791
+2010,148016,Petrol,Semi-Auto,Online Platform,Excellent,Ford,10217
+2021,57887,Hybrid,Semi-Auto,Dealer,Good,Toyota,12957
+2017,86442,Petrol,Semi-Auto,Dealer,Fair,BMW,14599
+2020,54847,Diesel,Automatic,Dealer,Good,Toyota,12310
+2016,63653,Electric,Automatic,Online Platform,Excellent,BMW,28411
+2006,61622,Hybrid,Manual,Individual,Poor,Hyundai,5763
+2016,32810,Diesel,Manual,Online Platform,Excellent,Toyota,16686
+2019,82842,Diesel,Manual,Dealer,Excellent,Toyota,13084
+2008,127225,Hybrid,Automatic,Individual,Good,Tesla,19362
+2016,15503,Hybrid,Manual,Dealer,Poor,Hyundai,6591
+2019,89761,Diesel,Semi-Auto,Individual,Poor,Tesla,16079
+2021,173048,Petrol,Semi-Auto,Online Platform,Good,BMW,14256
+2021,131439,Diesel,Automatic,Individual,Fair,BMW,16938
+2007,16590,Hybrid,Manual,Online Platform,Poor,Hyundai,6700
+2016,146958,Diesel,Semi-Auto,Dealer,Poor,BMW,8608
+2006,148938,Petrol,Automatic,Individual,Good,Hyundai,6314
+2000,71624,Electric,Manual,Dealer,Fair,BMW,18784
+2012,168864,Electric,Semi-Auto,Individual,Fair,Ford,6752
+2022,145836,Diesel,Manual,Online Platform,Excellent,Toyota,10012
+2018,125356,Petrol,Automatic,Individual,Excellent,Ford,13251
+2018,47727,Electric,Manual,Individual,Good,Hyundai,10735
+2016,83471,Diesel,Automatic,Online Platform,Fair,Hyundai,7508
+2012,13068,Diesel,Manual,Online Platform,Good,Ford,18319
+2015,121923,Petrol,Semi-Auto,Online Platform,Excellent,Toyota,8649
+2007,143367,Hybrid,Automatic,Individual,Good,Toyota,8005
+2018,177232,Diesel,Automatic,Dealer,Good,Tesla,12707
+2017,16390,Hybrid,Automatic,Individual,Poor,BMW,17966
+2000,111752,Hybrid,Manual,Individual,Poor,Tesla,10780
+2013,156203,Electric,Manual,Dealer,Poor,Toyota,4975
+2018,99754,Hybrid,Semi-Auto,Online Platform,Excellent,Ford,13483
+2014,80969,Petrol,Automatic,Individual,Good,BMW,20262
+2017,151110,Electric,Automatic,Dealer,Poor,Ford,5552
+2001,188399,Electric,Manual,Online Platform,Poor,Tesla,7420
+2021,82064,Electric,Manual,Online Platform,Poor,Hyundai,5871
+2016,26281,Diesel,Semi-Auto,Individual,Excellent,Ford,21179
+2017,59189,Diesel,Semi-Auto,Online Platform,Excellent,Tesla,32640
+2005,53511,Hybrid,Manual,Online Platform,Good,Tesla,30581
+2018,127115,Electric,Automatic,Dealer,Good,Tesla,19215
+2003,13605,Electric,Semi-Auto,Dealer,Good,Hyundai,11123
+2000,105318,Petrol,Manual,Online Platform,Poor,Hyundai,4929
+2007,137453,Hybrid,Manual,Dealer,Fair,Hyundai,5900
+2022,24810,Petrol,Automatic,Online Platform,Excellent,BMW,32228
+2006,160394,Hybrid,Manual,Individual,Poor,Hyundai,3219
+2002,46869,Hybrid,Manual,Dealer,Poor,Hyundai,6183
+2009,37955,Diesel,Semi-Auto,Online Platform,Good,Hyundai,9945
+2009,66388,Diesel,Manual,Online Platform,Good,Ford,15425
+2018,15207,Petrol,Manual,Dealer,Poor,Hyundai,6509
+2013,164292,Hybrid,Semi-Auto,Dealer,Excellent,BMW,15145
+2001,27031,Electric,Automatic,Individual,Excellent,Tesla,41926
+2000,85807,Diesel,Automatic,Online Platform,Poor,Ford,7826
+2022,76312,Electric,Semi-Auto,Individual,Fair,Toyota,10113
+2022,64766,Petrol,Semi-Auto,Individual,Fair,Hyundai,7422
+2017,148521,Diesel,Automatic,Individual,Excellent,Tesla,26498
+2006,94833,Diesel,Automatic,Dealer,Good,Tesla,25013
+2007,192771,Hybrid,Automatic,Individual,Fair,Ford,4605
+2000,116041,Petrol,Automatic,Dealer,Fair,Toyota,6897
+2022,121185,Hybrid,Automatic,Dealer,Good,BMW,15695
+2002,182164,Diesel,Semi-Auto,Individual,Fair,Tesla,9111
+2022,199743,Petrol,Manual,Individual,Poor,Tesla,6325
+2007,15350,Diesel,Automatic,Online Platform,Fair,Tesla,25179
+2021,105859,Petrol,Automatic,Individual,Good,Tesla,18138
+2014,73487,Diesel,Manual,Online Platform,Poor,Ford,8608
+2004,153694,Electric,Manual,Individual,Fair,Toyota,6317
+2002,128853,Electric,Manual,Individual,Excellent,Tesla,24608
+2018,58117,Hybrid,Manual,Individual,Poor,BMW,13491
+2000,194466,Electric,Manual,Individual,Poor,BMW,7814
+2014,106084,Diesel,Manual,Online Platform,Excellent,Hyundai,9179
+2007,28782,Diesel,Semi-Auto,Online Platform,Excellent,Tesla,36220
+2001,33454,Electric,Manual,Individual,Fair,Tesla,25203
+2002,72904,Hybrid,Manual,Individual,Fair,Tesla,21440
+2013,134936,Electric,Semi-Auto,Online Platform,Good,Tesla,14877
+2013,151664,Petrol,Manual,Dealer,Good,Tesla,17251
+2010,158245,Petrol,Automatic,Dealer,Poor,BMW,8613
+2015,169276,Petrol,Automatic,Dealer,Excellent,Toyota,7502
+2003,171668,Electric,Manual,Online Platform,Excellent,Toyota,6510
+2019,170396,Electric,Semi-Auto,Online Platform,Good,Hyundai,4408
+2004,127258,Electric,Automatic,Dealer,Poor,BMW,10827
+2021,116668,Petrol,Semi-Auto,Dealer,Poor,Tesla,13632
+2020,197274,Hybrid,Automatic,Individual,Good,Toyota,4800
+2013,129184,Diesel,Manual,Online Platform,Good,Ford,10593
+2022,166822,Electric,Semi-Auto,Online Platform,Good,Ford,7578
+2015,21566,Hybrid,Semi-Auto,Dealer,Fair,Ford,12750
+2017,143262,Diesel,Semi-Auto,Dealer,Poor,Tesla,11196
+2006,43333,Diesel,Automatic,Online Platform,Poor,Tesla,16760
+2009,126929,Diesel,Automatic,Individual,Poor,Hyundai,4835
+2006,94571,Hybrid,Automatic,Dealer,Good,Hyundai,7354
+2000,125263,Hybrid,Manual,Online Platform,Good,Hyundai,7159
+2022,137661,Petrol,Automatic,Online Platform,Good,Ford,9875
+2020,30235,Hybrid,Manual,Individual,Good,Tesla,31580
+2018,5159,Hybrid,Semi-Auto,Individual,Excellent,Ford,22830
+2015,148217,Hybrid,Semi-Auto,Dealer,Good,Hyundai,4459
+2018,167993,Diesel,Manual,Dealer,Fair,Tesla,12897
+2003,109859,Electric,Automatic,Dealer,Excellent,BMW,22324
+2017,152309,Petrol,Manual,Online Platform,Excellent,Toyota,9387
+2001,112507,Electric,Semi-Auto,Dealer,Good,Toyota,9415
+2000,144316,Electric,Semi-Auto,Online Platform,Poor,Hyundai,3709
+2014,19743,Hybrid,Manual,Dealer,Good,Ford,15728
+2004,51101,Petrol,Automatic,Individual,Poor,BMW,14328
+2019,126534,Electric,Automatic,Individual,Good,Tesla,25717
+2010,89227,Electric,Manual,Online Platform,Good,Ford,13180
+2009,192450,Petrol,Manual,Individual,Poor,Hyundai,2960
+2001,76126,Hybrid,Automatic,Online Platform,Poor,Ford,7869
+2002,61071,Electric,Semi-Auto,Online Platform,Poor,Hyundai,5426
+2022,79763,Diesel,Manual,Individual,Poor,Toyota,6956
+2022,148309,Electric,Automatic,Online Platform,Fair,Toyota,4925
+2011,151721,Diesel,Automatic,Individual,Poor,Ford,4986
+2019,173785,Hybrid,Semi-Auto,Dealer,Good,BMW,12089
+2004,181481,Electric,Semi-Auto,Dealer,Good,Tesla,15480
+2004,184838,Petrol,Semi-Auto,Individual,Fair,Hyundai,3883
+2005,51154,Petrol,Semi-Auto,Individual,Poor,Tesla,16922
+2008,12016,Electric,Semi-Auto,Individual,Good,Toyota,14675
+2001,184760,Hybrid,Manual,Individual,Fair,BMW,8855
+2020,94678,Hybrid,Automatic,Dealer,Good,BMW,22137
+2011,117056,Petrol,Manual,Online Platform,Fair,Tesla,17405
+2002,59238,Electric,Manual,Online Platform,Fair,Toyota,10672
+2019,63608,Hybrid,Manual,Dealer,Excellent,Tesla,32511
+2021,94081,Petrol,Manual,Online Platform,Excellent,Ford,16149
+2011,167969,Diesel,Manual,Dealer,Poor,BMW,8003
+2016,55961,Electric,Semi-Auto,Online Platform,Excellent,BMW,28029
+2009,180829,Diesel,Semi-Auto,Individual,Fair,Ford,7593
+2013,31917,Diesel,Automatic,Individual,Good,Toyota,14386
+2022,158808,Hybrid,Manual,Individual,Good,BMW,14470
+2016,32990,Hybrid,Automatic,Dealer,Poor,Hyundai,6683
+2017,67551,Hybrid,Semi-Auto,Dealer,Excellent,Hyundai,10378
+2018,194233,Electric,Semi-Auto,Online Platform,Poor,Toyota,2701
+2016,158512,Diesel,Semi-Auto,Online Platform,Fair,Ford,7593
+2013,171277,Electric,Manual,Online Platform,Excellent,Tesla,18031
+2008,85811,Hybrid,Manual,Dealer,Poor,Toyota,6355
+2007,60103,Diesel,Semi-Auto,Online Platform,Good,Tesla,27484
+2001,177699,Electric,Automatic,Individual,Good,Toyota,6229
+2012,111122,Electric,Automatic,Online Platform,Poor,Hyundai,4441
+2006,24008,Petrol,Semi-Auto,Individual,Poor,Ford,8838
+2008,37402,Electric,Automatic,Dealer,Poor,Hyundai,6812
+2021,189456,Hybrid,Semi-Auto,Individual,Fair,Ford,5226
+2021,141865,Electric,Automatic,Individual,Fair,Tesla,17323
+2010,141643,Diesel,Semi-Auto,Individual,Good,Toyota,6596
+2013,152281,Electric,Automatic,Dealer,Fair,BMW,9698
+2003,118550,Petrol,Manual,Dealer,Fair,BMW,14185
+2012,179220,Diesel,Semi-Auto,Dealer,Excellent,Ford,9751
+2001,96218,Diesel,Semi-Auto,Dealer,Fair,Ford,8903
+2022,138296,Petrol,Automatic,Online Platform,Excellent,Hyundai,6855
+2004,184767,Hybrid,Semi-Auto,Dealer,Fair,BMW,9664
+2010,125779,Diesel,Semi-Auto,Individual,Good,Hyundai,6781
+2005,134714,Hybrid,Semi-Auto,Dealer,Poor,Tesla,12141
+2017,37441,Diesel,Manual,Online Platform,Good,BMW,25813
+2020,175201,Diesel,Manual,Online Platform,Fair,Tesla,12187
+2009,67368,Hybrid,Automatic,Online Platform,Poor,Toyota,7593
+2003,97122,Diesel,Manual,Individual,Poor,Hyundai,4430
+2008,49760,Hybrid,Automatic,Dealer,Poor,Ford,9648
+2005,28478,Petrol,Manual,Dealer,Excellent,BMW,29515
+2001,132881,Hybrid,Automatic,Dealer,Good,Hyundai,7050
+2016,76854,Petrol,Manual,Individual,Excellent,Ford,17599
+2004,99230,Diesel,Manual,Individual,Poor,Toyota,5787
+2005,90716,Hybrid,Automatic,Online Platform,Good,BMW,21895
+2011,148252,Diesel,Semi-Auto,Online Platform,Good,Tesla,16851
+2022,103538,Hybrid,Semi-Auto,Dealer,Fair,Toyota,8209
+2020,20372,Petrol,Manual,Individual,Excellent,Ford,17694
+2009,34796,Petrol,Automatic,Individual,Excellent,BMW,32116
+2021,194344,Hybrid,Semi-Auto,Dealer,Fair,BMW,8926
+2020,103826,Petrol,Automatic,Dealer,Excellent,Toyota,12980
+2005,125592,Diesel,Semi-Auto,Online Platform,Poor,BMW,11297
+2007,98635,Diesel,Automatic,Online Platform,Poor,Ford,7162
+2001,116022,Electric,Manual,Online Platform,Excellent,Toyota,11279
+2011,59040,Petrol,Automatic,Dealer,Fair,Tesla,20465
+2012,80357,Diesel,Semi-Auto,Dealer,Good,Toyota,12215
+2020,83356,Hybrid,Manual,Online Platform,Excellent,Toyota,13620
+2006,21211,Petrol,Automatic,Online Platform,Good,Tesla,29268
+2009,110426,Diesel,Semi-Auto,Individual,Fair,Ford,9276
+2012,10842,Petrol,Manual,Individual,Good,Hyundai,11759
+2016,199187,Hybrid,Automatic,Online Platform,Fair,Hyundai,2854
+2020,71852,Diesel,Semi-Auto,Online Platform,Fair,Tesla,21429
+2013,130737,Electric,Automatic,Individual,Poor,Ford,5621
+2001,50968,Electric,Automatic,Online Platform,Poor,BMW,13677
+2021,22508,Petrol,Manual,Individual,Fair,Tesla,25040
+2010,158077,Hybrid,Manual,Individual,Excellent,Hyundai,6935
+2000,59575,Diesel,Semi-Auto,Individual,Poor,Ford,9156
+2018,155043,Hybrid,Manual,Dealer,Fair,Toyota,5840
+2020,161671,Diesel,Semi-Auto,Dealer,Good,Ford,9144
+2003,71914,Petrol,Automatic,Online Platform,Good,Ford,14268
+2018,72055,Diesel,Automatic,Individual,Excellent,Hyundai,10195
+2020,92697,Hybrid,Semi-Auto,Dealer,Good,Hyundai,8676
+2010,111239,Hybrid,Automatic,Online Platform,Good,BMW,19879
+2007,128106,Petrol,Manual,Online Platform,Fair,BMW,15841
+2010,10355,Hybrid,Automatic,Online Platform,Good,Tesla,34510
+2003,59120,Diesel,Manual,Online Platform,Good,Toyota,11117
+2016,43342,Petrol,Semi-Auto,Online Platform,Good,BMW,24834
+2006,7257,Diesel,Semi-Auto,Individual,Good,Hyundai,10598
+2007,32364,Hybrid,Automatic,Online Platform,Fair,Ford,13214
+2002,161044,Petrol,Automatic,Individual,Good,Tesla,19105
+2021,116715,Diesel,Manual,Dealer,Excellent,BMW,17690
+2001,31654,Hybrid,Manual,Online Platform,Poor,Ford,10576
+2022,86423,Hybrid,Automatic,Dealer,Excellent,Ford,15914
+2014,34320,Electric,Automatic,Individual,Poor,BMW,14971
+2021,25808,Hybrid,Semi-Auto,Individual,Excellent,Toyota,16682
+2021,57389,Diesel,Semi-Auto,Dealer,Poor,Toyota,6808
+2004,123581,Petrol,Semi-Auto,Online Platform,Poor,Tesla,12811
+2000,132927,Electric,Automatic,Online Platform,Poor,Toyota,5040
+2003,39773,Hybrid,Automatic,Dealer,Poor,Tesla,18561
+2014,187240,Hybrid,Automatic,Dealer,Fair,Hyundai,3167
+2019,163819,Hybrid,Semi-Auto,Dealer,Excellent,BMW,14949
+2018,81396,Diesel,Automatic,Online Platform,Poor,Ford,8140
+2002,112692,Electric,Manual,Online Platform,Excellent,Tesla,25167
+2019,62505,Diesel,Automatic,Online Platform,Good,Toyota,11986
+2010,90896,Electric,Automatic,Dealer,Poor,Tesla,15112
+2016,23135,Petrol,Automatic,Online Platform,Excellent,Tesla,38294
+2012,95887,Diesel,Automatic,Individual,Fair,Toyota,8857
+2010,127118,Diesel,Automatic,Dealer,Excellent,Toyota,10205
+2001,52377,Petrol,Manual,Online Platform,Poor,BMW,14663
+2008,159626,Electric,Manual,Dealer,Good,Ford,7853
+2001,67491,Hybrid,Automatic,Individual,Excellent,BMW,29773
+2020,191693,Petrol,Semi-Auto,Individual,Good,BMW,9769
+2008,63283,Hybrid,Automatic,Dealer,Fair,Toyota,10221
+2008,21923,Hybrid,Automatic,Dealer,Excellent,Toyota,16831
+2007,52591,Petrol,Automatic,Individual,Excellent,Ford,20710
+2016,67261,Electric,Semi-Auto,Dealer,Fair,Tesla,20797
+2000,59336,Hybrid,Semi-Auto,Individual,Fair,BMW,20783
+2010,79083,Petrol,Semi-Auto,Individual,Fair,Ford,10971
+2007,65948,Diesel,Manual,Online Platform,Poor,BMW,13580
+2009,169074,Diesel,Semi-Auto,Dealer,Poor,Tesla,9714
+2006,31672,Diesel,Manual,Dealer,Excellent,BMW,33054
+2002,9213,Petrol,Manual,Online Platform,Excellent,Hyundai,13718
+2002,146365,Diesel,Semi-Auto,Individual,Excellent,Ford,11524
+2017,191932,Hybrid,Semi-Auto,Dealer,Good,Toyota,6275
+2004,67507,Diesel,Semi-Auto,Online Platform,Fair,BMW,19213
+2011,62134,Diesel,Manual,Online Platform,Excellent,Ford,16673
+2011,138172,Hybrid,Automatic,Dealer,Fair,Ford,7425
+2018,198069,Diesel,Semi-Auto,Online Platform,Poor,BMW,6037
+2005,33172,Hybrid,Semi-Auto,Individual,Fair,Toyota,11340
+2001,25132,Diesel,Semi-Auto,Online Platform,Good,Toyota,13178
+2011,23199,Hybrid,Manual,Individual,Good,BMW,28268
+2018,41609,Diesel,Manual,Individual,Fair,Ford,11277
+2004,179037,Hybrid,Automatic,Dealer,Good,Toyota,6494
+2011,144088,Petrol,Semi-Auto,Online Platform,Good,BMW,16718
+2016,175851,Hybrid,Manual,Individual,Poor,BMW,9273
+2016,36881,Diesel,Automatic,Individual,Excellent,BMW,33239
+2009,29472,Diesel,Semi-Auto,Online Platform,Good,Ford,15870
+2022,187885,Electric,Manual,Individual,Excellent,Toyota,5345
+2016,172093,Hybrid,Semi-Auto,Online Platform,Fair,Ford,6509
+2014,59131,Petrol,Semi-Auto,Dealer,Fair,Hyundai,7550
+2011,160159,Hybrid,Manual,Individual,Good,Toyota,7242
+2015,17828,Hybrid,Manual,Individual,Fair,Ford,13025
+2018,197682,Petrol,Manual,Online Platform,Poor,Toyota,2991
+2007,101664,Hybrid,Semi-Auto,Online Platform,Good,Hyundai,6913
+2020,137473,Petrol,Semi-Auto,Online Platform,Good,Tesla,17130
+2016,20193,Petrol,Automatic,Online Platform,Good,BMW,26199
+2022,180936,Hybrid,Semi-Auto,Individual,Fair,Ford,6343
+2004,156379,Hybrid,Manual,Dealer,Fair,Hyundai,4198
+2021,107518,Diesel,Semi-Auto,Dealer,Good,Hyundai,8526
+2015,24611,Diesel,Automatic,Dealer,Excellent,Toyota,15787
+2005,179863,Electric,Automatic,Dealer,Fair,Toyota,6063
+2007,148022,Electric,Manual,Online Platform,Fair,BMW,9819
+2017,81240,Hybrid,Manual,Individual,Good,Toyota,11256
+2011,7745,Petrol,Automatic,Individual,Excellent,Ford,21084
+2014,60243,Electric,Automatic,Individual,Good,Ford,13295
+2008,8866,Hybrid,Automatic,Online Platform,Fair,Ford,13577
+2012,168317,Electric,Manual,Individual,Good,Tesla,14905
+2014,180796,Petrol,Automatic,Online Platform,Good,Ford,7377
+2009,133681,Hybrid,Automatic,Individual,Good,Toyota,7613
+2015,76354,Petrol,Manual,Dealer,Excellent,Toyota,13801
+2006,56374,Hybrid,Semi-Auto,Online Platform,Good,Ford,14725
+2016,119397,Electric,Semi-Auto,Individual,Fair,Hyundai,6153
+2022,129577,Diesel,Automatic,Dealer,Good,Hyundai,6299
+2020,166188,Electric,Semi-Auto,Dealer,Excellent,Hyundai,6128
+2021,86029,Electric,Semi-Auto,Dealer,Poor,BMW,14136
+2006,98574,Diesel,Semi-Auto,Online Platform,Excellent,Tesla,26296
+2013,156519,Diesel,Semi-Auto,Online Platform,Good,Ford,7355
+2014,35431,Hybrid,Automatic,Individual,Poor,BMW,15306
+2020,153980,Hybrid,Semi-Auto,Dealer,Good,Hyundai,4775
+2006,34336,Petrol,Semi-Auto,Individual,Excellent,Ford,20934
+2008,45992,Petrol,Manual,Individual,Poor,BMW,14985
+2018,60350,Electric,Automatic,Dealer,Poor,Toyota,7066
+2015,74561,Diesel,Manual,Individual,Good,Hyundai,9463
+2007,56955,Petrol,Manual,Online Platform,Good,BMW,23216
+2017,66240,Electric,Automatic,Individual,Excellent,Toyota,13831
+2022,156165,Diesel,Semi-Auto,Dealer,Good,Hyundai,5302
+2017,142227,Hybrid,Manual,Online Platform,Poor,Tesla,9201
+2019,51607,Electric,Automatic,Online Platform,Fair,Hyundai,7972
+2006,169559,Hybrid,Semi-Auto,Individual,Fair,Tesla,13610
+2002,191740,Petrol,Automatic,Individual,Excellent,Tesla,15322
+2017,157035,Petrol,Manual,Online Platform,Good,Tesla,18288
+2009,186196,Diesel,Semi-Auto,Individual,Excellent,Ford,7010
+2006,57870,Electric,Semi-Auto,Dealer,Fair,Ford,11079
+2016,192619,Hybrid,Automatic,Individual,Fair,Tesla,8210
+2013,69110,Diesel,Semi-Auto,Individual,Good,Toyota,11819
+2002,189626,Petrol,Manual,Online Platform,Poor,Tesla,7392
+2011,157008,Petrol,Manual,Individual,Good,BMW,13766
+2012,121895,Electric,Manual,Individual,Fair,Tesla,17559
+2001,9426,Hybrid,Automatic,Individual,Poor,Ford,10205
+2002,32606,Electric,Semi-Auto,Dealer,Excellent,Ford,20418
+2004,183904,Hybrid,Semi-Auto,Individual,Fair,BMW,9570
+2010,33151,Hybrid,Semi-Auto,Dealer,Excellent,BMW,31362
+2007,16308,Electric,Manual,Dealer,Poor,Hyundai,6250
+2022,198594,Diesel,Semi-Auto,Dealer,Excellent,Toyota,6681
+2022,181743,Electric,Manual,Dealer,Fair,Toyota,4900
+2011,95306,Electric,Semi-Auto,Online Platform,Good,Toyota,10483
+2006,111984,Petrol,Manual,Dealer,Excellent,Ford,13929
+2014,7204,Petrol,Semi-Auto,Individual,Fair,Toyota,11394
+2016,97769,Electric,Automatic,Dealer,Fair,Hyundai,6398
+2003,92265,Electric,Automatic,Individual,Poor,Hyundai,4820
+2021,36131,Petrol,Manual,Dealer,Fair,Toyota,11304
+2012,57428,Hybrid,Manual,Online Platform,Good,BMW,23844
+2017,38870,Electric,Semi-Auto,Dealer,Good,Hyundai,10073
+2000,108547,Diesel,Semi-Auto,Dealer,Excellent,BMW,25348
+2015,54067,Diesel,Automatic,Online Platform,Excellent,Ford,19013
+2012,194657,Diesel,Semi-Auto,Dealer,Excellent,Hyundai,5226
+2009,117217,Electric,Manual,Individual,Excellent,BMW,21700
+2011,157679,Hybrid,Manual,Dealer,Good,Toyota,6831
+2001,161040,Hybrid,Manual,Dealer,Poor,Ford,4978
+2022,103934,Petrol,Manual,Dealer,Excellent,Tesla,25612
+2002,147980,Electric,Manual,Online Platform,Poor,Tesla,11148
+2009,162495,Hybrid,Automatic,Dealer,Fair,Toyota,6491
+2001,79707,Electric,Automatic,Dealer,Fair,Ford,10979
+2022,66215,Petrol,Manual,Individual,Excellent,Ford,15641
+2012,191907,Petrol,Semi-Auto,Dealer,Fair,Ford,5516
+2012,54429,Petrol,Manual,Dealer,Poor,Ford,8945
+2017,87152,Diesel,Automatic,Dealer,Poor,Tesla,15367
+2002,113048,Electric,Manual,Dealer,Fair,BMW,13972
+2006,174530,Petrol,Automatic,Individual,Excellent,Ford,9037
+2013,182241,Electric,Automatic,Individual,Poor,BMW,7860
+2019,143731,Diesel,Manual,Online Platform,Poor,Ford,5047
+2016,196686,Diesel,Manual,Dealer,Good,Hyundai,3863
+2020,82240,Petrol,Semi-Auto,Online Platform,Excellent,Hyundai,10245
+2011,168865,Petrol,Automatic,Online Platform,Good,Hyundai,5844
+2015,118688,Hybrid,Semi-Auto,Dealer,Fair,Ford,9529
+2011,51473,Electric,Manual,Individual,Fair,BMW,17584
+2014,101762,Petrol,Automatic,Individual,Good,Tesla,24873
+2009,111956,Hybrid,Semi-Auto,Dealer,Excellent,Toyota,12343
+2006,123452,Electric,Semi-Auto,Dealer,Poor,Tesla,13528
+2019,191823,Petrol,Semi-Auto,Individual,Fair,Ford,4811
+2004,131311,Hybrid,Manual,Dealer,Excellent,Hyundai,7931
+2000,190326,Hybrid,Manual,Dealer,Excellent,Hyundai,4135
+2016,12006,Electric,Manual,Dealer,Fair,BMW,20525
+2002,79218,Hybrid,Automatic,Individual,Fair,Ford,10337
+2012,169912,Electric,Manual,Online Platform,Excellent,Tesla,18372
+2013,37430,Electric,Automatic,Online Platform,Poor,Ford,9547
+2017,28091,Electric,Semi-Auto,Dealer,Good,Ford,17053
+2003,169055,Diesel,Semi-Auto,Individual,Fair,Hyundai,5659
+2017,28989,Hybrid,Manual,Dealer,Good,Tesla,30924
+2004,80451,Electric,Semi-Auto,Individual,Excellent,Toyota,12222
+2015,23990,Petrol,Manual,Dealer,Good,Hyundai,11368
+2000,95270,Diesel,Automatic,Individual,Poor,Tesla,14564
+2020,85360,Diesel,Semi-Auto,Individual,Excellent,BMW,24722
+2013,41081,Hybrid,Manual,Online Platform,Poor,Hyundai,6541
+2014,147105,Electric,Semi-Auto,Dealer,Excellent,BMW,16885
+2008,113272,Hybrid,Semi-Auto,Online Platform,Poor,Hyundai,4435
+2014,21241,Diesel,Manual,Online Platform,Excellent,Ford,19994
+2016,129932,Electric,Semi-Auto,Individual,Poor,Tesla,10909
+2003,10939,Petrol,Semi-Auto,Dealer,Excellent,BMW,31609
+2011,118000,Electric,Semi-Auto,Individual,Poor,Hyundai,4446
+2004,183634,Diesel,Semi-Auto,Individual,Excellent,BMW,16427
+2004,40063,Petrol,Automatic,Individual,Poor,Hyundai,6584
+2010,163117,Electric,Semi-Auto,Dealer,Fair,Hyundai,4873
+2005,180841,Petrol,Semi-Auto,Dealer,Good,Toyota,5358
+2006,52118,Petrol,Manual,Individual,Excellent,Toyota,15065
+2013,89703,Diesel,Automatic,Dealer,Poor,Toyota,5668
+2010,157697,Petrol,Manual,Individual,Fair,BMW,11586
+2012,133557,Hybrid,Manual,Dealer,Excellent,Ford,13483
+2001,32076,Diesel,Manual,Dealer,Excellent,Hyundai,13882
+2006,49605,Hybrid,Automatic,Online Platform,Excellent,Tesla,39319
+2019,89565,Petrol,Manual,Individual,Good,Toyota,11263
+2003,44121,Hybrid,Manual,Online Platform,Poor,BMW,15780
+2007,36433,Electric,Manual,Online Platform,Poor,BMW,16601
+2019,48309,Petrol,Semi-Auto,Individual,Excellent,BMW,31427
+2021,72468,Electric,Manual,Individual,Excellent,Tesla,30159
+2020,180326,Hybrid,Automatic,Dealer,Excellent,Tesla,13572
+2018,72293,Electric,Automatic,Individual,Fair,Toyota,9637
+2012,101258,Petrol,Semi-Auto,Online Platform,Excellent,Tesla,32219
+2013,173925,Electric,Automatic,Online Platform,Good,Toyota,6996
+2009,43405,Hybrid,Automatic,Individual,Poor,Tesla,15978
+2010,48527,Hybrid,Semi-Auto,Online Platform,Good,Tesla,28429
+2001,82227,Hybrid,Manual,Dealer,Excellent,Tesla,30075
+2008,136564,Petrol,Semi-Auto,Online Platform,Fair,Toyota,5423
+2016,144883,Hybrid,Manual,Dealer,Excellent,Hyundai,6454
+2002,98344,Petrol,Manual,Online Platform,Excellent,Toyota,12065
+2005,160344,Electric,Automatic,Dealer,Excellent,Hyundai,6891
+2004,52153,Hybrid,Semi-Auto,Dealer,Excellent,BMW,27966
+2004,113042,Electric,Automatic,Individual,Excellent,BMW,19873
+2021,59110,Diesel,Automatic,Dealer,Poor,Toyota,7763
+2014,150051,Electric,Manual,Individual,Good,Hyundai,5768
+2022,33328,Diesel,Automatic,Online Platform,Fair,Hyundai,8418
+2016,117911,Electric,Semi-Auto,Online Platform,Excellent,Hyundai,8346
+2008,17867,Petrol,Automatic,Online Platform,Fair,BMW,21645
+2002,64234,Electric,Automatic,Dealer,Poor,Toyota,7659
+2019,30851,Petrol,Manual,Online Platform,Good,Ford,15357
+2016,36279,Petrol,Semi-Auto,Online Platform,Excellent,Hyundai,12787
+2009,78402,Hybrid,Automatic,Individual,Poor,Hyundai,5321
+2002,20449,Petrol,Manual,Individual,Poor,Ford,9011
+2017,81221,Diesel,Automatic,Online Platform,Good,Toyota,11119
+2017,94080,Hybrid,Semi-Auto,Online Platform,Excellent,Hyundai,8772
+2016,10451,Hybrid,Automatic,Dealer,Good,Toyota,14954
+2002,92178,Electric,Automatic,Dealer,Good,Hyundai,7601
+2002,177388,Petrol,Manual,Online Platform,Fair,Tesla,12174
+2005,199136,Petrol,Automatic,Individual,Fair,Hyundai,3021
+2012,68761,Diesel,Manual,Online Platform,Good,Tesla,25797
+2014,43870,Electric,Semi-Auto,Dealer,Fair,Toyota,10371
+2008,101566,Electric,Automatic,Individual,Poor,Hyundai,4232
+2003,128749,Hybrid,Semi-Auto,Individual,Good,BMW,17021
+2013,128765,Hybrid,Semi-Auto,Dealer,Excellent,BMW,21956
+2004,129881,Hybrid,Automatic,Online Platform,Excellent,Ford,13374
+2001,166945,Diesel,Manual,Online Platform,Poor,BMW,7566
+2010,133389,Diesel,Semi-Auto,Online Platform,Excellent,Tesla,22660
+2008,194699,Hybrid,Semi-Auto,Dealer,Excellent,BMW,9950
+2002,30372,Electric,Automatic,Individual,Good,BMW,25836
+2008,8642,Diesel,Automatic,Dealer,Poor,BMW,16077
+2002,164073,Electric,Automatic,Online Platform,Good,Hyundai,5701
+2001,39064,Electric,Automatic,Dealer,Poor,Ford,9848
+2011,19122,Petrol,Automatic,Individual,Good,Toyota,13703
+2009,160892,Hybrid,Automatic,Dealer,Good,Ford,7394
+2008,73431,Petrol,Manual,Online Platform,Fair,Tesla,21577
+2014,60745,Hybrid,Semi-Auto,Individual,Excellent,Hyundai,10859
+2007,55081,Hybrid,Manual,Dealer,Poor,Hyundai,6119
+2004,144783,Electric,Manual,Dealer,Excellent,BMW,22109
+2010,154865,Hybrid,Automatic,Individual,Fair,BMW,10549
+2001,144271,Electric,Semi-Auto,Individual,Poor,Tesla,10122
+2014,81253,Electric,Manual,Online Platform,Fair,Hyundai,6299
+2005,41191,Hybrid,Automatic,Individual,Excellent,Toyota,15660
+2007,15211,Electric,Automatic,Online Platform,Good,Ford,17157
+2004,116086,Electric,Semi-Auto,Dealer,Fair,Hyundai,5755
+2015,199141,Electric,Manual,Online Platform,Fair,Toyota,4044
+2017,192818,Diesel,Manual,Dealer,Good,Toyota,4576
+2005,157614,Electric,Manual,Individual,Excellent,Ford,8455
+2004,167384,Diesel,Automatic,Dealer,Fair,Toyota,4849
+2015,181314,Diesel,Semi-Auto,Individual,Excellent,Tesla,12593
+2012,106971,Electric,Semi-Auto,Dealer,Good,Toyota,8988
+2004,98783,Electric,Manual,Dealer,Poor,Tesla,14410
+2012,130681,Diesel,Automatic,Dealer,Fair,Toyota,6808
+2016,92893,Diesel,Manual,Dealer,Excellent,BMW,21660
+2017,191460,Electric,Semi-Auto,Online Platform,Good,Toyota,6214
+2007,163763,Electric,Automatic,Dealer,Good,Tesla,15553
+2012,82960,Hybrid,Manual,Online Platform,Fair,Toyota,7902
+2018,89388,Diesel,Manual,Individual,Poor,Toyota,6154
+2002,27601,Diesel,Automatic,Individual,Fair,Toyota,10546
+2007,154092,Hybrid,Semi-Auto,Online Platform,Excellent,Tesla,18604
+2001,144227,Diesel,Automatic,Individual,Good,Toyota,8398
+2007,172849,Petrol,Manual,Individual,Poor,Ford,3980
+2012,24710,Diesel,Manual,Dealer,Excellent,Ford,20020
+2012,113714,Hybrid,Manual,Dealer,Fair,Tesla,15508
+2000,160604,Petrol,Manual,Dealer,Good,BMW,13884
+2005,133727,Electric,Semi-Auto,Online Platform,Fair,Ford,8172
+2018,154673,Hybrid,Semi-Auto,Online Platform,Poor,Hyundai,3584
+2015,68227,Hybrid,Manual,Individual,Poor,Ford,8387
+2007,141039,Electric,Semi-Auto,Dealer,Poor,Hyundai,3729
+2000,89289,Hybrid,Semi-Auto,Online Platform,Poor,Tesla,13632
+2015,156094,Diesel,Semi-Auto,Online Platform,Poor,BMW,7687
+2008,179535,Electric,Manual,Dealer,Fair,Hyundai,3998
+2012,10722,Hybrid,Automatic,Online Platform,Poor,Hyundai,6488
+2010,163485,Electric,Automatic,Dealer,Poor,Ford,4109
+2012,86050,Electric,Automatic,Individual,Good,Hyundai,9415
+2020,88596,Electric,Manual,Individual,Poor,Tesla,14525
+2009,71732,Petrol,Semi-Auto,Individual,Good,Tesla,27742
+2003,148369,Hybrid,Semi-Auto,Dealer,Good,Tesla,19218
+2005,73323,Petrol,Manual,Online Platform,Good,Ford,13646
+2006,28816,Hybrid,Manual,Individual,Fair,BMW,21242
+2004,45695,Diesel,Automatic,Individual,Fair,Ford,11947
+2010,155774,Diesel,Automatic,Individual,Excellent,Tesla,23568
+2012,161314,Diesel,Manual,Online Platform,Excellent,Ford,9381
+2018,60841,Hybrid,Automatic,Online Platform,Good,Tesla,28210
+2022,133498,Electric,Semi-Auto,Dealer,Fair,Toyota,7066
+2009,112096,Electric,Manual,Individual,Poor,Toyota,5749
+2009,97764,Petrol,Manual,Online Platform,Excellent,Hyundai,10488
+2010,189646,Petrol,Semi-Auto,Dealer,Fair,BMW,8364
+2020,90744,Diesel,Semi-Auto,Individual,Poor,Toyota,6580
+2006,33482,Petrol,Semi-Auto,Online Platform,Poor,Tesla,16771
+2017,14171,Hybrid,Automatic,Online Platform,Fair,Ford,14689
+2003,105755,Hybrid,Manual,Dealer,Excellent,Ford,15198
+2001,113125,Petrol,Automatic,Individual,Fair,Hyundai,5833
+2013,135722,Petrol,Semi-Auto,Individual,Excellent,Ford,12301
+2012,111082,Petrol,Automatic,Online Platform,Good,Toyota,10114
+2011,8696,Petrol,Semi-Auto,Individual,Fair,Ford,13235
+2006,131310,Diesel,Automatic,Dealer,Fair,Toyota,6660
+2001,156130,Diesel,Automatic,Online Platform,Excellent,Toyota,7457
+2012,156385,Petrol,Semi-Auto,Online Platform,Excellent,BMW,19282
+2013,24149,Hybrid,Automatic,Dealer,Fair,Hyundai,9222
+2016,135064,Diesel,Manual,Online Platform,Poor,Tesla,11250
+2008,58521,Hybrid,Automatic,Individual,Poor,Toyota,7065
+2016,50740,Electric,Automatic,Individual,Poor,Hyundai,5928
+2007,111611,Hybrid,Manual,Online Platform,Good,Tesla,20408
+2001,141028,Petrol,Semi-Auto,Dealer,Good,Ford,9381
+2012,71641,Electric,Manual,Dealer,Excellent,Hyundai,10214
+2002,68811,Diesel,Automatic,Individual,Good,Hyundai,9786
+2015,188232,Diesel,Semi-Auto,Dealer,Poor,Hyundai,3091
+2005,187385,Electric,Automatic,Online Platform,Fair,Ford,6086
+2018,68232,Hybrid,Automatic,Online Platform,Good,Ford,12831
+2006,20417,Diesel,Manual,Individual,Good,Hyundai,11058
+2009,160801,Petrol,Manual,Individual,Poor,BMW,8878
+2008,117492,Electric,Semi-Auto,Individual,Good,Toyota,9701
+2001,35099,Petrol,Semi-Auto,Dealer,Excellent,Ford,17086
+2014,166033,Electric,Semi-Auto,Online Platform,Fair,BMW,11605
+2004,148674,Diesel,Automatic,Online Platform,Poor,Ford,4776
+2021,123474,Hybrid,Manual,Online Platform,Excellent,Hyundai,8362
+2003,14256,Electric,Manual,Individual,Poor,BMW,18276
+2019,39681,Electric,Manual,Online Platform,Excellent,Tesla,38801
+2003,96328,Petrol,Semi-Auto,Dealer,Fair,Toyota,8942
+2017,48361,Diesel,Manual,Dealer,Fair,Toyota,9425
+2003,39540,Petrol,Manual,Online Platform,Excellent,Ford,17868
+2016,162608,Diesel,Manual,Individual,Excellent,Toyota,7736
+2011,89700,Petrol,Semi-Auto,Online Platform,Excellent,Tesla,29134
+2021,199115,Electric,Manual,Dealer,Excellent,BMW,12496
+2016,83532,Petrol,Semi-Auto,Dealer,Excellent,BMW,28275
+2009,192647,Hybrid,Manual,Dealer,Excellent,Hyundai,4484
+2021,132626,Diesel,Manual,Online Platform,Fair,BMW,12635
+2000,138943,Diesel,Manual,Dealer,Excellent,Ford,13133
+2021,51002,Electric,Semi-Auto,Individual,Good,Tesla,27021
+2017,54812,Diesel,Semi-Auto,Online Platform,Fair,Hyundai,8194
+2017,158698,Hybrid,Manual,Online Platform,Poor,Ford,5039
+2013,196051,Petrol,Automatic,Dealer,Fair,Ford,5268
+2014,113946,Electric,Semi-Auto,Dealer,Poor,Ford,6259
+2011,71668,Hybrid,Semi-Auto,Individual,Poor,Toyota,7168
+2003,104003,Diesel,Manual,Online Platform,Good,Ford,11171
+2002,47998,Diesel,Automatic,Dealer,Excellent,Toyota,13842
+2019,199886,Hybrid,Manual,Individual,Excellent,BMW,12877
+2011,109601,Petrol,Semi-Auto,Dealer,Fair,Toyota,6114
+2006,181679,Petrol,Semi-Auto,Online Platform,Excellent,Ford,7905
+2010,12812,Electric,Manual,Dealer,Good,Tesla,34014
+2000,66844,Diesel,Manual,Online Platform,Fair,Tesla,22822
+2005,138251,Hybrid,Automatic,Dealer,Fair,BMW,14411
+2014,179870,Petrol,Automatic,Online Platform,Fair,Ford,7046
+2014,79601,Electric,Semi-Auto,Individual,Excellent,Toyota,14548
+2018,144347,Diesel,Automatic,Online Platform,Excellent,Tesla,22193
+2010,186646,Diesel,Automatic,Individual,Excellent,Hyundai,6251
+2022,52857,Electric,Semi-Auto,Online Platform,Fair,Ford,11989
+2001,130555,Electric,Semi-Auto,Individual,Fair,Ford,8627
+2013,25700,Petrol,Semi-Auto,Dealer,Poor,Hyundai,6367
+2001,175536,Hybrid,Semi-Auto,Online Platform,Poor,Tesla,9197
+2003,178423,Diesel,Manual,Dealer,Excellent,Hyundai,5494
+2016,98330,Hybrid,Semi-Auto,Individual,Fair,BMW,15925
+2002,149941,Diesel,Semi-Auto,Online Platform,Excellent,Toyota,9422
+2012,196387,Diesel,Semi-Auto,Online Platform,Excellent,Toyota,8099
+2008,157026,Hybrid,Automatic,Dealer,Poor,Tesla,10422
+2006,167627,Electric,Semi-Auto,Online Platform,Good,Hyundai,5287
+2014,68353,Petrol,Manual,Online Platform,Excellent,Ford,15780
+2022,181098,Diesel,Manual,Dealer,Good,Ford,7940
+2010,105772,Electric,Semi-Auto,Online Platform,Good,Ford,11351
+2019,183048,Diesel,Manual,Dealer,Fair,BMW,9805
+2001,96502,Petrol,Automatic,Dealer,Fair,BMW,17122
+2014,118943,Diesel,Semi-Auto,Dealer,Excellent,Ford,14401
+2013,114850,Petrol,Manual,Dealer,Poor,Tesla,13844
+2019,50095,Petrol,Manual,Dealer,Poor,BMW,13893
+2021,150342,Diesel,Semi-Auto,Individual,Excellent,BMW,14868
+2010,166980,Diesel,Manual,Individual,Excellent,Toyota,8612
+2002,20523,Petrol,Semi-Auto,Dealer,Poor,Toyota,8423
+2016,67433,Electric,Manual,Individual,Good,Tesla,27817
+2011,183140,Hybrid,Automatic,Individual,Excellent,BMW,17118
+2020,24991,Petrol,Manual,Online Platform,Good,BMW,26576
+2014,15775,Diesel,Manual,Dealer,Excellent,Hyundai,14572
+2015,89995,Diesel,Semi-Auto,Individual,Excellent,Tesla,28126
+2004,197322,Electric,Manual,Online Platform,Good,Tesla,14718
+2019,152745,Hybrid,Semi-Auto,Online Platform,Good,Hyundai,6340
+2005,127808,Petrol,Automatic,Dealer,Poor,Hyundai,3590
+2018,163128,Petrol,Semi-Auto,Dealer,Excellent,Toyota,7836
+2004,142686,Hybrid,Semi-Auto,Online Platform,Fair,Tesla,17364
+2002,12415,Petrol,Manual,Dealer,Fair,Tesla,29347
+2000,179956,Hybrid,Automatic,Dealer,Excellent,Hyundai,6197
+2005,153036,Diesel,Semi-Auto,Online Platform,Excellent,Ford,10963
+2014,173798,Hybrid,Manual,Online Platform,Excellent,Ford,9345
+2001,42044,Petrol,Manual,Dealer,Good,Toyota,13225
+2002,193221,Hybrid,Semi-Auto,Individual,Fair,Ford,5024
+2016,173616,Electric,Manual,Dealer,Fair,Ford,6938
+2011,54976,Diesel,Semi-Auto,Individual,Fair,Ford,12177
+2017,168324,Diesel,Semi-Auto,Online Platform,Excellent,BMW,14063
+2014,8832,Hybrid,Semi-Auto,Individual,Good,Toyota,15049
+2011,39148,Petrol,Automatic,Online Platform,Excellent,Hyundai,12639
+2015,197312,Electric,Semi-Auto,Dealer,Poor,Ford,3528
+2007,117230,Diesel,Manual,Dealer,Poor,BMW,12674
+2013,90076,Diesel,Automatic,Online Platform,Fair,Ford,10151
+2016,189531,Petrol,Manual,Online Platform,Excellent,BMW,9733
+2020,43402,Petrol,Automatic,Online Platform,Poor,Toyota,7589
+2007,193799,Electric,Automatic,Dealer,Poor,Ford,4359
+2014,43578,Hybrid,Automatic,Dealer,Excellent,BMW,29102
+2013,95453,Petrol,Automatic,Individual,Good,Tesla,25542
+2017,158390,Hybrid,Manual,Online Platform,Excellent,Tesla,17730
+2019,80715,Electric,Semi-Auto,Individual,Excellent,BMW,28720
+2006,116435,Hybrid,Manual,Dealer,Good,Ford,10498
+2002,156538,Diesel,Semi-Auto,Individual,Fair,Ford,6632
+2011,100742,Hybrid,Manual,Individual,Fair,Toyota,7714
+2020,50475,Electric,Automatic,Dealer,Fair,Toyota,10339
+2002,65142,Electric,Automatic,Dealer,Good,Hyundai,10500
+2019,162636,Electric,Semi-Auto,Online Platform,Poor,Toyota,4127
+2013,158484,Hybrid,Semi-Auto,Individual,Good,Ford,8481
+2014,98526,Diesel,Manual,Dealer,Excellent,Hyundai,9257
+2013,56001,Petrol,Semi-Auto,Dealer,Good,Toyota,10979
+2006,62649,Diesel,Manual,Individual,Poor,BMW,13814
+2016,197029,Hybrid,Semi-Auto,Dealer,Poor,Tesla,5886
+2011,171589,Hybrid,Semi-Auto,Online Platform,Excellent,Toyota,6006
+2019,149228,Petrol,Semi-Auto,Online Platform,Fair,Toyota,5984
+2003,159136,Hybrid,Automatic,Individual,Poor,BMW,7963
+2008,30711,Electric,Automatic,Online Platform,Poor,Ford,10437
+2005,35106,Electric,Manual,Dealer,Poor,BMW,15123
+2015,70458,Electric,Semi-Auto,Dealer,Excellent,Toyota,14375
+2021,152661,Electric,Manual,Dealer,Poor,Ford,5655
+2021,135429,Electric,Semi-Auto,Dealer,Fair,Hyundai,5908
+2020,106754,Hybrid,Automatic,Individual,Excellent,Toyota,11428
+2020,143286,Petrol,Automatic,Online Platform,Fair,BMW,14119
+2001,131479,Petrol,Semi-Auto,Online Platform,Poor,Hyundai,4246
+2007,163199,Electric,Semi-Auto,Dealer,Poor,Tesla,10772
+2010,141213,Hybrid,Automatic,Individual,Fair,Hyundai,6230
+2012,33884,Diesel,Automatic,Dealer,Excellent,BMW,31712
+2016,7708,Diesel,Manual,Dealer,Excellent,Hyundai,14152
+2007,23375,Hybrid,Automatic,Individual,Fair,BMW,21695
+2020,20088,Electric,Semi-Auto,Individual,Poor,Toyota,9091
+2017,62615,Petrol,Manual,Dealer,Good,Ford,16587
+2017,115138,Hybrid,Semi-Auto,Online Platform,Fair,Tesla,18281
+2013,181118,Diesel,Manual,Dealer,Fair,Ford,4547
+2014,15014,Diesel,Semi-Auto,Online Platform,Fair,Ford,13043
+2005,139345,Diesel,Automatic,Online Platform,Poor,Ford,6409
+2010,183207,Electric,Semi-Auto,Individual,Excellent,BMW,11955
+2012,107842,Diesel,Manual,Individual,Poor,BMW,10989
+2000,166953,Hybrid,Semi-Auto,Dealer,Fair,Tesla,11527
+2005,83077,Hybrid,Manual,Online Platform,Poor,BMW,12945
+2008,144784,Diesel,Semi-Auto,Online Platform,Poor,BMW,9543
+2007,57874,Hybrid,Automatic,Dealer,Fair,BMW,17102
+2010,74087,Diesel,Automatic,Dealer,Poor,BMW,12180
+2021,17297,Diesel,Semi-Auto,Dealer,Good,Toyota,13007
+2018,32128,Petrol,Semi-Auto,Individual,Poor,Tesla,17297
+2008,73368,Electric,Semi-Auto,Dealer,Poor,BMW,13612
+2016,83958,Electric,Manual,Dealer,Excellent,Tesla,30654
+2011,37920,Petrol,Semi-Auto,Online Platform,Excellent,Hyundai,13309
+2013,147228,Petrol,Semi-Auto,Dealer,Fair,Toyota,6443
+2014,147180,Electric,Manual,Online Platform,Fair,BMW,11526
+2015,167917,Diesel,Automatic,Online Platform,Excellent,Toyota,8131
+2021,138872,Diesel,Semi-Auto,Individual,Good,Toyota,8847
+2021,178784,Electric,Semi-Auto,Dealer,Poor,Hyundai,2827
+2019,138682,Diesel,Automatic,Dealer,Good,Tesla,18277
+2000,82603,Petrol,Automatic,Online Platform,Good,Toyota,10161
+2009,38872,Diesel,Manual,Individual,Excellent,Ford,17932
+2007,15728,Diesel,Semi-Auto,Individual,Fair,Hyundai,9425
+2017,100102,Hybrid,Semi-Auto,Dealer,Poor,Ford,7194
+2000,127049,Hybrid,Manual,Online Platform,Fair,Hyundai,6474
+2001,25583,Hybrid,Automatic,Dealer,Good,Ford,15855
+2000,90774,Diesel,Manual,Dealer,Good,Ford,13238
+2000,143335,Electric,Automatic,Dealer,Fair,Toyota,6498
+2008,131374,Petrol,Manual,Dealer,Fair,Toyota,6691
+2012,155528,Diesel,Automatic,Online Platform,Excellent,Hyundai,6621
+2000,96118,Electric,Manual,Individual,Fair,Tesla,19869
+2012,70942,Diesel,Automatic,Dealer,Fair,Toyota,9487
+2019,18689,Petrol,Automatic,Dealer,Excellent,Toyota,17060
+2021,169006,Diesel,Automatic,Dealer,Fair,BMW,10990
+2006,38276,Petrol,Automatic,Dealer,Good,Toyota,13113
+2001,106968,Diesel,Automatic,Individual,Fair,Tesla,15718
+2005,155945,Petrol,Semi-Auto,Individual,Poor,BMW,8719
+2006,18050,Diesel,Automatic,Individual,Good,Ford,16675
+2013,71216,Petrol,Semi-Auto,Individual,Excellent,Ford,18574
+2017,89040,Hybrid,Automatic,Dealer,Good,BMW,22046
+2014,26644,Diesel,Semi-Auto,Online Platform,Excellent,BMW,33165
+2001,67021,Diesel,Semi-Auto,Individual,Poor,BMW,14395
+2009,173197,Electric,Manual,Individual,Poor,Hyundai,2674
+2022,47291,Electric,Automatic,Dealer,Good,Tesla,28415
+2011,171132,Petrol,Manual,Dealer,Fair,Tesla,11558
+2016,137610,Diesel,Manual,Dealer,Good,Ford,10092
+2007,172248,Petrol,Automatic,Dealer,Good,Ford,7273
+2010,46520,Hybrid,Manual,Online Platform,Poor,Ford,8854
+2002,30675,Electric,Automatic,Online Platform,Excellent,Toyota,15198
+2005,154359,Petrol,Manual,Individual,Good,Ford,8761
+2008,5174,Petrol,Automatic,Online Platform,Fair,BMW,23784
+2005,97268,Electric,Automatic,Individual,Poor,Ford,7529
+2008,39998,Diesel,Automatic,Individual,Good,BMW,24956
+2006,189384,Petrol,Semi-Auto,Online Platform,Good,Hyundai,4647
+2008,148184,Electric,Manual,Individual,Fair,Toyota,5448
+2017,110410,Diesel,Semi-Auto,Dealer,Good,Toyota,9315
+2011,80225,Hybrid,Manual,Individual,Good,Tesla,26168
+2007,49814,Electric,Manual,Dealer,Good,Hyundai,9852
+2007,90091,Petrol,Manual,Online Platform,Good,BMW,18648
+2017,55719,Hybrid,Semi-Auto,Online Platform,Fair,Hyundai,7124
+2019,134887,Diesel,Manual,Individual,Good,Toyota,8421
+2014,38919,Diesel,Semi-Auto,Dealer,Good,BMW,26977
+2006,78155,Electric,Automatic,Individual,Good,Hyundai,9077
+2010,76569,Electric,Manual,Online Platform,Poor,Toyota,6974
+2019,46328,Electric,Manual,Individual,Fair,BMW,19957
+2015,29618,Diesel,Automatic,Individual,Poor,BMW,16887
+2003,39675,Hybrid,Automatic,Dealer,Poor,Toyota,7960
+2005,23919,Diesel,Manual,Online Platform,Fair,BMW,21319
+2021,9173,Petrol,Automatic,Individual,Poor,Toyota,8956
+2002,114369,Diesel,Semi-Auto,Dealer,Poor,Ford,6842
+2008,31400,Petrol,Semi-Auto,Individual,Poor,Ford,10572
+2009,186517,Hybrid,Manual,Dealer,Fair,BMW,10733
+2013,75305,Electric,Semi-Auto,Dealer,Good,BMW,22331
+2010,173636,Electric,Semi-Auto,Individual,Excellent,Toyota,7205
+2017,181886,Diesel,Manual,Online Platform,Excellent,BMW,16980
+2021,93791,Electric,Automatic,Online Platform,Fair,Tesla,20018
+2011,164034,Hybrid,Manual,Dealer,Excellent,Ford,9601
+2022,75533,Electric,Semi-Auto,Online Platform,Fair,BMW,15570
+2011,192256,Diesel,Manual,Dealer,Fair,BMW,7712
+2012,108591,Hybrid,Manual,Online Platform,Excellent,Hyundai,8593
+2012,146650,Petrol,Semi-Auto,Individual,Poor,BMW,9069
+2018,136060,Diesel,Semi-Auto,Online Platform,Good,Tesla,20208
+2018,154696,Petrol,Manual,Dealer,Excellent,Ford,11294
+2022,44194,Hybrid,Semi-Auto,Dealer,Excellent,Hyundai,13358
+2013,114903,Diesel,Semi-Auto,Online Platform,Excellent,Toyota,11944
+2003,136461,Diesel,Semi-Auto,Individual,Excellent,Toyota,8641
+2012,104303,Hybrid,Semi-Auto,Dealer,Fair,Ford,10135
+2007,118903,Electric,Semi-Auto,Dealer,Fair,Toyota,8283
+2022,72391,Diesel,Semi-Auto,Dealer,Good,Tesla,29501
+2020,149866,Diesel,Automatic,Dealer,Good,BMW,13194
+2022,63002,Petrol,Manual,Dealer,Excellent,Ford,16857
+2018,40531,Electric,Semi-Auto,Individual,Excellent,Hyundai,13146
+2011,188887,Petrol,Manual,Online Platform,Excellent,BMW,11248
+2017,9986,Petrol,Automatic,Individual,Good,Toyota,13207
+2005,37298,Electric,Semi-Auto,Individual,Excellent,Toyota,16044
+2017,6481,Electric,Manual,Dealer,Poor,Hyundai,6801
+2018,61408,Hybrid,Semi-Auto,Individual,Good,Tesla,24980
+2021,126950,Electric,Semi-Auto,Dealer,Poor,Hyundai,4595
+2004,152907,Diesel,Semi-Auto,Individual,Excellent,Ford,10768
+2008,130355,Electric,Semi-Auto,Dealer,Fair,Hyundai,5178
+2002,32798,Hybrid,Semi-Auto,Dealer,Poor,Toyota,7582
+2009,96649,Hybrid,Semi-Auto,Individual,Good,Tesla,24029
+2018,69887,Hybrid,Semi-Auto,Individual,Poor,Tesla,16649
+2002,24477,Electric,Automatic,Online Platform,Good,Hyundai,11216
+2021,153338,Electric,Automatic,Online Platform,Excellent,Ford,8919
+2014,132815,Petrol,Semi-Auto,Online Platform,Poor,Toyota,5230
+2000,179598,Petrol,Semi-Auto,Individual,Fair,BMW,10465
+2006,132426,Diesel,Automatic,Individual,Poor,Tesla,11369
+2011,147961,Petrol,Automatic,Dealer,Fair,Hyundai,5364
+2016,29335,Diesel,Automatic,Online Platform,Good,Ford,15473
+2020,147326,Hybrid,Semi-Auto,Dealer,Excellent,Ford,12386
+2019,91610,Petrol,Manual,Dealer,Excellent,Toyota,12622
+2004,16442,Electric,Manual,Dealer,Fair,Tesla,25770
+2003,51289,Petrol,Manual,Dealer,Good,Toyota,12196
+2011,58747,Diesel,Manual,Online Platform,Excellent,BMW,30749
+2019,42327,Petrol,Semi-Auto,Dealer,Good,BMW,26123
+2017,152271,Hybrid,Manual,Individual,Fair,BMW,12592
+2016,77827,Electric,Automatic,Individual,Fair,Ford,11438
+2018,111464,Diesel,Automatic,Individual,Poor,Tesla,12645
+2008,136184,Electric,Manual,Online Platform,Excellent,Toyota,9943
+2003,92051,Electric,Automatic,Dealer,Excellent,Toyota,12274
+2020,155653,Diesel,Semi-Auto,Online Platform,Poor,BMW,9576
+2001,64722,Electric,Manual,Dealer,Fair,Tesla,21423
+2003,97036,Electric,Manual,Online Platform,Fair,Tesla,19010
+2001,152595,Petrol,Semi-Auto,Online Platform,Fair,Hyundai,5818
+2014,71960,Electric,Automatic,Dealer,Fair,Tesla,23082
+2001,24552,Electric,Semi-Auto,Online Platform,Good,Tesla,30323
+2003,146880,Electric,Semi-Auto,Dealer,Excellent,Toyota,9998
+2005,159692,Electric,Automatic,Individual,Excellent,Tesla,21089
+2006,5887,Diesel,Semi-Auto,Individual,Fair,Tesla,25909
+2009,36802,Hybrid,Automatic,Individual,Fair,Toyota,10461
+2018,90024,Petrol,Automatic,Online Platform,Fair,Tesla,18270
+2018,123639,Electric,Semi-Auto,Individual,Excellent,Toyota,8428
+2021,123248,Electric,Automatic,Dealer,Excellent,Hyundai,8378
+2011,86938,Diesel,Semi-Auto,Individual,Fair,Ford,9862
+2002,127746,Hybrid,Automatic,Individual,Good,Toyota,7787
+2012,31049,Electric,Manual,Online Platform,Poor,Toyota,8064
+2017,82789,Diesel,Automatic,Dealer,Poor,Tesla,12978
+2007,89526,Petrol,Automatic,Online Platform,Poor,Toyota,6332
+2020,143918,Petrol,Semi-Auto,Online Platform,Excellent,BMW,18757
+2014,51220,Electric,Automatic,Dealer,Excellent,BMW,31075
+2000,51163,Electric,Manual,Online Platform,Poor,Hyundai,5394
+2002,139837,Hybrid,Manual,Dealer,Poor,Toyota,5767
+2007,122126,Hybrid,Automatic,Individual,Good,Tesla,23824
+2003,86486,Electric,Automatic,Dealer,Excellent,Tesla,28268
+2015,181342,Diesel,Manual,Dealer,Excellent,Ford,10119
+2022,80277,Hybrid,Semi-Auto,Dealer,Poor,Hyundai,5581
+2009,109245,Electric,Manual,Online Platform,Good,Tesla,21485
+2011,127332,Hybrid,Manual,Dealer,Good,Ford,9813
+2013,27931,Electric,Automatic,Dealer,Poor,Tesla,18487
+2013,94116,Petrol,Automatic,Dealer,Poor,Ford,8938
+2001,60633,Electric,Manual,Individual,Excellent,BMW,31172
+2022,56913,Petrol,Semi-Auto,Dealer,Poor,BMW,14402
+2004,99776,Hybrid,Manual,Online Platform,Fair,Tesla,18524
+2004,30991,Electric,Manual,Dealer,Good,Hyundai,11268
+2005,190917,Hybrid,Semi-Auto,Dealer,Poor,Toyota,3634
+2012,109092,Petrol,Manual,Individual,Fair,Hyundai,5649
+2008,191384,Electric,Manual,Dealer,Good,Hyundai,4523
+2021,146633,Hybrid,Automatic,Online Platform,Fair,Toyota,5803
+2014,152973,Petrol,Semi-Auto,Dealer,Fair,BMW,11944
+2013,100556,Hybrid,Automatic,Online Platform,Poor,BMW,11923
+2006,67875,Diesel,Automatic,Individual,Good,Toyota,12369
+2019,161989,Petrol,Semi-Auto,Dealer,Fair,Ford,6431
+2001,67120,Petrol,Semi-Auto,Individual,Excellent,Hyundai,11263
+2006,138060,Petrol,Manual,Dealer,Good,Tesla,15606
+2005,115041,Electric,Automatic,Online Platform,Excellent,BMW,22777
+2016,133467,Electric,Semi-Auto,Individual,Poor,Tesla,10839
+2001,150328,Electric,Automatic,Dealer,Excellent,Toyota,7614
+2002,123490,Diesel,Automatic,Online Platform,Good,Tesla,22568
+2004,131155,Diesel,Semi-Auto,Individual,Fair,Tesla,15700
+2004,33230,Petrol,Manual,Dealer,Fair,Hyundai,7539
+2000,64778,Diesel,Automatic,Individual,Good,Toyota,11173
+2007,50833,Hybrid,Semi-Auto,Dealer,Fair,Tesla,23262
+2011,27625,Petrol,Manual,Online Platform,Excellent,BMW,32747
+2003,37088,Petrol,Automatic,Online Platform,Fair,Toyota,10216
+2012,177239,Hybrid,Semi-Auto,Individual,Fair,BMW,5782
+2022,108937,Petrol,Automatic,Individual,Excellent,Ford,13160
+2014,81361,Diesel,Semi-Auto,Dealer,Excellent,Tesla,32858
+2010,93229,Electric,Semi-Auto,Online Platform,Excellent,Toyota,13668
+2009,140189,Hybrid,Automatic,Dealer,Poor,BMW,9041
+2002,95265,Diesel,Automatic,Online Platform,Excellent,Tesla,32617
+2021,102718,Hybrid,Semi-Auto,Individual,Excellent,Hyundai,8305
+2013,65710,Hybrid,Manual,Dealer,Poor,BMW,13328
+2015,99876,Petrol,Automatic,Dealer,Fair,BMW,17079
+2009,35949,Petrol,Semi-Auto,Online Platform,Excellent,Ford,19804
+2009,158619,Diesel,Semi-Auto,Online Platform,Good,Hyundai,5649
+2011,73136,Hybrid,Manual,Online Platform,Excellent,Ford,15125
+2008,116541,Petrol,Manual,Individual,Excellent,Hyundai,7998
+2000,66842,Petrol,Manual,Dealer,Poor,BMW,13336
+2004,31990,Hybrid,Automatic,Online Platform,Good,Ford,15110
+2019,152265,Diesel,Semi-Auto,Individual,Fair,Tesla,13971
+2007,35109,Diesel,Semi-Auto,Online Platform,Fair,Hyundai,8432
+2010,135356,Hybrid,Semi-Auto,Dealer,Good,BMW,14722
+2011,155305,Diesel,Manual,Online Platform,Excellent,Toyota,8362
+2000,133133,Petrol,Semi-Auto,Dealer,Poor,Hyundai,3051
+2021,170582,Hybrid,Automatic,Individual,Good,Hyundai,5380
+2019,6306,Petrol,Manual,Individual,Good,Tesla,35518
+2010,8849,Electric,Manual,Online Platform,Fair,Hyundai,8879
+2004,17360,Electric,Manual,Dealer,Poor,Hyundai,6500
+2014,116072,Diesel,Manual,Dealer,Good,Tesla,21909
+2004,99767,Electric,Automatic,Dealer,Poor,Tesla,14127
+2011,181872,Petrol,Semi-Auto,Online Platform,Excellent,Ford,9340
+2004,173035,Electric,Automatic,Dealer,Fair,BMW,9225
+2016,59330,Petrol,Semi-Auto,Dealer,Excellent,BMW,27691
+2016,56707,Diesel,Automatic,Dealer,Poor,Ford,8639
+2011,23689,Diesel,Manual,Dealer,Excellent,BMW,31238
+2014,34084,Petrol,Manual,Online Platform,Fair,Hyundai,8392
+2014,45387,Electric,Automatic,Online Platform,Poor,Ford,8599
+2005,79816,Diesel,Automatic,Dealer,Good,Ford,13586
+2011,7642,Hybrid,Semi-Auto,Dealer,Excellent,BMW,33399
+2019,47137,Diesel,Automatic,Individual,Fair,Toyota,10266
+2017,191633,Electric,Automatic,Individual,Good,BMW,13021
+2013,67260,Hybrid,Semi-Auto,Dealer,Fair,Toyota,9566
+2001,151510,Electric,Semi-Auto,Dealer,Poor,Ford,5440
+2008,53442,Petrol,Semi-Auto,Individual,Poor,Toyota,6783
+2004,108061,Hybrid,Automatic,Individual,Excellent,Hyundai,10213
+2019,139066,Electric,Semi-Auto,Dealer,Fair,Tesla,16582
+2000,130844,Hybrid,Manual,Online Platform,Fair,Toyota,6672
+2022,104575,Electric,Manual,Online Platform,Fair,Tesla,17701
+2002,6813,Hybrid,Manual,Dealer,Poor,Hyundai,6743
+2005,98027,Electric,Automatic,Dealer,Excellent,Tesla,32033
+2004,128489,Petrol,Manual,Individual,Fair,Hyundai,5864
+2020,89381,Hybrid,Automatic,Individual,Fair,Tesla,18596
+2004,60276,Hybrid,Automatic,Online Platform,Good,Tesla,29891
+2000,46243,Hybrid,Manual,Dealer,Fair,BMW,21907
+2016,198984,Hybrid,Semi-Auto,Individual,Excellent,Toyota,6041
+2018,65272,Petrol,Automatic,Online Platform,Good,Tesla,26782
+2013,178123,Hybrid,Manual,Online Platform,Good,Ford,6418
+2011,70618,Diesel,Automatic,Online Platform,Good,BMW,23999
+2009,6920,Petrol,Semi-Auto,Individual,Poor,Toyota,8600
+2019,111121,Diesel,Semi-Auto,Individual,Good,BMW,18185
+2020,81872,Hybrid,Manual,Dealer,Fair,Toyota,8718
+2017,86132,Electric,Automatic,Dealer,Poor,Hyundai,4838
+2010,7093,Diesel,Automatic,Online Platform,Poor,Tesla,22108
+2001,17905,Hybrid,Automatic,Online Platform,Poor,Ford,10678
+2017,126759,Diesel,Automatic,Individual,Poor,BMW,10463
+2006,160423,Hybrid,Manual,Individual,Poor,BMW,7608
+2014,35981,Hybrid,Semi-Auto,Dealer,Poor,BMW,15123
+2010,78903,Hybrid,Manual,Dealer,Poor,BMW,12508
+2017,75821,Electric,Automatic,Dealer,Good,Tesla,24000
+2022,114200,Diesel,Automatic,Individual,Excellent,Toyota,11438
+2011,87289,Petrol,Semi-Auto,Online Platform,Fair,Tesla,18953
+2005,121506,Petrol,Automatic,Dealer,Fair,Hyundai,5376
+2019,83513,Petrol,Manual,Dealer,Good,Tesla,23832
+2022,155946,Petrol,Manual,Individual,Good,Tesla,18562
+2012,187003,Hybrid,Semi-Auto,Dealer,Poor,Hyundai,2438
+2019,143746,Diesel,Manual,Online Platform,Excellent,Tesla,24540
+2015,55516,Diesel,Manual,Individual,Poor,Toyota,7205
+2017,196758,Electric,Manual,Dealer,Good,Ford,5073
+2009,74212,Diesel,Manual,Dealer,Poor,Hyundai,5587
+2022,138498,Diesel,Automatic,Individual,Fair,BMW,13984
+2007,135970,Diesel,Manual,Individual,Fair,Toyota,6046
+2017,95009,Electric,Semi-Auto,Dealer,Poor,Ford,7413
+2020,166015,Petrol,Semi-Auto,Online Platform,Excellent,Toyota,8325
+2000,49816,Diesel,Manual,Individual,Poor,Toyota,7548
+2022,9138,Electric,Semi-Auto,Online Platform,Poor,BMW,17039
+2007,96176,Electric,Manual,Dealer,Excellent,Ford,15627
+2005,80945,Hybrid,Semi-Auto,Online Platform,Excellent,Toyota,12917
+2004,9017,Electric,Semi-Auto,Dealer,Excellent,BMW,33827
+2014,15451,Petrol,Manual,Dealer,Fair,Hyundai,8258
+2021,199028,Diesel,Manual,Dealer,Poor,BMW,4478
+2014,98863,Electric,Automatic,Dealer,Good,Tesla,23843
+2001,15278,Petrol,Manual,Online Platform,Excellent,BMW,34027
+2000,48764,Electric,Manual,Dealer,Excellent,BMW,31745
+2022,128030,Electric,Automatic,Dealer,Poor,BMW,11335
+2022,137206,Electric,Manual,Online Platform,Good,Toyota,7955
+2010,67943,Electric,Manual,Individual,Poor,Ford,8866
+2009,100667,Electric,Automatic,Online Platform,Poor,BMW,11454
+2017,59318,Petrol,Manual,Online Platform,Excellent,BMW,28612
+2017,108423,Diesel,Manual,Online Platform,Excellent,Tesla,26445
+2016,108998,Diesel,Automatic,Dealer,Fair,Tesla,20037
+2007,65128,Diesel,Automatic,Dealer,Good,Hyundai,8627
+2014,26869,Diesel,Semi-Auto,Dealer,Good,Hyundai,10960
+2007,10039,Petrol,Manual,Individual,Excellent,Tesla,39132
+2016,157353,Hybrid,Semi-Auto,Dealer,Excellent,Ford,9947
+2011,117935,Hybrid,Semi-Auto,Individual,Excellent,Hyundai,8493
+2007,15442,Petrol,Automatic,Dealer,Good,Ford,17138
+2013,78788,Petrol,Manual,Online Platform,Fair,Tesla,22532
+2003,124729,Electric,Manual,Dealer,Good,Hyundai,8152
+2000,32586,Electric,Automatic,Individual,Excellent,BMW,33271
+2000,58053,Electric,Semi-Auto,Individual,Excellent,Tesla,31816
+2018,186561,Diesel,Automatic,Dealer,Fair,Hyundai,3546
+2015,91346,Electric,Manual,Online Platform,Poor,Ford,7652
+2013,72087,Hybrid,Automatic,Dealer,Poor,Ford,7985
+2020,148697,Diesel,Manual,Dealer,Good,Hyundai,5885
+2015,39397,Electric,Semi-Auto,Dealer,Poor,Ford,9343
+2004,63671,Diesel,Manual,Online Platform,Poor,Hyundai,5949
+2008,121214,Hybrid,Semi-Auto,Individual,Good,Hyundai,7469
+2001,71897,Electric,Semi-Auto,Online Platform,Excellent,Ford,15764
+2017,162221,Hybrid,Manual,Individual,Poor,Toyota,4400
+2005,196102,Hybrid,Manual,Individual,Excellent,BMW,15571
+2008,141355,Hybrid,Semi-Auto,Individual,Good,Tesla,15860
+2000,143682,Electric,Automatic,Online Platform,Excellent,BMW,17970
+2008,179398,Petrol,Manual,Dealer,Excellent,Tesla,15806
+2015,19924,Electric,Semi-Auto,Dealer,Good,Tesla,32815
+2012,118143,Hybrid,Semi-Auto,Dealer,Excellent,BMW,18539
+2008,115253,Electric,Automatic,Dealer,Poor,Hyundai,4923
+2020,105297,Hybrid,Manual,Dealer,Poor,Ford,7034
+2012,5869,Petrol,Semi-Auto,Online Platform,Poor,Toyota,8958
+2008,102088,Diesel,Automatic,Online Platform,Poor,Toyota,6019
+2010,6014,Petrol,Semi-Auto,Online Platform,Excellent,Toyota,17174
+2003,15103,Petrol,Manual,Online Platform,Poor,BMW,17722
+2001,115317,Diesel,Automatic,Online Platform,Excellent,BMW,22171
+2005,169530,Electric,Semi-Auto,Online Platform,Fair,Hyundai,3174
+2013,87409,Diesel,Automatic,Online Platform,Excellent,Toyota,12658
+2003,28248,Electric,Manual,Dealer,Poor,Hyundai,6422
+2005,179588,Electric,Automatic,Individual,Fair,Toyota,5234
+2018,165133,Hybrid,Manual,Online Platform,Good,BMW,17538
+2005,160242,Hybrid,Semi-Auto,Individual,Excellent,Ford,10470
+2001,13024,Diesel,Manual,Online Platform,Poor,Ford,11475
+2017,90947,Petrol,Semi-Auto,Online Platform,Poor,Ford,7155
+2012,179875,Diesel,Semi-Auto,Dealer,Poor,Ford,3988
+2008,155368,Electric,Manual,Individual,Good,Tesla,16442
+2022,96829,Hybrid,Semi-Auto,Dealer,Fair,Toyota,8381
+2018,97708,Diesel,Automatic,Dealer,Fair,Ford,9248
+2012,91664,Diesel,Semi-Auto,Individual,Poor,Tesla,12891
+2010,154329,Hybrid,Manual,Dealer,Excellent,Tesla,20442
+2000,148927,Hybrid,Automatic,Online Platform,Poor,Tesla,9374
+2021,90178,Hybrid,Automatic,Online Platform,Poor,Hyundai,5437
+2006,106121,Electric,Semi-Auto,Online Platform,Excellent,Hyundai,9769
+2020,25025,Hybrid,Semi-Auto,Online Platform,Poor,Tesla,18450
+2014,140530,Petrol,Manual,Online Platform,Good,Ford,9978
+2000,68610,Diesel,Automatic,Dealer,Poor,Toyota,6695
+2011,75843,Hybrid,Manual,Dealer,Good,BMW,22337
+2006,112237,Hybrid,Semi-Auto,Online Platform,Poor,Hyundai,4491
+2014,185903,Electric,Automatic,Online Platform,Fair,Ford,5235
+2020,179499,Electric,Manual,Dealer,Excellent,Ford,9573
+2018,135299,Diesel,Manual,Individual,Fair,BMW,11833
+2000,174578,Petrol,Manual,Dealer,Poor,BMW,8008
+2016,10668,Diesel,Manual,Dealer,Poor,Ford,10580
+2016,183267,Hybrid,Manual,Dealer,Good,BMW,9566
+2002,78233,Petrol,Automatic,Dealer,Poor,Ford,7554
+2011,160489,Petrol,Manual,Dealer,Poor,BMW,7386
+2005,86982,Petrol,Automatic,Individual,Poor,BMW,12451
+2010,111133,Petrol,Manual,Online Platform,Fair,Ford,9100
+2002,15751,Diesel,Semi-Auto,Online Platform,Good,Tesla,31537
+2007,51218,Electric,Semi-Auto,Individual,Fair,Ford,12639
+2013,131649,Electric,Manual,Online Platform,Good,Toyota,9210
+2013,12352,Hybrid,Semi-Auto,Online Platform,Fair,BMW,24493
+2009,93835,Electric,Automatic,Online Platform,Poor,Hyundai,3969
+2001,102493,Electric,Manual,Individual,Fair,BMW,18138
+2013,33927,Electric,Automatic,Individual,Fair,Toyota,10742
+2008,177166,Electric,Manual,Online Platform,Good,Hyundai,4941
+2002,106948,Hybrid,Semi-Auto,Online Platform,Good,Hyundai,7660
+2020,190194,Diesel,Automatic,Online Platform,Fair,Ford,4319
+2007,34493,Petrol,Semi-Auto,Dealer,Good,Tesla,31605
+2015,36707,Electric,Semi-Auto,Dealer,Good,Ford,17248
+2001,143368,Diesel,Manual,Dealer,Good,Hyundai,6357
+2005,161470,Electric,Automatic,Individual,Excellent,Hyundai,5846
+2020,40842,Electric,Semi-Auto,Online Platform,Good,Tesla,27565
+2011,18261,Petrol,Manual,Individual,Excellent,BMW,33279
+2004,81709,Petrol,Manual,Individual,Excellent,Tesla,28998
+2001,100985,Petrol,Manual,Individual,Good,Ford,12573
+2015,111616,Electric,Semi-Auto,Online Platform,Fair,BMW,16715
+2004,192776,Electric,Manual,Dealer,Good,Ford,6856
+2014,72173,Electric,Automatic,Online Platform,Poor,Tesla,15858
+2011,36781,Petrol,Automatic,Online Platform,Fair,BMW,20898
+2003,18652,Hybrid,Semi-Auto,Individual,Excellent,Tesla,39537
+2014,10103,Diesel,Automatic,Individual,Excellent,Toyota,16349
+2010,30500,Hybrid,Manual,Individual,Fair,Hyundai,8913
+2015,105336,Electric,Semi-Auto,Dealer,Fair,BMW,14276
+2022,171601,Electric,Manual,Dealer,Good,Hyundai,5805
+2005,118499,Hybrid,Semi-Auto,Dealer,Excellent,Toyota,10563
+2013,154524,Electric,Semi-Auto,Online Platform,Poor,BMW,9476
+2017,54393,Diesel,Manual,Individual,Good,Hyundai,8940
+2011,167246,Electric,Automatic,Online Platform,Fair,Hyundai,4643
+2010,171508,Diesel,Automatic,Dealer,Excellent,BMW,17871
+2012,52406,Hybrid,Semi-Auto,Individual,Fair,Hyundai,7307
+2020,68059,Hybrid,Manual,Dealer,Fair,Hyundai,7367
+2022,152026,Electric,Manual,Individual,Fair,BMW,12239
+2010,87722,Diesel,Semi-Auto,Individual,Good,Hyundai,8721
+2022,17356,Electric,Automatic,Online Platform,Poor,Hyundai,6661
+2015,133128,Petrol,Manual,Online Platform,Poor,Ford,5728
+2014,7187,Petrol,Automatic,Dealer,Excellent,Ford,21356
+2020,82243,Petrol,Automatic,Online Platform,Fair,Toyota,8921
+2014,40098,Petrol,Semi-Auto,Online Platform,Poor,Ford,9017
+2003,157297,Electric,Semi-Auto,Online Platform,Fair,Ford,6255
+2010,139678,Petrol,Automatic,Individual,Excellent,Toyota,10709
+2018,62620,Diesel,Manual,Online Platform,Fair,Hyundai,7647
+2014,168900,Hybrid,Manual,Dealer,Poor,Hyundai,2328
+2003,131270,Hybrid,Semi-Auto,Individual,Fair,Ford,8975
+2020,162561,Petrol,Automatic,Individual,Poor,Toyota,3854
+2012,19387,Petrol,Manual,Online Platform,Excellent,Hyundai,13517
+2021,74463,Petrol,Manual,Individual,Fair,Tesla,21574
+2018,138663,Electric,Semi-Auto,Dealer,Poor,BMW,8344
+2001,184588,Hybrid,Automatic,Dealer,Excellent,BMW,13329
+2013,96683,Petrol,Manual,Individual,Fair,BMW,17846
+2003,67061,Diesel,Semi-Auto,Online Platform,Excellent,Ford,17948
+2015,86257,Petrol,Manual,Online Platform,Poor,BMW,12563
+2020,66753,Hybrid,Manual,Individual,Fair,BMW,19518
+2019,89774,Petrol,Manual,Dealer,Fair,Tesla,20807
+2013,147159,Hybrid,Semi-Auto,Individual,Fair,Hyundai,5273
+2014,166888,Petrol,Automatic,Online Platform,Excellent,Tesla,16229
+2002,28408,Diesel,Semi-Auto,Online Platform,Excellent,Ford,21327
+2007,129116,Petrol,Automatic,Individual,Poor,BMW,9835
+2015,136208,Diesel,Manual,Dealer,Good,Hyundai,6617
+2009,22413,Diesel,Automatic,Individual,Fair,BMW,21785
+2003,118650,Petrol,Manual,Dealer,Fair,BMW,14783
+2017,64500,Diesel,Manual,Dealer,Poor,Ford,8011
+2001,89514,Electric,Semi-Auto,Individual,Fair,BMW,16568
+2016,61358,Petrol,Manual,Individual,Excellent,Toyota,14483
+2012,71197,Petrol,Semi-Auto,Dealer,Excellent,Hyundai,11864
+2003,168926,Diesel,Automatic,Dealer,Fair,Hyundai,4724
+2010,81240,Diesel,Automatic,Dealer,Fair,Toyota,9443
+2006,21322,Petrol,Manual,Dealer,Excellent,Ford,21002
+2011,118053,Electric,Semi-Auto,Online Platform,Fair,BMW,16771
+2009,11968,Diesel,Manual,Individual,Excellent,BMW,34041
+2006,32518,Diesel,Semi-Auto,Dealer,Good,Hyundai,10604
+2012,56925,Hybrid,Semi-Auto,Individual,Good,Ford,14405
+2006,195920,Electric,Semi-Auto,Dealer,Fair,Ford,4951
+2016,116900,Electric,Automatic,Individual,Fair,Ford,7754
+2009,98422,Petrol,Semi-Auto,Individual,Fair,BMW,16443
+2009,6700,Electric,Automatic,Dealer,Excellent,Ford,21653
+2003,98782,Petrol,Semi-Auto,Dealer,Good,Toyota,9867
+2019,28199,Hybrid,Automatic,Individual,Good,Tesla,28634
+2003,180661,Electric,Automatic,Individual,Poor,Ford,4307
+2021,168187,Diesel,Automatic,Individual,Poor,Tesla,7867
+2006,198006,Hybrid,Manual,Online Platform,Fair,BMW,8672
+2021,190388,Petrol,Semi-Auto,Dealer,Excellent,Ford,8020
+2000,10520,Hybrid,Manual,Online Platform,Fair,Hyundai,9367
+2011,114814,Petrol,Semi-Auto,Online Platform,Good,BMW,16927
+2012,172527,Hybrid,Semi-Auto,Dealer,Fair,Toyota,5855
+2009,128364,Petrol,Manual,Dealer,Fair,Toyota,6967
+2014,177677,Electric,Automatic,Online Platform,Good,Tesla,12671
+2012,19955,Diesel,Semi-Auto,Dealer,Good,Tesla,33686
+2022,180121,Petrol,Automatic,Individual,Good,Hyundai,4853
+2021,149989,Hybrid,Manual,Individual,Good,Hyundai,7102
+2021,69925,Petrol,Automatic,Online Platform,Poor,Toyota,6653
+2020,112216,Petrol,Semi-Auto,Online Platform,Excellent,Ford,12173
+2021,75269,Petrol,Semi-Auto,Dealer,Excellent,Toyota,13744
+2008,167026,Hybrid,Semi-Auto,Dealer,Good,Toyota,7407
+2008,46458,Diesel,Manual,Online Platform,Excellent,Hyundai,13842
+2014,94037,Electric,Semi-Auto,Online Platform,Excellent,Tesla,36013
+2009,157185,Diesel,Manual,Individual,Excellent,Hyundai,5737
+2009,104977,Petrol,Automatic,Individual,Excellent,Hyundai,9263
+2007,48939,Hybrid,Semi-Auto,Dealer,Good,Hyundai,9295
+2015,34345,Diesel,Semi-Auto,Individual,Fair,Toyota,10477
+2016,182385,Petrol,Semi-Auto,Dealer,Fair,Ford,7429
+2004,115107,Electric,Automatic,Dealer,Fair,Toyota,6903
+2003,126866,Electric,Semi-Auto,Dealer,Poor,BMW,10368
+2017,74166,Electric,Manual,Individual,Excellent,Hyundai,10421
+2018,183933,Petrol,Automatic,Online Platform,Good,Hyundai,4040
+2003,102406,Hybrid,Automatic,Online Platform,Good,BMW,22448
+2006,54298,Diesel,Automatic,Individual,Poor,Hyundai,5342
+2009,183293,Electric,Automatic,Online Platform,Good,Hyundai,4618
+2017,49942,Petrol,Automatic,Dealer,Fair,Hyundai,8044
+2018,8453,Petrol,Manual,Online Platform,Poor,BMW,17463
+2003,107811,Diesel,Automatic,Individual,Good,Toyota,9372
+2009,59935,Electric,Semi-Auto,Online Platform,Poor,Hyundai,6342
+2000,127439,Petrol,Automatic,Dealer,Poor,Ford,5071
+2022,179442,Diesel,Automatic,Dealer,Good,BMW,12710
+2017,13328,Hybrid,Automatic,Individual,Fair,Tesla,27429
+2004,20534,Hybrid,Automatic,Individual,Good,BMW,28377
+2014,90280,Hybrid,Automatic,Individual,Excellent,Toyota,11835
+2016,41320,Electric,Manual,Dealer,Excellent,BMW,33210
+2002,54170,Diesel,Manual,Online Platform,Good,Tesla,30701
+2011,105546,Diesel,Automatic,Online Platform,Fair,Ford,8710
+2001,85201,Petrol,Manual,Individual,Excellent,Tesla,27556
+2000,13640,Petrol,Semi-Auto,Online Platform,Excellent,BMW,31859
+2022,166121,Petrol,Automatic,Online Platform,Good,Tesla,16013
+2020,141690,Diesel,Semi-Auto,Individual,Good,BMW,15901
+2016,192125,Petrol,Semi-Auto,Individual,Good,Ford,6147
+2021,137992,Diesel,Automatic,Dealer,Poor,Ford,6956
+2015,48937,Diesel,Semi-Auto,Dealer,Poor,Toyota,7324
+2004,148279,Hybrid,Semi-Auto,Dealer,Poor,Ford,5563
+2014,169044,Petrol,Semi-Auto,Dealer,Good,Hyundai,5121
+2002,146871,Hybrid,Automatic,Online Platform,Fair,Tesla,17040
+2006,164988,Electric,Automatic,Online Platform,Excellent,Tesla,14723
+2010,75463,Electric,Semi-Auto,Dealer,Poor,BMW,13193
+2009,98500,Electric,Automatic,Dealer,Fair,Ford,10114
+2008,42158,Diesel,Automatic,Individual,Good,Toyota,12725
+2013,89607,Diesel,Semi-Auto,Online Platform,Poor,Toyota,5724
+2012,124639,Diesel,Automatic,Online Platform,Good,Toyota,8900
+2001,76696,Petrol,Manual,Dealer,Fair,Hyundai,6367
+2002,66510,Hybrid,Automatic,Online Platform,Poor,Ford,8767
+2006,125076,Diesel,Manual,Individual,Poor,Toyota,5061
+2020,63692,Hybrid,Semi-Auto,Individual,Poor,Hyundai,5462
+2017,135841,Hybrid,Automatic,Online Platform,Poor,Tesla,12589
+2002,197816,Hybrid,Semi-Auto,Dealer,Fair,BMW,6970
+2009,20810,Petrol,Semi-Auto,Online Platform,Poor,Ford,9217
+2021,141198,Petrol,Semi-Auto,Individual,Excellent,Ford,10450
+2006,166081,Electric,Semi-Auto,Dealer,Excellent,Tesla,23047
+2008,116718,Electric,Semi-Auto,Online Platform,Good,Ford,10093
+2016,95932,Hybrid,Automatic,Dealer,Poor,Ford,7543
+2010,5192,Electric,Manual,Dealer,Excellent,Ford,22136
+2006,41413,Hybrid,Automatic,Individual,Excellent,Ford,17603
+2013,148888,Petrol,Automatic,Dealer,Excellent,Hyundai,6577
+2018,44082,Petrol,Automatic,Online Platform,Fair,Hyundai,8275
+2003,70048,Petrol,Automatic,Dealer,Poor,BMW,13999
+2005,128130,Diesel,Manual,Dealer,Fair,Ford,9220
+2009,55940,Hybrid,Automatic,Online Platform,Fair,Tesla,21702
+2006,168202,Petrol,Semi-Auto,Individual,Excellent,Toyota,7568
+2012,45142,Hybrid,Automatic,Individual,Excellent,BMW,35692
+2013,41468,Electric,Automatic,Online Platform,Good,Toyota,11582
+2003,166770,Electric,Manual,Online Platform,Poor,Toyota,3097
+2007,146727,Petrol,Manual,Individual,Poor,Ford,4770
+2004,183969,Hybrid,Semi-Auto,Dealer,Excellent,Tesla,18557
+2000,166147,Petrol,Automatic,Online Platform,Excellent,Toyota,7636
+2003,145431,Electric,Automatic,Dealer,Poor,Toyota,4439
+2002,134048,Petrol,Automatic,Online Platform,Good,BMW,15147
+2008,47056,Hybrid,Semi-Auto,Individual,Excellent,Tesla,37340
+2007,56831,Electric,Manual,Dealer,Good,Tesla,25976
+2000,64191,Diesel,Semi-Auto,Dealer,Fair,Toyota,9083
+2005,126948,Electric,Automatic,Online Platform,Excellent,Tesla,22283
+2008,169344,Diesel,Manual,Dealer,Fair,BMW,7245
+2006,113117,Petrol,Manual,Online Platform,Excellent,BMW,21565
+2003,19671,Petrol,Semi-Auto,Individual,Fair,BMW,22355
+2012,32048,Hybrid,Manual,Dealer,Excellent,Ford,18454
+2016,30963,Diesel,Manual,Online Platform,Good,Toyota,13250
+2001,48954,Petrol,Automatic,Dealer,Good,Tesla,28864
+2004,100430,Diesel,Automatic,Online Platform,Good,BMW,19757
+2011,5717,Petrol,Manual,Online Platform,Fair,Toyota,11138
+2020,16676,Electric,Manual,Online Platform,Good,Toyota,13332
+2007,140506,Petrol,Semi-Auto,Individual,Fair,Ford,7689
+2005,185882,Hybrid,Semi-Auto,Dealer,Excellent,Tesla,12876
+2007,123696,Electric,Manual,Individual,Fair,Tesla,16155
+2017,135830,Hybrid,Automatic,Online Platform,Excellent,BMW,22644
+2002,9994,Electric,Manual,Online Platform,Poor,BMW,17365
+2021,9234,Diesel,Manual,Individual,Poor,Toyota,7901
+2011,74300,Hybrid,Automatic,Individual,Poor,Tesla,15987
+2002,48949,Petrol,Automatic,Dealer,Fair,Tesla,24577
+2021,42405,Diesel,Semi-Auto,Online Platform,Poor,BMW,14739
+2005,39872,Petrol,Semi-Auto,Individual,Poor,Hyundai,6135
+2001,47215,Electric,Semi-Auto,Online Platform,Poor,Toyota,7188
+2022,28185,Electric,Semi-Auto,Online Platform,Excellent,Tesla,37083
+2011,179514,Petrol,Automatic,Dealer,Good,Ford,6630
+2001,187831,Petrol,Manual,Dealer,Fair,Ford,5697
+2005,46153,Diesel,Semi-Auto,Dealer,Poor,Hyundai,6689
+2016,82535,Petrol,Semi-Auto,Individual,Excellent,BMW,26198
+2002,138653,Hybrid,Automatic,Online Platform,Good,BMW,13822
+2001,56717,Hybrid,Automatic,Individual,Good,BMW,28122
+2022,7763,Petrol,Manual,Individual,Good,Ford,18058
+2019,97910,Hybrid,Manual,Dealer,Excellent,BMW,25666
+2007,60480,Petrol,Automatic,Online Platform,Poor,Ford,8588
+2021,174831,Diesel,Semi-Auto,Online Platform,Good,Hyundai,5146
+2011,123094,Hybrid,Semi-Auto,Dealer,Excellent,Toyota,10306
+2003,161379,Hybrid,Semi-Auto,Online Platform,Excellent,Tesla,21304
+2004,16064,Petrol,Manual,Dealer,Fair,Hyundai,8856
+2012,81848,Hybrid,Semi-Auto,Individual,Excellent,Ford,16235
+2014,42548,Electric,Semi-Auto,Individual,Good,Hyundai,10879
+2022,173017,Diesel,Automatic,Dealer,Good,Tesla,16995
+2015,184009,Diesel,Semi-Auto,Individual,Excellent,Toyota,7888
+2009,11476,Hybrid,Automatic,Individual,Good,Tesla,31869
+2022,187828,Hybrid,Semi-Auto,Dealer,Excellent,Ford,9774
+2015,95101,Electric,Manual,Individual,Good,Tesla,25067
+2011,7382,Electric,Semi-Auto,Online Platform,Fair,Hyundai,9510
+2016,185755,Hybrid,Semi-Auto,Individual,Poor,BMW,7233
+2015,181348,Hybrid,Automatic,Dealer,Fair,Hyundai,3720
+2011,169474,Electric,Automatic,Online Platform,Fair,Ford,5929
+2007,163018,Petrol,Automatic,Online Platform,Poor,Toyota,3943
+2019,84698,Electric,Semi-Auto,Individual,Good,Tesla,27372
+2002,158407,Petrol,Semi-Auto,Online Platform,Poor,Toyota,4284
+2015,50095,Diesel,Manual,Dealer,Excellent,Ford,18297
+2012,134974,Diesel,Semi-Auto,Online Platform,Poor,Tesla,11614
+2022,32197,Electric,Manual,Individual,Fair,Hyundai,8249
+2018,132619,Petrol,Automatic,Individual,Poor,Hyundai,3244
+2007,27010,Electric,Automatic,Online Platform,Good,Ford,17071
+2021,160195,Electric,Automatic,Dealer,Fair,Tesla,13976
+2004,92923,Petrol,Manual,Dealer,Excellent,Hyundai,9931
+2019,138962,Electric,Semi-Auto,Individual,Good,Ford,8681
+2007,135526,Diesel,Automatic,Individual,Fair,Ford,9205
+2011,114162,Hybrid,Semi-Auto,Dealer,Excellent,Toyota,10843
+2000,125927,Hybrid,Semi-Auto,Online Platform,Good,Hyundai,7111
+2020,13026,Electric,Automatic,Online Platform,Excellent,Tesla,38699
+2019,69925,Petrol,Manual,Online Platform,Poor,Hyundai,5035
+2005,73842,Petrol,Semi-Auto,Online Platform,Poor,Hyundai,5640
+2021,38665,Diesel,Automatic,Dealer,Excellent,Hyundai,11463
+2017,14277,Petrol,Semi-Auto,Individual,Poor,Ford,10409
+2007,178311,Petrol,Semi-Auto,Individual,Excellent,BMW,15020
+2006,183736,Diesel,Semi-Auto,Online Platform,Good,BMW,9946
+2000,53008,Electric,Semi-Auto,Dealer,Fair,Toyota,9101
+2020,19683,Hybrid,Semi-Auto,Dealer,Excellent,Hyundai,12900
+2015,136742,Diesel,Manual,Online Platform,Fair,BMW,12307
+2011,153961,Electric,Manual,Online Platform,Fair,Toyota,4923
+2005,191684,Diesel,Automatic,Online Platform,Excellent,Ford,6583
+2019,180607,Electric,Manual,Individual,Poor,Hyundai,2892
+2001,83542,Diesel,Manual,Online Platform,Good,Tesla,28735
+2013,59319,Electric,Manual,Individual,Fair,Ford,12278
+2003,97067,Diesel,Semi-Auto,Dealer,Good,Toyota,10267
+2000,157711,Electric,Semi-Auto,Dealer,Fair,Ford,7642
+2022,152705,Diesel,Automatic,Individual,Excellent,Tesla,23047
+2017,170732,Hybrid,Automatic,Individual,Poor,Ford,4488
+2012,73975,Hybrid,Automatic,Individual,Good,Toyota,11494
+2001,168244,Petrol,Semi-Auto,Individual,Fair,Tesla,13666
+2008,195269,Electric,Manual,Online Platform,Excellent,Tesla,17002
+2020,106158,Diesel,Manual,Dealer,Excellent,Ford,15170
+2001,194919,Electric,Semi-Auto,Online Platform,Fair,Tesla,8369
+2008,16577,Hybrid,Automatic,Individual,Fair,Ford,14450
+2000,82299,Electric,Automatic,Online Platform,Fair,Hyundai,7858
+2010,25176,Diesel,Automatic,Online Platform,Poor,Tesla,20805
+2002,180458,Electric,Semi-Auto,Dealer,Fair,Ford,4956
+2019,68972,Diesel,Automatic,Online Platform,Fair,Hyundai,6751
+2022,125018,Hybrid,Automatic,Dealer,Poor,Tesla,12737
+2003,177075,Hybrid,Semi-Auto,Individual,Excellent,Hyundai,6962
+2017,24996,Hybrid,Manual,Online Platform,Fair,Tesla,25983
+2022,105922,Petrol,Semi-Auto,Individual,Good,Toyota,9527
+2005,91598,Hybrid,Semi-Auto,Dealer,Excellent,Toyota,12422
+2002,40931,Electric,Semi-Auto,Individual,Good,Ford,16462
+2021,129168,Petrol,Semi-Auto,Individual,Fair,BMW,13280
+2010,171782,Hybrid,Manual,Dealer,Poor,Toyota,4062
+2014,128099,Electric,Automatic,Individual,Poor,BMW,10196
+2021,39693,Electric,Semi-Auto,Individual,Poor,Hyundai,5927
+2004,171812,Electric,Manual,Individual,Fair,Hyundai,3638
+2019,113944,Diesel,Automatic,Online Platform,Fair,BMW,15514
+2009,22374,Petrol,Automatic,Individual,Good,Ford,14222
+2011,86471,Electric,Automatic,Dealer,Poor,Tesla,15450
+2014,50913,Diesel,Semi-Auto,Online Platform,Fair,BMW,19722
+2016,128683,Hybrid,Semi-Auto,Online Platform,Excellent,BMW,22260
+2009,49516,Electric,Automatic,Dealer,Fair,BMW,20760
+2005,92796,Diesel,Automatic,Individual,Fair,BMW,16629
+2017,31069,Electric,Automatic,Online Platform,Excellent,BMW,30350
+2012,123333,Petrol,Automatic,Online Platform,Poor,Ford,5812
+2002,192305,Petrol,Automatic,Online Platform,Excellent,Toyota,5881
+2009,89811,Hybrid,Automatic,Individual,Poor,Tesla,15625
+2013,195121,Electric,Manual,Online Platform,Excellent,Toyota,7884
+2005,123028,Diesel,Automatic,Dealer,Good,BMW,18192
+2002,44178,Hybrid,Semi-Auto,Individual,Poor,Toyota,7409
+2015,37821,Electric,Semi-Auto,Dealer,Fair,Ford,12235
+2006,187799,Hybrid,Semi-Auto,Dealer,Good,Hyundai,4224
+2019,197007,Diesel,Automatic,Online Platform,Poor,Toyota,3557
+2013,21999,Hybrid,Semi-Auto,Online Platform,Poor,Tesla,18978
+2008,198594,Hybrid,Manual,Online Platform,Poor,Ford,3627
+2014,43712,Hybrid,Automatic,Dealer,Excellent,Hyundai,13270
+2020,176244,Electric,Semi-Auto,Individual,Poor,Ford,4148
+2002,38722,Diesel,Manual,Online Platform,Fair,BMW,21570
+2001,15625,Petrol,Manual,Online Platform,Poor,Hyundai,7149
+2001,11859,Electric,Semi-Auto,Dealer,Fair,Tesla,26981
+2002,177681,Petrol,Manual,Individual,Fair,Hyundai,4852
+2017,179379,Petrol,Semi-Auto,Dealer,Fair,Tesla,13589
+2013,115986,Electric,Manual,Online Platform,Good,BMW,18796
+2019,26839,Electric,Automatic,Dealer,Fair,Tesla,24369
+2017,32216,Diesel,Automatic,Online Platform,Excellent,Ford,18463
+2009,57953,Diesel,Automatic,Individual,Poor,Toyota,7357
+2001,196665,Hybrid,Automatic,Dealer,Excellent,Ford,6262
+2021,54522,Petrol,Automatic,Online Platform,Good,Ford,14970
+2000,140958,Diesel,Semi-Auto,Online Platform,Poor,Hyundai,4424
+2003,116249,Hybrid,Automatic,Online Platform,Fair,BMW,14775
+2013,12485,Diesel,Automatic,Online Platform,Poor,Toyota,8616
+2000,167527,Electric,Automatic,Dealer,Good,Tesla,16948
+2013,152839,Diesel,Automatic,Online Platform,Good,Hyundai,6201
+2015,117701,Petrol,Manual,Dealer,Excellent,BMW,19808
+2021,164525,Diesel,Automatic,Online Platform,Poor,Toyota,3859
+2013,107638,Petrol,Automatic,Dealer,Poor,Ford,7947
+2019,189514,Electric,Semi-Auto,Dealer,Poor,BMW,6922
+2002,187949,Petrol,Manual,Online Platform,Excellent,BMW,11634
+2002,17226,Diesel,Semi-Auto,Online Platform,Good,BMW,27989
+2008,98405,Hybrid,Automatic,Online Platform,Fair,Ford,8393
+2005,27588,Electric,Semi-Auto,Online Platform,Poor,Tesla,17118
+2012,167781,Diesel,Semi-Auto,Individual,Excellent,Hyundai,7053
+2020,183860,Electric,Automatic,Online Platform,Excellent,Tesla,16250
+2001,42019,Electric,Manual,Online Platform,Fair,Toyota,10630
+2007,181020,Diesel,Manual,Online Platform,Good,Hyundai,5453
+2020,70133,Diesel,Semi-Auto,Dealer,Poor,Toyota,7048
+2001,119444,Hybrid,Automatic,Online Platform,Poor,Ford,6895
+2003,122603,Electric,Semi-Auto,Dealer,Excellent,Tesla,25375
+2014,163598,Electric,Semi-Auto,Dealer,Good,BMW,15569
+2003,133585,Diesel,Semi-Auto,Dealer,Poor,Hyundai,4632
+2012,188270,Petrol,Automatic,Dealer,Fair,BMW,9177
+2011,48395,Diesel,Automatic,Individual,Good,Toyota,12698
+2012,160103,Electric,Manual,Online Platform,Good,BMW,14469
+2013,130814,Diesel,Automatic,Dealer,Excellent,BMW,20112
+2019,173773,Hybrid,Semi-Auto,Online Platform,Excellent,Ford,8656
+2017,117599,Petrol,Semi-Auto,Dealer,Poor,Ford,7132
+2005,30939,Diesel,Manual,Individual,Excellent,Tesla,36830
+2010,185217,Hybrid,Automatic,Dealer,Good,Toyota,5396
+2001,156396,Electric,Semi-Auto,Online Platform,Poor,Ford,5654
+2022,158939,Diesel,Manual,Online Platform,Poor,Ford,5604
+2018,5203,Electric,Manual,Individual,Good,Tesla,38476
+2018,152616,Hybrid,Semi-Auto,Online Platform,Poor,Hyundai,3976
+2004,151971,Electric,Semi-Auto,Online Platform,Fair,Tesla,14973
+2018,34063,Hybrid,Automatic,Dealer,Fair,BMW,22440
+2001,95880,Hybrid,Manual,Online Platform,Poor,BMW,12114
+2009,8748,Hybrid,Semi-Auto,Dealer,Excellent,Ford,21577
+2001,122269,Diesel,Manual,Individual,Fair,Ford,8970
+2010,85764,Electric,Automatic,Online Platform,Poor,Tesla,14427
+2017,156956,Electric,Semi-Auto,Dealer,Fair,Tesla,13282
+2014,161255,Petrol,Automatic,Online Platform,Excellent,Toyota,9181
+2008,113036,Petrol,Manual,Dealer,Good,BMW,18668
+2022,155331,Petrol,Automatic,Individual,Poor,Tesla,10768
+2018,172031,Petrol,Automatic,Dealer,Poor,Hyundai,3394
+2008,121525,Electric,Manual,Online Platform,Poor,Toyota,5736
+2002,169529,Hybrid,Automatic,Dealer,Poor,Tesla,10950
+2020,90679,Hybrid,Manual,Online Platform,Poor,Ford,7221
+2008,130829,Diesel,Semi-Auto,Individual,Poor,Tesla,13566
+2013,133216,Hybrid,Manual,Dealer,Excellent,Ford,12520
+2018,138175,Electric,Manual,Online Platform,Good,Ford,10460
+2006,70901,Electric,Semi-Auto,Online Platform,Excellent,BMW,28746
+2015,180607,Electric,Manual,Online Platform,Excellent,BMW,15490
+2015,152175,Diesel,Semi-Auto,Dealer,Good,Tesla,16130
+2000,103046,Petrol,Semi-Auto,Dealer,Excellent,Tesla,29247
+2003,95012,Hybrid,Manual,Dealer,Fair,Hyundai,5868
+2003,83278,Electric,Automatic,Individual,Excellent,Toyota,14889
+2006,17391,Electric,Automatic,Online Platform,Poor,Toyota,8650
+2007,107476,Petrol,Semi-Auto,Online Platform,Fair,Tesla,19592
+2016,164973,Electric,Automatic,Individual,Fair,BMW,11620
+2004,125721,Hybrid,Automatic,Individual,Good,Hyundai,6993
+2006,102537,Diesel,Manual,Dealer,Excellent,Toyota,11361
+2019,86159,Electric,Semi-Auto,Dealer,Excellent,Tesla,28404
+2019,136040,Hybrid,Semi-Auto,Dealer,Fair,BMW,14052
+2003,186429,Electric,Manual,Dealer,Excellent,BMW,14937
+2005,174509,Petrol,Automatic,Dealer,Excellent,BMW,16064
+2006,40503,Electric,Semi-Auto,Dealer,Good,Ford,15463
+2017,80403,Electric,Automatic,Individual,Fair,BMW,18063
+2004,177330,Diesel,Semi-Auto,Individual,Poor,Tesla,8142
+2019,169796,Petrol,Semi-Auto,Individual,Fair,Hyundai,3839
+2002,69286,Petrol,Semi-Auto,Online Platform,Good,Tesla,26431
+2006,79842,Diesel,Semi-Auto,Online Platform,Good,BMW,21665
+2021,109927,Electric,Automatic,Dealer,Good,Hyundai,8481
+2013,19908,Hybrid,Automatic,Individual,Excellent,Toyota,15576
+2006,186698,Petrol,Automatic,Online Platform,Fair,Toyota,4512
+2004,42228,Petrol,Automatic,Online Platform,Excellent,Tesla,37416
+2021,28386,Electric,Manual,Individual,Excellent,Hyundai,14467
+2004,182826,Electric,Semi-Auto,Online Platform,Fair,Tesla,10085
+2022,33302,Petrol,Semi-Auto,Online Platform,Good,Hyundai,9998
+2001,65815,Electric,Semi-Auto,Individual,Poor,Hyundai,5880
+2020,68344,Hybrid,Manual,Online Platform,Poor,Tesla,16389
+2021,171690,Petrol,Automatic,Individual,Fair,Hyundai,3999
+2005,116603,Hybrid,Semi-Auto,Online Platform,Fair,BMW,15196
+2014,66114,Hybrid,Automatic,Individual,Good,Hyundai,9872
+2020,30525,Electric,Automatic,Online Platform,Fair,Hyundai,8976
+2009,84818,Hybrid,Manual,Online Platform,Fair,Tesla,20506
+2022,119589,Electric,Manual,Individual,Good,Toyota,10008
+2006,150406,Diesel,Automatic,Online Platform,Good,Ford,9153
+2004,99715,Electric,Semi-Auto,Individual,Excellent,Hyundai,9644
+2000,198839,Hybrid,Semi-Auto,Individual,Fair,Ford,5369
+2012,11644,Diesel,Manual,Online Platform,Poor,Hyundai,6466
